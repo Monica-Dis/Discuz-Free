@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="spacecss"><![CDATA[]]></item>
+	<item id="layoutdata">
+		<item id="nex_abvip_box">
+			<item id="frame`framefUPGoe">
+				<item id="attr">
+					<item id="name"><![CDATA[framefUPGoe]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framefUPGoe_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framefUPGoe_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_129">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_129]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box1">
+			<item id="frame`frameDLU2ey">
+				<item id="attr">
+					<item id="name"><![CDATA[frameDLU2ey]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameDLU2ey_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameDLU2ey_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_130">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_130]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box2">
+			<item id="frame`framec3OZ6I">
+				<item id="attr">
+					<item id="name"><![CDATA[framec3OZ6I]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framec3OZ6I_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framec3OZ6I_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_131">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_131]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box3">
+			<item id="frame`frameXpUoz6">
+				<item id="attr">
+					<item id="name"><![CDATA[frameXpUoz6]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameXpUoz6_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameXpUoz6_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_132">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_132]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_contact_map">
+			<item id="frame`framedbBUpe">
+				<item id="attr">
+					<item id="name"><![CDATA[framedbBUpe]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framedbBUpe_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framedbBUpe_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_133">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_133]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_contact_intel">
+			<item id="frame`frameaZ6RqZ">
+				<item id="attr">
+					<item id="name"><![CDATA[frameaZ6RqZ]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameaZ6RqZ_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameaZ6RqZ_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_134">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_134]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box5">
+			<item id="frame`framedG1BLB">
+				<item id="attr">
+					<item id="name"><![CDATA[framedG1BLB]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framedG1BLB_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framedG1BLB_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_135">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_135]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box6">
+			<item id="frame`frameDelRir">
+				<item id="attr">
+					<item id="name"><![CDATA[frameDelRir]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameDelRir_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameDelRir_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_136">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_136]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box7">
+			<item id="frame`frameMRY6uI">
+				<item id="attr">
+					<item id="name"><![CDATA[frameMRY6uI]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameMRY6uI_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameMRY6uI_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_137">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_137]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_abvip_box8">
+			<item id="frame`frameH36TOT">
+				<item id="attr">
+					<item id="name"><![CDATA[frameH36TOT]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameH36TOT_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameH36TOT_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_138">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_138]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</item>
+	<item id="blockdata">
+		<item id="block">
+			<item id="129">
+				<item id="bid"><![CDATA[129]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[intro]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>Ò»¡¢VIP»áÔ±½éÉÜ</h2>
+                        <div class="nex_abvip_line">±¾Õ¾Å¬Á¦ÊÕ¼¯»¥ÁªÍøÉÏ¹²Ïí³öÀ´µÄÉè¼ÆËØ²Ä£¬Îª´ËÎÒÃÇ¸¶ÖîÖÚ¶àÐÄÑªºÍ¾«Á¦¡£ÎªÁË±£Ö¤Î´À´±¾Õ¾ÄÜ¹»³ÖÐø¸üÐÂ×ÊÔ´ºÍ±£Ö¤¹²Ïí×ÊÔ´µÄ¸ßÖÊÁ¿£¬²ÅÆôÓÃVIP»áÔ±»úÖÆ¡£</div>
+                        <div class="nex_abvip_line"><font color="#FF5700">×¢Òâ£¬VIP»áÔ±ËùÓÐÖ§¸¶µÄ·ÑÓÃ½öÓÃÓÚ¾èÏ×±¾Õ¾·þÎñÆ÷ÓòÃû¹ºÂò¡¢ÍøÕ¾Î¬»¤ºÍÆäËûÍøÕ¾ÔÓ·Ñ¡£¶ø²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´Ê¹ÓÃÈ¨»òÕß°æÈ¨¡£ÈôÓÃ»§ÐèÒªÉÌÓÃ±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´£¬¾ùÐèÒªÏò×ÊÔ´°æÈ¨ÕßÖ§¸¶°æÈ¨·ÑÓÃ¡£</font></div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>Ò»¡¢VIP»áÔ±½éÉÜ</h2>
+                        <div class=\"nex_abvip_line\">±¾Õ¾Å¬Á¦ÊÕ¼¯»¥ÁªÍøÉÏ¹²Ïí³öÀ´µÄÉè¼ÆËØ²Ä£¬Îª´ËÎÒÃÇ¸¶ÖîÖÚ¶àÐÄÑªºÍ¾«Á¦¡£ÎªÁË±£Ö¤Î´À´±¾Õ¾ÄÜ¹»³ÖÐø¸üÐÂ×ÊÔ´ºÍ±£Ö¤¹²Ïí×ÊÔ´µÄ¸ßÖÊÁ¿£¬²ÅÆôÓÃVIP»áÔ±»úÖÆ¡£</div>
+                        <div class=\"nex_abvip_line\"><font color=\"#FF5700\">×¢Òâ£¬VIP»áÔ±ËùÓÐÖ§¸¶µÄ·ÑÓÃ½öÓÃÓÚ¾èÏ×±¾Õ¾·þÎñÆ÷ÓòÃû¹ºÂò¡¢ÍøÕ¾Î¬»¤ºÍÆäËûÍøÕ¾ÔÓ·Ñ¡£¶ø²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´Ê¹ÓÃÈ¨»òÕß°æÈ¨¡£ÈôÓÃ»§ÐèÒªÉÌÓÃ±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´£¬¾ùÐèÒªÏò×ÊÔ´°æÈ¨ÕßÖ§¸¶°æÈ¨·ÑÓÃ¡£</font></div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219999]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="130">
+				<item id="bid"><![CDATA[130]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[intro_note]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>¶þ¡¢VIP»áÔ±Ìõ¿î</h2>
+                        <div class="nex_abvip_line">Ò»µ©Äã¸¶·Ñ¹ºÂòVIP»áÔ±£¬ÒâÎ¶×ÅÈÏÍ¬ºÍ·þ´ÓÒÔÏÂÌõ¿î£º</div>
+                        <div class="nex_abvip_line">1£¬¿ªÍ¨VIP»áÔ±¾ùÊôÓÚ×ÔÔ¸ÐÐÎª¡£¿ªÍ¨ÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾VIP»áÔ±ËùÊ¹ÓÃµÄ·ÑÓÃÓÃÓÚ·þÎñÌá¸ßÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾·ÃÎÊÌåÑé£¬¹ºÂò´æ´¢ÍøÕ¾ÐÅÏ¢µÄ·þÎñÆ÷ºÍÓòÃûµÈ·ÑÓÃ¡£·ÑÓÃ²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾Ëù·ÖÏíµÄ»¥ÁªÍø×ÊÔ´£¬ÈçÐèÒªÉÌÓÃ£¬Îñ±ØÍ¨¹ýÕý¹æÇþµÀ¹ºÂò°æÈ¨¡£</div>
+                        <div class="nex_abvip_line">2£¬±¾Õ¾×÷Îª×ÊÑ¶ºÍ×ÊÔ´·ÖÏíÕ¾£¬ËùÓÐ×ÊÔ´¾ùÀ´×Ô»¥ÁªÍø¡£Èô±¾Õ¾×¢²á»áÔ±»òÕßVIP»áÔ±ÀûÓÃ±¾Õ¾·ÖÏíµÄ»¥ÁªÍø×ÊÔ´½øÐÐ¼Ó¹¤½øÐÐÉÌÓÃ»òÕßÏúÊÛ£¬ÊôÓÚÓÃ»§×ÔÉíÎÊÌâ£¬ÓÃ»§Ðè³Ðµ£Ïà¹Ø·¨ÂÉÔðÈÎ¡£</div>
+                        <div class="nex_abvip_line">3£¬±¾Õ¾²»±£Ö¤×ÊÁÏ×¼È·ÐÔ£¬¿É¿¿ÐÔ£¬¶Ô´Ë²úÉúµÄÎÊÌâ²»×öÈÎºÎ½âÊÍ.</div>
+                        <div class="nex_abvip_line">4£¬±¾Õ¾Ëù·ÖÏíµÄ×ÊÔ´»òÕßÐÅÏ¢Ò»°ãÎªÍøÓÑ¹²Ïí»òÕß±¾Õ¾ÅÀ³æ×¥È¡£¬ÀàËÆÓÚËÑË÷ÒýÇæÅÀ³æË÷Òý»¥ÁªÍø×ÊÔ´¡£Òò´Ë£¬×ÊÔ´ÊôÓÚ·ÖÏíÐÔÖÊ£¬²»ÊôÓÚÏúÊÛ··ÂôÐÔÖÊ¡£Èô±¾Õ¾ËùÌá¹©µÄÐÅÏ¢ÇÖ·¸ÁËÈ¨ÀûÈËÈ¨Òæ£¬¿ÉÒÔÁªÏµÎÒÃÇ½øÐÐÉ¾³ý£¬ÎÒÃÇ×ñÊØDMCA notices¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>¶þ¡¢VIP»áÔ±Ìõ¿î</h2>
+                        <div class=\"nex_abvip_line\">Ò»µ©Äã¸¶·Ñ¹ºÂòVIP»áÔ±£¬ÒâÎ¶×ÅÈÏÍ¬ºÍ·þ´ÓÒÔÏÂÌõ¿î£º</div>
+                        <div class=\"nex_abvip_line\">1£¬¿ªÍ¨VIP»áÔ±¾ùÊôÓÚ×ÔÔ¸ÐÐÎª¡£¿ªÍ¨ÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾VIP»áÔ±ËùÊ¹ÓÃµÄ·ÑÓÃÓÃÓÚ·þÎñÌá¸ßÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾·ÃÎÊÌåÑé£¬¹ºÂò´æ´¢ÍøÕ¾ÐÅÏ¢µÄ·þÎñÆ÷ºÍÓòÃûµÈ·ÑÓÃ¡£·ÑÓÃ²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾Ëù·ÖÏíµÄ»¥ÁªÍø×ÊÔ´£¬ÈçÐèÒªÉÌÓÃ£¬Îñ±ØÍ¨¹ýÕý¹æÇþµÀ¹ºÂò°æÈ¨¡£</div>
+                        <div class=\"nex_abvip_line\">2£¬±¾Õ¾×÷Îª×ÊÑ¶ºÍ×ÊÔ´·ÖÏíÕ¾£¬ËùÓÐ×ÊÔ´¾ùÀ´×Ô»¥ÁªÍø¡£Èô±¾Õ¾×¢²á»áÔ±»òÕßVIP»áÔ±ÀûÓÃ±¾Õ¾·ÖÏíµÄ»¥ÁªÍø×ÊÔ´½øÐÐ¼Ó¹¤½øÐÐÉÌÓÃ»òÕßÏúÊÛ£¬ÊôÓÚÓÃ»§×ÔÉíÎÊÌâ£¬ÓÃ»§Ðè³Ðµ£Ïà¹Ø·¨ÂÉÔðÈÎ¡£</div>
+                        <div class=\"nex_abvip_line\">3£¬±¾Õ¾²»±£Ö¤×ÊÁÏ×¼È·ÐÔ£¬¿É¿¿ÐÔ£¬¶Ô´Ë²úÉúµÄÎÊÌâ²»×öÈÎºÎ½âÊÍ.</div>
+                        <div class=\"nex_abvip_line\">4£¬±¾Õ¾Ëù·ÖÏíµÄ×ÊÔ´»òÕßÐÅÏ¢Ò»°ãÎªÍøÓÑ¹²Ïí»òÕß±¾Õ¾ÅÀ³æ×¥È¡£¬ÀàËÆÓÚËÑË÷ÒýÇæÅÀ³æË÷Òý»¥ÁªÍø×ÊÔ´¡£Òò´Ë£¬×ÊÔ´ÊôÓÚ·ÖÏíÐÔÖÊ£¬²»ÊôÓÚÏúÊÛ··ÂôÐÔÖÊ¡£Èô±¾Õ¾ËùÌá¹©µÄÐÅÏ¢ÇÖ·¸ÁËÈ¨ÀûÈËÈ¨Òæ£¬¿ÉÒÔÁªÏµÎÒÃÇ½øÐÐÉ¾³ý£¬ÎÒÃÇ×ñÊØDMCA notices¡£</div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219888]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="131">
+				<item id="bid"><![CDATA[131]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[intro_find]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>Èý¡¢Ö§¸¶³£¼ûÎÊÌâ</h2>
+                        <div class="nex_abvip_line">ÎÊ£ºÃâ·ÑÏÂÔØ»òÕßVIP»áÔ±×¨Ïí×ÊÔ´ÄÜ·ñÖ±½ÓÉÌÓÃ£¿</div>
+                        <div class="nex_abvip_line">±¾Õ¾ËùÓÐ×ÊÔ´°æÈ¨¾ùÊôÓÚÔ­×÷ÕßËùÓÐ£¬ÕâÀïËùÌá¹©×ÊÔ´¾ùÖ»ÄÜÓÃÓÚ²Î¿¼Ñ§Ï°ÓÃ£¬ÇëÎðÖ±½ÓÉÌÓÃ¡£ÈôÓÉÓÚÉÌÓÃÒýÆð°æÈ¨¾À·×£¬Ò»ÇÐÔðÈÎ¾ùÓÉÊ¹ÓÃÕß³Ðµ£¡£</div>
+                        <div class="nex_abvip_line">ÎÊ£º¹ºÂòÁËVIP»áÔ±·þÎñºó£¬ÄÜ·ñÉêÇëÍË¿î£¿</div>
+                        <div class="nex_abvip_line">ÔÚ¹ºÂòVIP»áÔ±Ç°£¬Çë¸óÏÂ³ä·Ö¿¼ÂÇÇå³þ¡£Ò»µ©³É¹¦¿ªÍ¨VIP»áÔ±×Ê¸ñºó£¬¾ù²»ÄÜÒÔÈÎºÎÀíÓÉÉêÇëÍË¿î£¬ÇëÖªÏ¤¡£</div>
+                        <div class="nex_abvip_line">ÎÊ£ºÎªÊ²Ã´¸¶¿îÁËÎ´¿ªÍ¨VIP»áÔ±£¿</div>
+                        <div class="nex_abvip_line">ÎÒÃÇÒÑ¾­Ö§³ÖÖ§¸¶±¦ºÍÎ¢ÐÅ×ªÕËÔÞÖú·½Ê½¿ªÍ¨VIP£¬¸¶¿îÎ´ÄÜÕý³£¿ªÍ¨VIP»áÔ±£¬¿ÉÄÜÊÇÓÉÓÚ¿ªÍ¨ÈËÔ±½Ï¶à£¬Î´ÄÜ¼°Ê±´¦Àí¡£ÈôÄúÒÑ¾­È·¶¨Ö§¸¶µ«Î´¿ªÍ¨VIP£¬<a href="#">µã»÷ÕâÀï</a>£¬ÁªÏµÈË¹¤ÉóºË¿ªÍ¨VIP»áÔ±¡£</div>
+                        <div class="nex_abvip_line">ÎÊ£ºVIP»áÔ±Ê£ÓàÊ±¼ä²éÑ¯£¿</div>
+                        <div class="nex_abvip_line">Äú¿ÉÒÔµÇÂ¼ÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾£¬·ÃÎÊ¸öÈË×ÊÁÏÖÐÐÄ²é¿´VIPµ½ÆÚÊ±¼ä¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>Èý¡¢Ö§¸¶³£¼ûÎÊÌâ</h2>
+                        <div class=\"nex_abvip_line\">ÎÊ£ºÃâ·ÑÏÂÔØ»òÕßVIP»áÔ±×¨Ïí×ÊÔ´ÄÜ·ñÖ±½ÓÉÌÓÃ£¿</div>
+                        <div class=\"nex_abvip_line\">±¾Õ¾ËùÓÐ×ÊÔ´°æÈ¨¾ùÊôÓÚÔ­×÷ÕßËùÓÐ£¬ÕâÀïËùÌá¹©×ÊÔ´¾ùÖ»ÄÜÓÃÓÚ²Î¿¼Ñ§Ï°ÓÃ£¬ÇëÎðÖ±½ÓÉÌÓÃ¡£ÈôÓÉÓÚÉÌÓÃÒýÆð°æÈ¨¾À·×£¬Ò»ÇÐÔðÈÎ¾ùÓÉÊ¹ÓÃÕß³Ðµ£¡£</div>
+                        <div class=\"nex_abvip_line\">ÎÊ£º¹ºÂòÁËVIP»áÔ±·þÎñºó£¬ÄÜ·ñÉêÇëÍË¿î£¿</div>
+                        <div class=\"nex_abvip_line\">ÔÚ¹ºÂòVIP»áÔ±Ç°£¬Çë¸óÏÂ³ä·Ö¿¼ÂÇÇå³þ¡£Ò»µ©³É¹¦¿ªÍ¨VIP»áÔ±×Ê¸ñºó£¬¾ù²»ÄÜÒÔÈÎºÎÀíÓÉÉêÇëÍË¿î£¬ÇëÖªÏ¤¡£</div>
+                        <div class=\"nex_abvip_line\">ÎÊ£ºÎªÊ²Ã´¸¶¿îÁËÎ´¿ªÍ¨VIP»áÔ±£¿</div>
+                        <div class=\"nex_abvip_line\">ÎÒÃÇÒÑ¾­Ö§³ÖÖ§¸¶±¦ºÍÎ¢ÐÅ×ªÕËÔÞÖú·½Ê½¿ªÍ¨VIP£¬¸¶¿îÎ´ÄÜÕý³£¿ªÍ¨VIP»áÔ±£¬¿ÉÄÜÊÇÓÉÓÚ¿ªÍ¨ÈËÔ±½Ï¶à£¬Î´ÄÜ¼°Ê±´¦Àí¡£ÈôÄúÒÑ¾­È·¶¨Ö§¸¶µ«Î´¿ªÍ¨VIP£¬<a href=\"#\">µã»÷ÕâÀï</a>£¬ÁªÏµÈË¹¤ÉóºË¿ªÍ¨VIP»áÔ±¡£</div>
+                        <div class=\"nex_abvip_line\">ÎÊ£ºVIP»áÔ±Ê£ÓàÊ±¼ä²éÑ¯£¿</div>
+                        <div class=\"nex_abvip_line\">Äú¿ÉÒÔµÇÂ¼ÐÇµã»¥Áª£¨neoconex£©ÍøÕ¾£¬·ÃÎÊ¸öÈË×ÊÁÏÖÐÐÄ²é¿´VIPµ½ÆÚÊ±¼ä¡£</div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219721]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="132">
+				<item id="bid"><![CDATA[132]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[abt]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<div class="nex_abvip_line">ÐÇµã»¥Áª£¨neoconex.com£©ÊÇ¹úÄÚÁìÏÈµÄÉè¼ÆºÍ°ì¹«´´Òâ·þÎñÆ½Ì¨¡£2013Äê3ÔÂÐÇµã»¥ÁªÕýÊ½ÉÏÏßÔËÓª£¬Á¥ÊôÓÚÉÏº£ÐÇµã»¥ÁªÍøÂç¿Æ¼¼ÓÐÏÞ¹«Ë¾</div>
+                    <div class="nex_abvip_line">¾­¹ý4ÄêµÄËØ²Ä»ýÀÛºÍÊý¾Ý³Áµí£¬ÐÇµã»¥Áª£¨neoconex.com£©´î½¨ÁËÒ»¸öÒÔ´´Òâ×÷Æ·¿âÎªºËÐÄ£¬Î§ÈÆ×ÅÉè¼ÆÈËÈº¼°·º°ì¹«ÈËÈºÌá¹©ÓÅÖÊ´´Òâ·þÎñµÄ¹²ÏíÆ½Ì¨¡£·þÎñÄÚÈÝº­¸ÇÁËÆ½Ãæ¹ã¸æ¡¢µçÉÌÌÔ±¦¡¢×°ÊÎ×°ÐÞ¡¢ÍøÒ³UI¡¢²úÆ·¹¤Òµ7´óÖ÷Á÷Éè¼Æ·þÎñ£¬ÒÔ¼°PPTÄ£°å¡¢ExcelÄ£°å¡¢ÎÄ¿âÄ£°å¡¢¸ßÇåÅäÍ¼¡¢ÊÓÆµÒôÆµ5´ó°ì¹«ÈËÈº³£ÓÃ·þÎñ£¬¹²¼Æ60¶àÏîÏ¸·Ö·þÎñ¡£</div>
+                    <div class="nex_sucai_hg">
+                    	<dl>
+                        	<dd>Æ½ÃæÉè¼ÆËØ²Ä£¬°üÀ¨logo±êÊ¶¡¢»­²á¡¢²å»­¡¢°ü×°¡¢Ðû´«µ¥µÈÏ¸·Ö·þÎñ£¬ÈÃÉè¼Æ¸üÇáËÉ¡£</dd>
+                            <dd>Éè¼ÆÔªËØ£¬°üº¬Í¼±êÔªËØ¡¢ÏßÌõÐÎ×´¡¢ÒÕÊõ×Ö¡¢±êÇ©µÈ¡£</dd>
+                            <dd>µçÉÌÌÔ±¦ËØ²Ä£¬°üº¬ÒÆ¶¯¶ËÄ£°å¡¢ÏêÇéÒ³¡¢½ÚÈÕ´ÙÏú¡¢µçÉÌº£±¨µÈ¡£</dd>
+                            <dd>°ì¹«ËØ²Ä°üÀ¨PPTÔªËØ¡¢PPTÄ£°å¡¢¸ßÇåÅäÍ¼¡¢ÊµÓÃÎÄµµ¡¢ÊÓÆµÒôÆµµÈ£¬°ïÖúÓÃ»§Ìá¸ß°ì¹«Ð§ÂÊ¡£</dd>
+                            <dd>ÉãÓ°Í¼¿â¸ßÇåËØ²Ä£¬°üº¬ÉÌÓÃÍ¼Æ¬ÉãÓ°Í¼¡¢Í¼Æ¬ËØ²ÄµÈ</dd>
+                        </dl>
+                    </div>
+                    <div class="nex_abvip_line">½ØÖ¹2018Äê1ÔÂ£¬ÐÇµã»¥ÁªÓµÓÐ×¢²áÓÃ»§³¬¹ý3900Íò£¬ÀÛ¼Æ´´Òâ×÷Æ·³¬¹ý930ÍòÕÅ£¬Âú×ãÁË½ü3.4ÒÚÈË´ÎµÄÍ¼Æ¬ÐèÇó¡£Í¬Ê±£¬Æ½Ì¨µÄ×÷Æ·ÈÔÔÚÒÔÃ¿ÔÂ½ü15ÍòÕÅµÄÊýÁ¿ÔÚ²»¶ÏÔö¼Ó£¬ÆäÅÓ´óµÄ×÷Æ·¿â¡¢Á¼ºÃµÄ·þÎñÆ·ÖÊ»ñµÃÁËÓÃ»§µÄÒ»ÖÂºÃÆÀ</div>
+                    <div class="nex_abvip_line">ÐÇµã»¥ÁªÖÂÁ¦ÎªÉè¼ÆÊ¦ºÍ·º°ì¹«ÈËÈºÌá¹©¸ßÆ·ÖÊ¡¢¶àÆ·Àà¡¢¿ì¸üÐÂµÄ´´Òâ×÷Æ··þÎñ¡£Î´À´£¬ÐÇµã»¥ÁªµÄ·þÎñÄÚÈÝ½«ÔÚÉè¼Æ³¡¾°»ù´¡ÉÏ²»¶ÏÏò°ì¹«³¡¾°ÑÓÉì£¬Ìá¸ßÓÃ»§µÄÉè¼Æ&°ì¹«Ð§ÂÊ¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<div class=\"nex_abvip_line\">ÐÇµã»¥Áª£¨neoconex.com£©ÊÇ¹úÄÚÁìÏÈµÄÉè¼ÆºÍ°ì¹«´´Òâ·þÎñÆ½Ì¨¡£2013Äê3ÔÂÐÇµã»¥ÁªÕýÊ½ÉÏÏßÔËÓª£¬Á¥ÊôÓÚÉÏº£ÐÇµã»¥ÁªÍøÂç¿Æ¼¼ÓÐÏÞ¹«Ë¾</div>
+                    <div class=\"nex_abvip_line\">¾­¹ý4ÄêµÄËØ²Ä»ýÀÛºÍÊý¾Ý³Áµí£¬ÐÇµã»¥Áª£¨neoconex.com£©´î½¨ÁËÒ»¸öÒÔ´´Òâ×÷Æ·¿âÎªºËÐÄ£¬Î§ÈÆ×ÅÉè¼ÆÈËÈº¼°·º°ì¹«ÈËÈºÌá¹©ÓÅÖÊ´´Òâ·þÎñµÄ¹²ÏíÆ½Ì¨¡£·þÎñÄÚÈÝº­¸ÇÁËÆ½Ãæ¹ã¸æ¡¢µçÉÌÌÔ±¦¡¢×°ÊÎ×°ÐÞ¡¢ÍøÒ³UI¡¢²úÆ·¹¤Òµ7´óÖ÷Á÷Éè¼Æ·þÎñ£¬ÒÔ¼°PPTÄ£°å¡¢ExcelÄ£°å¡¢ÎÄ¿âÄ£°å¡¢¸ßÇåÅäÍ¼¡¢ÊÓÆµÒôÆµ5´ó°ì¹«ÈËÈº³£ÓÃ·þÎñ£¬¹²¼Æ60¶àÏîÏ¸·Ö·þÎñ¡£</div>
+                    <div class=\"nex_sucai_hg\">
+                    	<dl>
+                        	<dd>Æ½ÃæÉè¼ÆËØ²Ä£¬°üÀ¨logo±êÊ¶¡¢»­²á¡¢²å»­¡¢°ü×°¡¢Ðû´«µ¥µÈÏ¸·Ö·þÎñ£¬ÈÃÉè¼Æ¸üÇáËÉ¡£</dd>
+                            <dd>Éè¼ÆÔªËØ£¬°üº¬Í¼±êÔªËØ¡¢ÏßÌõÐÎ×´¡¢ÒÕÊõ×Ö¡¢±êÇ©µÈ¡£</dd>
+                            <dd>µçÉÌÌÔ±¦ËØ²Ä£¬°üº¬ÒÆ¶¯¶ËÄ£°å¡¢ÏêÇéÒ³¡¢½ÚÈÕ´ÙÏú¡¢µçÉÌº£±¨µÈ¡£</dd>
+                            <dd>°ì¹«ËØ²Ä°üÀ¨PPTÔªËØ¡¢PPTÄ£°å¡¢¸ßÇåÅäÍ¼¡¢ÊµÓÃÎÄµµ¡¢ÊÓÆµÒôÆµµÈ£¬°ïÖúÓÃ»§Ìá¸ß°ì¹«Ð§ÂÊ¡£</dd>
+                            <dd>ÉãÓ°Í¼¿â¸ßÇåËØ²Ä£¬°üº¬ÉÌÓÃÍ¼Æ¬ÉãÓ°Í¼¡¢Í¼Æ¬ËØ²ÄµÈ</dd>
+                        </dl>
+                    </div>
+                    <div class=\"nex_abvip_line\">½ØÖ¹2018Äê1ÔÂ£¬ÐÇµã»¥ÁªÓµÓÐ×¢²áÓÃ»§³¬¹ý3900Íò£¬ÀÛ¼Æ´´Òâ×÷Æ·³¬¹ý930ÍòÕÅ£¬Âú×ãÁË½ü3.4ÒÚÈË´ÎµÄÍ¼Æ¬ÐèÇó¡£Í¬Ê±£¬Æ½Ì¨µÄ×÷Æ·ÈÔÔÚÒÔÃ¿ÔÂ½ü15ÍòÕÅµÄÊýÁ¿ÔÚ²»¶ÏÔö¼Ó£¬ÆäÅÓ´óµÄ×÷Æ·¿â¡¢Á¼ºÃµÄ·þÎñÆ·ÖÊ»ñµÃÁËÓÃ»§µÄÒ»ÖÂºÃÆÀ</div>
+                    <div class=\"nex_abvip_line\">ÐÇµã»¥ÁªÖÂÁ¦ÎªÉè¼ÆÊ¦ºÍ·º°ì¹«ÈËÈºÌá¹©¸ßÆ·ÖÊ¡¢¶àÆ·Àà¡¢¿ì¸üÐÂµÄ´´Òâ×÷Æ··þÎñ¡£Î´À´£¬ÐÇµã»¥ÁªµÄ·þÎñÄÚÈÝ½«ÔÚÉè¼Æ³¡¾°»ù´¡ÉÏ²»¶ÏÏò°ì¹«³¡¾°ÑÓÉì£¬Ìá¸ßÓÃ»§µÄÉè¼Æ&°ì¹«Ð§ÂÊ¡£</div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219706]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="133">
+				<item id="bid"><![CDATA[133]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[map]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<img src="template/nex_sucai_190828/neoconex/about/map.jpg" />]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<img src=\"template/nex_sucai_190828/neoconex/about/map.jpg\" />]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[0]]></item>
+				<item id="cachetimerange"><![CDATA[0,0]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219720]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="134">
+				<item id="bid"><![CDATA[134]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[contact]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd>
+                                	<h1>ÁªÏµÎÒÃÇ</h1>
+                                	<div class="nex_corpintel">
+                                    	<p class="nex_abt_add">Íþº£ÊÐÍþ¸ß¹ã³¡µÏÉÐ´óÏÃº£¾°Ð´×ÖÂ¥A×ù1988ÊÒ</p>
+                                        <p class="nex_abt_tel">400-123-45678</p>
+                                        <p class="nex_abt_email">enquiry@neoconex.com</p>
+                                        <p class="nex_abt_qq">1691000615</p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>ÊÐ³¡/Æ·ÅÆºÏ×÷</h1>
+                                	<div class="nex_corpintel">
+                                    	<p class="nex_abt_email">marketing@neoconex.com</p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>°æÈ¨Ïà¹Ø</h1>
+                                	<div class="nex_corpintel">
+                                    	<p class="nex_abt_email">copyright@neoconex.com<em>(3¸ö¹¤×÷ÈÕÄÚ´ð¸´)</em></p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>¿Í·þ</h1>
+                                	<div class="nex_corpintel">
+                                    	<p class="nex_abt_tel">400-789-45678<em>(¹¤×÷ÈÕ  9:30-18:30)</em></p>
+                                        <p class="nex_abt_qq">451318588<em>(9:30-18:30)</em></p>
+                                    </div>
+                                </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<dd>
+                                	<h1>ÁªÏµÎÒÃÇ</h1>
+                                	<div class=\"nex_corpintel\">
+                                    	<p class=\"nex_abt_add\">Íþº£ÊÐÍþ¸ß¹ã³¡µÏÉÐ´óÏÃº£¾°Ð´×ÖÂ¥A×ù1988ÊÒ</p>
+                                        <p class=\"nex_abt_tel\">400-123-45678</p>
+                                        <p class=\"nex_abt_email\">enquiry@neoconex.com</p>
+                                        <p class=\"nex_abt_qq\">1691000615</p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>ÊÐ³¡/Æ·ÅÆºÏ×÷</h1>
+                                	<div class=\"nex_corpintel\">
+                                    	<p class=\"nex_abt_email\">marketing@neoconex.com</p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>°æÈ¨Ïà¹Ø</h1>
+                                	<div class=\"nex_corpintel\">
+                                    	<p class=\"nex_abt_email\">copyright@neoconex.com<em>(3¸ö¹¤×÷ÈÕÄÚ´ð¸´)</em></p>
+                                    </div>
+                                </dd>
+                                <dd>
+                                	<h1>¿Í·þ</h1>
+                                	<div class=\"nex_corpintel\">
+                                    	<p class=\"nex_abt_tel\">400-789-45678<em>(¹¤×÷ÈÕ  9:30-18:30)</em></p>
+                                        <p class=\"nex_abt_qq\">451318588<em>(9:30-18:30)</em></p>
+                                    </div>
+                                </dd>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567219557]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="135">
+				<item id="bid"><![CDATA[135]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[agreement]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>×¢²áÐ­Òé</h2>
+                        <div class="nex_abvip_line">¡¾ÉóÉ÷ÔÄ¶Á¡¿ÄúÔÚÉêÇë×¢²áÁ÷³ÌÖÐµã»÷Í¬ÒâÇ°£¬Ó¦µ±ÈÏÕæÔÄ¶ÁÒÔÏÂÐ­Òé¡£ÇëÄúÎñ±ØÉóÉ÷ÔÄ¶Á¡¢³ä·ÖÀí½âÐ­ÒéÖÐÏà¹ØÌõ¿îÄÚÈÝ£¬ÆäÖÐ°üÀ¨£º</div>
+                        <div class="nex_abvip_line">1¡¢ÓëÄúÔ¼¶¨Ãâ³ý»òÏÞÖÆÔðÈÎµÄÌõ¿î£»</div>
+                        <div class="nex_abvip_line">2¡¢ÓëÄúÔ¼¶¨·¨ÂÉÊÊÓÃºÍ¹ÜÏ½µÄÌõ¿î£»</div>
+                        <div class="nex_abvip_line">3¡¢ÆäËûÒÔÏÂ»®Ïß±êÊ¶µÄÖØÒªÌõ¿î¡£</div>
+                        <div class="nex_abvip_line"><font color="#FF5700">¡¾ÌØ±ðÌáÊ¾¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬ÒâÐ­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬¼´±íÊ¾ÄúÒÑ³ä·ÖÔÄ¶Á¡¢Àí½â²¢½ÓÊÜÐ­ÒéµÄÈ«²¿ÄÚÈÝ¡£ÈçÄúÒòÍøÕ¾·þÎñÓëÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢ÉúÕùÒéµÄ£¬ÊÊÓÃ¡¶ÐÇµã»¥ÁªÍøÕ¾Ð­Òé¡·´¦Àí¡£ÈçÄúÔÚÊ¹ÓÃÍøÕ¾·þÎñ¹ý³ÌÖÐÓëÆäËûÓÃ»§·¢ÉúÕùÒéµÄ£¬ÒÀÄúÓëÆäËûÓÃ»§´ï³ÉµÄÐ­Òé´¦Àí¡£</font></div>
+                        <div class="nex_abvip_line"><font color="#FF5700">ÔÄ¶ÁÐ­ÒéµÄ¹ý³ÌÖÐ£¬Èç¹ûÄú²»Í¬ÒâÏà¹ØÐ­Òé»òÆäÖÐÈÎºÎÌõ¿îÔ¼¶¨£¬ÄúÓ¦Á¢¼´Í£Ö¹×¢²á³ÌÐò¡£</font></div>
+                        <h2>·þÎñÐ­Òé</h2>
+                        <div class="nex_abvip_line">¸÷·þÎñÌõ¿îÇ°ËùÁÐË÷Òý¹Ø¼ü´Ê½öÎª°ïÖúÄúÀí½â¸ÃÌõ¿î±í´ïµÄÖ÷Ö¼Ö®ÓÃ£¬²»Ó°Ïì»òÏÞÖÆ±¾Ð­ÒéÌõ¿îµÄº¬Òå»ò½âÊÍ¡£ÎªÎ¬»¤Äú×ÔÉíÈ¨Òæ£¬½¨ÒéÄú×ÐÏ¸ÔÄ¶Á¸÷Ìõ¿î¾ßÌå±íÊö¡£</div>
+                        <div class="nex_abvip_line">¡¾ÉóÉ÷ÔÄ¶Á¡¿ÄúÔÚÉêÇë×¢²áÁ÷³ÌÖÐµã»÷Í¬Òâ±¾Ð­ÒéÖ®Ç°£¬Ó¦µ±ÈÏÕæÔÄ¶Á±¾Ð­Òé¡£ÇëÄúÎñ±ØÉóÉ÷ÔÄ¶Á¡¢³ä·ÖÀí½â¸÷Ìõ¿îÄÚÈÝ£¬ÌØ±ðÊÇÃâ³ý»òÕßÏÞÖÆÔðÈÎµÄÌõ¿î¡¢·¨ÂÉÊÊÓÃºÍÕùÒé½â¾öÌõ¿î¡£Ãâ³ý»òÕßÏÞÖÆÔðÈÎµÄÌõ¿î½«ÒÔ´ÖÌåÏÂ»®Ïß±êÊ¶£¬ÄúÓ¦ÖØµãÔÄ¶Á¡£ÈçÄú¶ÔÐ­ÒéÓÐÈÎºÎÒÉÎÊ£¬¿ÉÏòÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢Æð×ÉÑ¯¡£</div>
+                        <div class="nex_abvip_line">¡¾Ç©Ô¼¶¯×÷¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬Òâ±¾Ð­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬¼´±íÊ¾ÄúÒÑ³ä·ÖÔÄ¶Á¡¢Àí½â²¢½ÓÊÜ±¾Ð­ÒéµÄÈ«²¿ÄÚÈÝ£¬²¢ÓëÐÇµã»¥Áª(neoconex)´ï³ÉÒ»ÖÂ£¬³ÉÎªÐÇµã»¥Áª(neoconex)ÍøÕ¾¡°ÓÃ»§¡±¡£ÔÄ¶Á±¾Ð­ÒéµÄ¹ý³ÌÖÐ£¬Èç¹ûÄú²»Í¬Òâ±¾Ð­Òé»òÆäÖÐÈÎºÎÌõ¿îÔ¼¶¨£¬ÄúÓ¦Á¢¼´Í£Ö¹×¢²á³ÌÐò¡£</div>
+                        <h5>Ò»¡¢ ¶¨Òå</h5>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª(neoconex)ÍøÕ¾£ºÖ¸°üÀ¨ÐÇµã»¥Áª£¨ÓòÃûÎª neoconex.com£©ÍøÕ¾¼°¿Í»§¶Ë¡£</div>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£ºÐÇµã»¥Áª(neoconex)»ùÓÚ»¥ÁªÍø£¬ÒÔ°üº¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¼°¿Í»§¶ËµÈÔÚÄÚµÄ¸÷ÖÖÐÎÌ¬£¨°üÀ¨Î´À´¼¼Êõ·¢Õ¹³öÏÖµÄÐÂµÄ·þÎñÐÎÌ¬£©ÏòÄúÌá¹©µÄ¸÷Ïî·þÎñ¡£</div>
+                        <h5>¶þ¡¢ Ð­Òé·¶Î§</h5>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª(neoconex)ÍøÕ¾£ºÖ¸°üÀ¨ÐÇµã»¥Áª£¨ÓòÃûÎª neoconex.com£©ÍøÕ¾¼°¿Í»§¶Ë¡£</div>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£ºÐÇµã»¥Áª(neoconex)»ùÓÚ»¥ÁªÍø£¬ÒÔ°üº¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¼°¿Í»§¶ËµÈÔÚÄÚµÄ¸÷ÖÖÐÎÌ¬£¨°üÀ¨Î´À´¼¼Êõ·¢Õ¹³öÏÖµÄÐÂµÄ·þÎñÐÎÌ¬£©ÏòÄúÌá¹©µÄ¸÷Ïî·þÎñ¡£</div>
+                        <h5>2.1 Ç©Ô¼Ö÷Ìå</h5>
+                        <div class="nex_abvip_line">¡¾Æ½µÈÖ÷Ìå¡¿±¾Ð­ÒéÓÉÄúÓëÐÇµã»¥Áª(neoconex)¾­ÓªÕß¹²Í¬µÞ½á£¬±¾Ð­Òé¶ÔÄúÓëÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕß¾ù¾ßÓÐºÏÍ¬Ð§Á¦¡£</div>
+                        <div class="nex_abvip_line">¡¾Ö÷ÌåÐÅÏ¢¡¿ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÊÇÖ¸¾­ÓªÐÇµã»¥Áª(neoconex)Æ½Ì¨µÄ·¨ÂÉÖ÷Ìå¡£±¾Ð­ÒéÏîÏÂ£¬ÐÇµã»¥Áª(neoconex)¾­ÓªÕß¿ÉÄÜ¸ù¾ÝÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñµ÷Õû¶ø·¢Éú±ä¸ü£¬±ä¸üºóµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÓëÄú¹²Í¬ÂÄÐÐ±¾Ð­Òé²¢ÏòÄúÌá¹©·þÎñ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßµÄ±ä¸ü²»»áÓ°ÏìÄú±¾Ð­ÒéÏîÏÂµÄÈ¨Òæ¡£ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕß»¹ÓÐ¿ÉÄÜÒòÎªÌá¹©ÐÂµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¶øÐÂÔö£¬ÈçÄúÊ¹ÓÃÐÂÔöµÄÐÇµã»¥Áª(neoconex)Æ½Ì¨·þÎñµÄ£¬ÊÓÎªÄúÍ¬ÒâÐÂÔöµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÓëÄú¹²Í¬ÂÄÐÐ±¾Ð­Òé¡£·¢ÉúÕùÒéÊ±£¬Äú¿É¸ù¾ÝÄú¾ßÌåÊ¹ÓÃµÄ·þÎñ¼°¶ÔÄúÈ¨Òæ²úÉúÓ°ÏìµÄ¾ßÌåÐÐÎª¶ÔÏóÈ·¶¨ÓëÄúÂÄÔ¼µÄÖ÷Ìå¼°ÕùÒéÏà¶Ô·½¡£</div>
+                        <h5>2.2²¹³äÐ­Òé</h5>
+                        <div class="nex_abvip_line">ÓÉÓÚ»¥ÁªÍø¸ßËÙ·¢Õ¹£¬ÄúÓëÐÇµã»¥Áª(neoconex)Ç©ÊðµÄ±¾Ð­ÒéÁÐÃ÷µÄÌõ¿î²¢²»ÄÜÍêÕûÂÞÁÐ²¢¸²¸ÇÄúÓëÐÇµã»¥Áª(neoconex)ËùÓÐÈ¨ÀûÓëÒåÎñ£¬ÏÖÓÐµÄÔ¼¶¨Ò²²»ÄÜ±£Ö¤ÍêÈ«·ûºÏÎ´À´·¢Õ¹µÄÐèÇó¡£Òò´Ë£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾·¨ÂÉÉùÃ÷¼°ÒþË½È¨Õþ²ß£¬Óë±¾Ð­Òé²»¿É·Ö¸îÇÒ¾ßÓÐÍ¬µÈ·¨ÂÉÐ§Á¦¡£ÈçÄúÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£¬ÊÓÎªÄúÍ¬ÒâÉÏÊö²¹³äÐ­Òé¡£</div>
+                        <h5>Èý¡¢ ÕË»§×¢²áÓëÊ¹ÓÃ</h5>
+                        <h5>3.1 ÓÃ»§×Ê¸ñ</h5>
+                        <div class="nex_abvip_line">ÄúÈ·ÈÏ£¬ÔÚÄú¿ªÊ¼×¢²á³ÌÐòÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñÇ°£¬ÄúÓ¦µ±¾ß±¸ÖÐ»ªÈËÃñ¹²ºÍ¹ú·¨ÂÉ¹æ¶¨µÄÓëÄúÐÐÎªÏàÊÊÓ¦µÄÃñÊÂÐÐÎªÄÜÁ¦¡£ÈôÄú²»¾ß±¸Ç°ÊöÓëÄúÐÐÎªÏàÊÊÓ¦µÄÃñÊÂÐÐÎªÄÜÁ¦£¬ÔòÄú¼°ÄúµÄ¼à»¤ÈËÓ¦ÒÀÕÕ·¨ÂÉ¹æ¶¨³Ðµ£Òò´Ë¶øµ¼ÖÂµÄÒ»ÇÐºó¹û¡£
+´ËÍâ£¬Äú»¹ÐèÈ·±£Äú²»ÊÇÈÎºÎ¹ú¼Ò¡¢¹ú¼Ê×éÖ¯»òÕßµØÓòÊµÊ©µÄÃ³Ò×ÏÞÖÆ¡¢ÖÆ²Ã»òÆäËû·¨ÂÉ¡¢¹æÔòÏÞÖÆµÄ¶ÔÏó£¬·ñÔòÄú¿ÉÄÜÎÞ·¨Õý³£×¢²á¼°Ê¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¡£</div>
+						<h5>3.2 ÕË»§ËµÃ÷</h5>
+                        <div class="nex_abvip_line">¡¾ÕË»§»ñµÃ¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬Òâ±¾Ð­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬Äú¿É»ñµÃÐÇµã»¥Áª(neoconex)ÍøÕ¾ÕË»§¡£</div>
+                        <div class="nex_abvip_line">¡¾ÕË»§Ê¹ÓÃ¡¿ÄúÓÐÈ¨Ê¹ÓÃÄúÉèÖÃ»òÈ·ÈÏµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾»áÔ±Ãû¡¢ÓÊÏä¡¢ÊÖ»úºÅÂë£¨ÒÔÏÂ¼ò³Æ¡°ÕË»§Ãû³Æ¡±£©¼°ÄúÉèÖÃµÄÃÜÂë£¨ÕË»§Ãû³Æ¼°ÃÜÂëºÏ³Æ¡°ÕË»§¡±£©µÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾¡£</div>
+                        <div class="nex_abvip_line">ÓÉÓÚÄúµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¹ØÁªÄúµÄ¸öÈËÐÅÏ¢¼°ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÉÌÒµÐÅÏ¢£¬ÄúµÄÐÇµã»¥Áª(neoconex)ÕË»§½öÏÞÄú±¾ÈËÊ¹ÓÃ¡£Î´¾­ÐÇµã»¥Áª(neoconex)ÍøÕ¾Í¬Òâ£¬ÄúÖ±½Ó»ò¼ä½ÓÊÚÈ¨µÚÈý·½Ê¹ÓÃÄúÐÇµã»¥Áª(neoconex)ÕË»§»ò»ñÈ¡ÄúÕË»§ÏîÏÂÐÅÏ¢µÄÐÐÎªÎÞÐ§¡£ÈçÐÇµã»¥Áª(neoconex)ÍøÕ¾ÅÐ¶ÏÄúÐÇµã»¥Áª(neoconex)ÕË»§µÄÊ¹ÓÃ¿ÉÄÜÎ£¼°ÄúµÄÕË»§°²È«¼°/»òÐÇµã»¥Áª(neoconex)ÍøÕ¾ÐÅÏ¢°²È«µÄ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¿É¾Ü¾øÌá¹©ÏàÓ¦·þÎñ»òÖÕÖ¹±¾Ð­Òé¡£</div>
+                        <div class="nex_abvip_line">¡¾ÕË»§×ªÈÃ¡¿ÓÉÓÚÓÃ»§ÕË»§¹ØÁªÓÃ»§ÐÅÓÃÐÅÏ¢£¬½öµ±ÓÐ·¨ÂÉÃ÷ÎÄ¹æ¶¨¡¢Ë¾·¨²Ã¶¨»ò¾­ÐÇµã»¥Áª(neoconex)ÍøÕ¾Í¬Òâ£¬²¢·ûºÏÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔò¹æ¶¨µÄÓÃ»§ÕË»§×ªÈÃÁ÷³ÌµÄÇé¿öÏÂ£¬Äú¿É½øÐÐÕË»§µÄ×ªÈÃ¡£ÄúµÄÕË»§Ò»¾­×ªÈÃ£¬¸ÃÕË»§ÏîÏÂÈ¨ÀûÒåÎñÒ»²¢×ªÒÆ¡£³ý´ËÍâ£¬ÄúµÄÕË»§²»µÃÒÔÈÎºÎ·½Ê½×ªÈÃ£¬·ñÔòÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÐÈ¨×·¾¿ÄúµÄÎ¥Ô¼ÔðÈÎ£¬ÇÒÓÉ´Ë²úÉúµÄÒ»ÇÐÔðÈÎ¾ùÓÉÄú³Ðµ£¡£</div>
+                        <h5>3.3 ×¢²áÐÅÏ¢¹ÜÀí</h5>
+                        <h5>3.3.1 ÕæÊµºÏ·¨</h5>
+                        <div class="nex_abvip_line">¡¾ÐÅÏ¢ÕæÊµ¡¿ÔÚÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñÊ±£¬ÄúÓ¦µ±°´ÐÇµã»¥Áª(neoconex)ÍøÕ¾Ò³ÃæµÄÌáÊ¾×¼È·ÍêÕûµØÌá¹©ÄúµÄÐÅÏ¢£¨°üÀ¨ÄúµÄÐÕÃû¼°µç×ÓÓÊ¼þµØÖ·¡¢ÁªÏµµç»°¡¢ÁªÏµµØÖ·µÈ£©£¬ÒÔ±ãÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓëÄúÁªÏµ¡£ÄúÁË½â²¢Í¬Òâ£¬ÄúÓÐÒåÎñ±£³ÖÄúÌá¹©ÐÅÏ¢µÄÕæÊµÐÔ¼°ÓÐÐ§ÐÔ¡£</div>
+                        <div class="nex_abvip_line">¡¾»áÔ±ÃûµÄºÏ·¨ÐÔ¡¿ÄúÉèÖÃµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§Ãû²»µÃÎ¥·´¹ú¼Ò·¨ÂÉ·¨¹æ¼°ÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔò¹ØÓÚ»áÔ±ÃûµÄ¹ÜÀí¹æ¶¨£¬·ñÔòÐÇµã»¥Áª(neoconex)ÍøÕ¾¿É»ØÊÕÄúµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§Ãû¡£ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§ÃûµÄ»ØÊÕ²»Ó°ÏìÄúÒÔÓÊÏä¡¢ÊÖ»úºÅÂëµÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾²¢Ê¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¡£</div>
+                        <h5>3.3.2 ¸üÐÂÎ¬»¤</h5>
+                        <div class="nex_abvip_line">ÄúÓ¦µ±¼°Ê±¸üÐÂÄúÌá¹©µÄÐÅÏ¢£¬ÔÚ·¨ÂÉÓÐÃ÷È·¹æ¶¨ÒªÇóÐÇµã»¥Áª(neoconex)ÍøÕ¾×÷ÎªÆ½Ì¨·þÎñÌá¹©Õß±ØÐë¶Ô²¿·ÖÓÃ»§µÄÐÅÏ¢½øÐÐºËÊµµÄÇé¿öÏÂ£¬ÐÇµã»¥Áª(neoconex)½«ÒÀ·¨²»Ê±µØ¶ÔÄúµÄÐÅÏ¢½øÐÐ¼ì²éºËÊµ£¬ÄúÓ¦µ±ÅäºÏÌá¹©×îÐÂ¡¢ÕæÊµ¡¢ÍêÕû¡¢ÓÐÐ§µÄÐÅÏ¢¡£
+ÈçÐÇµã»¥Áª(neoconex)°´Äú×îºóÒ»´ÎÌá¹©µÄÐÅÏ¢ÓëÄúÁªÏµÎ´¹û¡¢ÄúÎ´°´ÐÇµã»¥Áª(neoconex)µÄÒªÇó¼°Ê±Ìá¹©ÐÅÏ¢¡¢ÄúÌá¹©µÄÐÅÏ¢´æÔÚÃ÷ÏÔ²»Êµ»òÐÐÕþË¾·¨»ú¹ØºËÊµÄúÌá¹©µÄÐÅÏ¢ÎÞÐ§µÄ£¬Äú½«³Ðµ£Òò´Ë¶ÔÄú×ÔÉí¡¢ËûÈË¼°ÐÇµã»¥Áª(neoconex)Ôì³ÉµÄÈ«²¿ËðÊ§Óë²»Àûºó¹û¡£ÐÇµã»¥Áª(neoconex)¿ÉÏòÄú·¢³öÑ¯ÎÊ»òÒªÇóÕû¸ÄµÄÍ¨Öª£¬²¢ÒªÇóÄú½øÐÐÖØÐÂÈÏÖ¤£¬Ö±ÖÁÖÐÖ¹¡¢ÖÕÖ¹¶ÔÄúÌá¹©²¿·Ö»òÈ«²¿ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£¬ÐÇµã»¥Áª(neoconex)¶Ô´Ë²»³Ðµ£ÔðÈÎ¡£</div>
+						<h5>3.4 ÕË»§°²È«¹æ·¶</h5>
+                        <div class="nex_abvip_line">¡¾ÕË»§°²È«±£¹ÜÒåÎñ¡¿ÄúµÄÕË»§ÎªÄú×ÔÐÐÉèÖÃ²¢ÓÉÄú±£¹Ü£¬ÐÇµã»¥Áª(neoconex)ÈÎºÎÊ±ºò¾ù²»»áÖ÷¶¯ÒªÇóÄúÌá¹©ÄúµÄÕË»§ÃÜÂë¡£Òò´Ë£¬½¨ÒéÄúÎñ±Ø±£¹ÜºÃÄúµÄÕË»§£¬²¢È·±£ÄúÔÚÃ¿¸öÉÏÍøÊ±¶Î½áÊøÊ±ÍË³öµÇÂ¼²¢ÒÔÕýÈ·²½ÖèÀë¿ªÐÇµã»¥Áª(neoconex)ÍøÕ¾¡£
+ÕË»§ÒòÄúÖ÷¶¯Ð¹Â¶»òÒòÄúÔâÊÜËûÈË¹¥»÷¡¢Õ©Æ­µÈÐÐÎªµ¼ÖÂµÄËðÊ§¼°ºó¹û£¬ÐÇµã»¥Áª(neoconex)²¢²»³Ðµ£ÔðÈÎ£¬ÄúÓ¦Í¨¹ýË¾·¨¡¢ÐÐÕþµÈ¾È¼ÃÍ¾¾¶ÏòÇÖÈ¨ÐÐÎªÈË×·³¥¡£</div>
+                        <div class="nex_abvip_line">¡¾ÕË»§ÐÐÎªÔðÈÎ×Ô¸º¡¿³ýÐÇµã»¥Áª(neoconex)´æÔÚ¹ý´íÍâ£¬ÄúÓ¦¶ÔÄúÕË»§ÏîÏÂµÄËùÓÐÐÐÎª½á¹û£¨°üÀ¨µ«²»ÏÞÓÚÔÚÏßÇ©Êð¸÷ÀàÐ­Òé¡¢·¢²¼ÐÅÏ¢¡¢¹ºÂòVIP»áÔ±¼°·þÎñ¼°ÅûÂ¶ÐÅÏ¢µÈ£©¸ºÔð¡£</div>
+                        <h5>ËÄ¡¢ ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¼°¹æ·¶</h5>
+                        <div class="nex_abvip_line">¡¾·þÎñ¸Å¿ö¡¿ÄúÓÐÈ¨ÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾ÉÏÏíÊÜ·¢²¼ºÏ·¨ÐÅÏ¢£¬°üÀ¨µ«²»ÏÞÓÚ×ÊÑ¶¡¢ÆÀÂÛºÍÉè¼Æ×ÊÔ´µÈ·þÎñ¡£¸ü¶àÍøÕ¾·þÎñÄÚÈÝ£¬¾ßÌåÄú¿ÉÒÔµÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾ä¯ÀÀ¡£</div>
+                        <h5>4.2×ÊÑ¶ºÍ×ÊÔ´·¢²¼</h5>
+                        <div class="nex_abvip_line">¡¾×ÊÑ¶ºÍ×ÊÔ´·¢²¼¡¿ÄúÍ¨¹ýÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢²¼µÄ×ÊÑ¶ºÍ×ÊÔ´Ó¦¸Ã×ñÊØÖÐ»ªÈËÃñ¹²ºÍ¹úÏà¹Ø·¨ÂÉ·¨¹æ¹æ¶¨£¬ÇÒ·ûºÏDMCA notices¡£¡¾×ÊÑ¶ºÍ×ÊÔ´É¾³ý¡¿ÈçÄúÍ¨¹ýÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢²¼µÄÐÅÏ¢´æÔÚÒÔÏÂÐÐÎª£º£¨Ò»£©¹ú¼Ò·¨ÂÉ·¨¹æÃ÷ÎÄ½ûÖ¹»òÏÞÖÆµÄ£»£¨¶þ£©ÇÖ·¸ËûÈËÖªÊ¶²úÈ¨»òÆäËüºÏ·¨È¨ÒæµÄ£»£¨Èý£©Î¥·´DMCA noticesµÄ¡£ÐÇµã»¥Áª(neoconex)¾ùÓÐÈ¨¶Ô¸ÃÐÅÏ¢½øÐÐÉ¾³ý£¬ÇÒÓÉ´Ë²úÉúµÄ·¨ÂÉÔðÈÎÓ¦ÓÉÄú±¾ÈË³Ðµ£¡£
+</div>
+                        <h5>4.3ÍøÕ¾ÆÀ¼Û</h5>
+                        <div class="nex_abvip_line">¡¾ÆÀ¼Û¡¿ÄúÓÐÈ¨ÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾Ìá¹©µÄÆÀ¼ÛÏµÍ³ÖÐ¶ÔÏà¹Ø×ÊÑ¶¡¢×ÊÔ´½øÐÐÆÀ¼Û¡£ÄúÓ¦µ±Àí½â£¬ÄúÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾µÄÆÀ¼ÛÐÅÏ¢ÊÇ¹«¿ªµÄ£¬ÈçÄú²»Ô¸ÒâÔÚÆÀ¼ÛÐÅÏ¢ÖÐÏò¹«ÖÚÅûÂ¶ÄúµÄÉí·ÝÐÅÏ¢£¬ÄúÓÐÈ¨Ñ¡ÔñÍ¨¹ýÄäÃûÐÎÊ½·¢±íÆÀ¼ÛÄÚÈÝ¡£</div>
+                        <div class="nex_abvip_line">ÄúµÄËùÓÐÆÀ¼ÛÐÐÎªÓ¦×ñÊØÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔòµÄÏà¹Ø¹æ¶¨£¬ÆÀ¼ÛÄÚÈÝÓ¦µ±¿Í¹ÛÕæÊµ£¬²»Ó¦°üº¬ÈÎºÎÎÛÑÔ»àÓï¡¢É«ÇéµÍË×¡¢¹ã¸æÐÅÏ¢¼°·¨ÂÉ·¨¹æÓë±¾Ð­ÒéÁÐÃ÷µÄÆäËû½ûÖ¹ÐÔÐÅÏ¢¡£ÐÇµã»¥Áª(neoconex)¿É°´ÕÕÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔòµÄÏà¹Ø¹æ¶¨¶ÔÄúÊµÊ©ÉÏÊöÐÐÎªËù²úÉúµÄÆÀ¼ÛÐÅÏ¢½øÐÐÉ¾³ý»òÆÁ±Î¡£</div>
+                        <h5>4.4·ÑÓÃ</h5>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª(neoconex)ÎªÐÇµã»¥Áª(neoconex)ÍøÕ¾ÏòÄúÌá¹©µÄ·þÎñ¸¶³öÁËÔËÓª³É±¾£¬³ýÐÇµã»¥Áª(neoconex)ÍøÕ¾Ã÷Ê¾µÄÊÕ·ÑÒµÎñÍâ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÏòÄúÌá¹©µÄÆÕÍ¨»áÔ±·þÎñÄ¿Ç°ÊÇÃâ·ÑµÄ¡£</div>
+                        <div class="nex_abvip_line">×¢Òâ£¬VIP»áÔ±ËùÓÐÖ§¸¶µÄ·ÑÓÃ½öÓÃÓÚ¾èÏ×±¾Õ¾·þÎñÆ÷ÓòÃû¹ºÂò¡¢ÍøÕ¾Î¬»¤ºÍÆäËûÍøÕ¾ÔÓ·Ñ¡£¶ø²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´Ê¹ÓÃÈ¨»òÕß°æÈ¨¡£ÈôÓÃ»§ÐèÒªÉÌÓÃ±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´£¬¾ùÐèÒªÏò×ÊÔ´°æÈ¨ÕßÖ§¸¶°æÈ¨·ÑÓÃ¡£
+¹ºÂòVIP»áÔ±ÒâÎ¶×ÅÄúÈÏÍ¬ºÍ·þ´ÓVIP»áÔ±Ïà¹ØÌõ¿î¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>×¢²áÐ­Òé</h2>
+                        <div class=\"nex_abvip_line\">¡¾ÉóÉ÷ÔÄ¶Á¡¿ÄúÔÚÉêÇë×¢²áÁ÷³ÌÖÐµã»÷Í¬ÒâÇ°£¬Ó¦µ±ÈÏÕæÔÄ¶ÁÒÔÏÂÐ­Òé¡£ÇëÄúÎñ±ØÉóÉ÷ÔÄ¶Á¡¢³ä·ÖÀí½âÐ­ÒéÖÐÏà¹ØÌõ¿îÄÚÈÝ£¬ÆäÖÐ°üÀ¨£º</div>
+                        <div class=\"nex_abvip_line\">1¡¢ÓëÄúÔ¼¶¨Ãâ³ý»òÏÞÖÆÔðÈÎµÄÌõ¿î£»</div>
+                        <div class=\"nex_abvip_line\">2¡¢ÓëÄúÔ¼¶¨·¨ÂÉÊÊÓÃºÍ¹ÜÏ½µÄÌõ¿î£»</div>
+                        <div class=\"nex_abvip_line\">3¡¢ÆäËûÒÔÏÂ»®Ïß±êÊ¶µÄÖØÒªÌõ¿î¡£</div>
+                        <div class=\"nex_abvip_line\"><font color=\"#FF5700\">¡¾ÌØ±ðÌáÊ¾¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬ÒâÐ­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬¼´±íÊ¾ÄúÒÑ³ä·ÖÔÄ¶Á¡¢Àí½â²¢½ÓÊÜÐ­ÒéµÄÈ«²¿ÄÚÈÝ¡£ÈçÄúÒòÍøÕ¾·þÎñÓëÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢ÉúÕùÒéµÄ£¬ÊÊÓÃ¡¶ÐÇµã»¥ÁªÍøÕ¾Ð­Òé¡·´¦Àí¡£ÈçÄúÔÚÊ¹ÓÃÍøÕ¾·þÎñ¹ý³ÌÖÐÓëÆäËûÓÃ»§·¢ÉúÕùÒéµÄ£¬ÒÀÄúÓëÆäËûÓÃ»§´ï³ÉµÄÐ­Òé´¦Àí¡£</font></div>
+                        <div class=\"nex_abvip_line\"><font color=\"#FF5700\">ÔÄ¶ÁÐ­ÒéµÄ¹ý³ÌÖÐ£¬Èç¹ûÄú²»Í¬ÒâÏà¹ØÐ­Òé»òÆäÖÐÈÎºÎÌõ¿îÔ¼¶¨£¬ÄúÓ¦Á¢¼´Í£Ö¹×¢²á³ÌÐò¡£</font></div>
+                        <h2>·þÎñÐ­Òé</h2>
+                        <div class=\"nex_abvip_line\">¸÷·þÎñÌõ¿îÇ°ËùÁÐË÷Òý¹Ø¼ü´Ê½öÎª°ïÖúÄúÀí½â¸ÃÌõ¿î±í´ïµÄÖ÷Ö¼Ö®ÓÃ£¬²»Ó°Ïì»òÏÞÖÆ±¾Ð­ÒéÌõ¿îµÄº¬Òå»ò½âÊÍ¡£ÎªÎ¬»¤Äú×ÔÉíÈ¨Òæ£¬½¨ÒéÄú×ÐÏ¸ÔÄ¶Á¸÷Ìõ¿î¾ßÌå±íÊö¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾ÉóÉ÷ÔÄ¶Á¡¿ÄúÔÚÉêÇë×¢²áÁ÷³ÌÖÐµã»÷Í¬Òâ±¾Ð­ÒéÖ®Ç°£¬Ó¦µ±ÈÏÕæÔÄ¶Á±¾Ð­Òé¡£ÇëÄúÎñ±ØÉóÉ÷ÔÄ¶Á¡¢³ä·ÖÀí½â¸÷Ìõ¿îÄÚÈÝ£¬ÌØ±ðÊÇÃâ³ý»òÕßÏÞÖÆÔðÈÎµÄÌõ¿î¡¢·¨ÂÉÊÊÓÃºÍÕùÒé½â¾öÌõ¿î¡£Ãâ³ý»òÕßÏÞÖÆÔðÈÎµÄÌõ¿î½«ÒÔ´ÖÌåÏÂ»®Ïß±êÊ¶£¬ÄúÓ¦ÖØµãÔÄ¶Á¡£ÈçÄú¶ÔÐ­ÒéÓÐÈÎºÎÒÉÎÊ£¬¿ÉÏòÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢Æð×ÉÑ¯¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾Ç©Ô¼¶¯×÷¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬Òâ±¾Ð­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬¼´±íÊ¾ÄúÒÑ³ä·ÖÔÄ¶Á¡¢Àí½â²¢½ÓÊÜ±¾Ð­ÒéµÄÈ«²¿ÄÚÈÝ£¬²¢ÓëÐÇµã»¥Áª(neoconex)´ï³ÉÒ»ÖÂ£¬³ÉÎªÐÇµã»¥Áª(neoconex)ÍøÕ¾¡°ÓÃ»§¡±¡£ÔÄ¶Á±¾Ð­ÒéµÄ¹ý³ÌÖÐ£¬Èç¹ûÄú²»Í¬Òâ±¾Ð­Òé»òÆäÖÐÈÎºÎÌõ¿îÔ¼¶¨£¬ÄúÓ¦Á¢¼´Í£Ö¹×¢²á³ÌÐò¡£</div>
+                        <h5>Ò»¡¢ ¶¨Òå</h5>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª(neoconex)ÍøÕ¾£ºÖ¸°üÀ¨ÐÇµã»¥Áª£¨ÓòÃûÎª neoconex.com£©ÍøÕ¾¼°¿Í»§¶Ë¡£</div>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£ºÐÇµã»¥Áª(neoconex)»ùÓÚ»¥ÁªÍø£¬ÒÔ°üº¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¼°¿Í»§¶ËµÈÔÚÄÚµÄ¸÷ÖÖÐÎÌ¬£¨°üÀ¨Î´À´¼¼Êõ·¢Õ¹³öÏÖµÄÐÂµÄ·þÎñÐÎÌ¬£©ÏòÄúÌá¹©µÄ¸÷Ïî·þÎñ¡£</div>
+                        <h5>¶þ¡¢ Ð­Òé·¶Î§</h5>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª(neoconex)ÍøÕ¾£ºÖ¸°üÀ¨ÐÇµã»¥Áª£¨ÓòÃûÎª neoconex.com£©ÍøÕ¾¼°¿Í»§¶Ë¡£</div>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£ºÐÇµã»¥Áª(neoconex)»ùÓÚ»¥ÁªÍø£¬ÒÔ°üº¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¼°¿Í»§¶ËµÈÔÚÄÚµÄ¸÷ÖÖÐÎÌ¬£¨°üÀ¨Î´À´¼¼Êõ·¢Õ¹³öÏÖµÄÐÂµÄ·þÎñÐÎÌ¬£©ÏòÄúÌá¹©µÄ¸÷Ïî·þÎñ¡£</div>
+                        <h5>2.1 Ç©Ô¼Ö÷Ìå</h5>
+                        <div class=\"nex_abvip_line\">¡¾Æ½µÈÖ÷Ìå¡¿±¾Ð­ÒéÓÉÄúÓëÐÇµã»¥Áª(neoconex)¾­ÓªÕß¹²Í¬µÞ½á£¬±¾Ð­Òé¶ÔÄúÓëÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕß¾ù¾ßÓÐºÏÍ¬Ð§Á¦¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾Ö÷ÌåÐÅÏ¢¡¿ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÊÇÖ¸¾­ÓªÐÇµã»¥Áª(neoconex)Æ½Ì¨µÄ·¨ÂÉÖ÷Ìå¡£±¾Ð­ÒéÏîÏÂ£¬ÐÇµã»¥Áª(neoconex)¾­ÓªÕß¿ÉÄÜ¸ù¾ÝÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñµ÷Õû¶ø·¢Éú±ä¸ü£¬±ä¸üºóµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÓëÄú¹²Í¬ÂÄÐÐ±¾Ð­Òé²¢ÏòÄúÌá¹©·þÎñ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßµÄ±ä¸ü²»»áÓ°ÏìÄú±¾Ð­ÒéÏîÏÂµÄÈ¨Òæ¡£ÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕß»¹ÓÐ¿ÉÄÜÒòÎªÌá¹©ÐÂµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¶øÐÂÔö£¬ÈçÄúÊ¹ÓÃÐÂÔöµÄÐÇµã»¥Áª(neoconex)Æ½Ì¨·þÎñµÄ£¬ÊÓÎªÄúÍ¬ÒâÐÂÔöµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¾­ÓªÕßÓëÄú¹²Í¬ÂÄÐÐ±¾Ð­Òé¡£·¢ÉúÕùÒéÊ±£¬Äú¿É¸ù¾ÝÄú¾ßÌåÊ¹ÓÃµÄ·þÎñ¼°¶ÔÄúÈ¨Òæ²úÉúÓ°ÏìµÄ¾ßÌåÐÐÎª¶ÔÏóÈ·¶¨ÓëÄúÂÄÔ¼µÄÖ÷Ìå¼°ÕùÒéÏà¶Ô·½¡£</div>
+                        <h5>2.2²¹³äÐ­Òé</h5>
+                        <div class=\"nex_abvip_line\">ÓÉÓÚ»¥ÁªÍø¸ßËÙ·¢Õ¹£¬ÄúÓëÐÇµã»¥Áª(neoconex)Ç©ÊðµÄ±¾Ð­ÒéÁÐÃ÷µÄÌõ¿î²¢²»ÄÜÍêÕûÂÞÁÐ²¢¸²¸ÇÄúÓëÐÇµã»¥Áª(neoconex)ËùÓÐÈ¨ÀûÓëÒåÎñ£¬ÏÖÓÐµÄÔ¼¶¨Ò²²»ÄÜ±£Ö¤ÍêÈ«·ûºÏÎ´À´·¢Õ¹µÄÐèÇó¡£Òò´Ë£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾·¨ÂÉÉùÃ÷¼°ÒþË½È¨Õþ²ß£¬Óë±¾Ð­Òé²»¿É·Ö¸îÇÒ¾ßÓÐÍ¬µÈ·¨ÂÉÐ§Á¦¡£ÈçÄúÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£¬ÊÓÎªÄúÍ¬ÒâÉÏÊö²¹³äÐ­Òé¡£</div>
+                        <h5>Èý¡¢ ÕË»§×¢²áÓëÊ¹ÓÃ</h5>
+                        <h5>3.1 ÓÃ»§×Ê¸ñ</h5>
+                        <div class=\"nex_abvip_line\">ÄúÈ·ÈÏ£¬ÔÚÄú¿ªÊ¼×¢²á³ÌÐòÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñÇ°£¬ÄúÓ¦µ±¾ß±¸ÖÐ»ªÈËÃñ¹²ºÍ¹ú·¨ÂÉ¹æ¶¨µÄÓëÄúÐÐÎªÏàÊÊÓ¦µÄÃñÊÂÐÐÎªÄÜÁ¦¡£ÈôÄú²»¾ß±¸Ç°ÊöÓëÄúÐÐÎªÏàÊÊÓ¦µÄÃñÊÂÐÐÎªÄÜÁ¦£¬ÔòÄú¼°ÄúµÄ¼à»¤ÈËÓ¦ÒÀÕÕ·¨ÂÉ¹æ¶¨³Ðµ£Òò´Ë¶øµ¼ÖÂµÄÒ»ÇÐºó¹û¡£
+´ËÍâ£¬Äú»¹ÐèÈ·±£Äú²»ÊÇÈÎºÎ¹ú¼Ò¡¢¹ú¼Ê×éÖ¯»òÕßµØÓòÊµÊ©µÄÃ³Ò×ÏÞÖÆ¡¢ÖÆ²Ã»òÆäËû·¨ÂÉ¡¢¹æÔòÏÞÖÆµÄ¶ÔÏó£¬·ñÔòÄú¿ÉÄÜÎÞ·¨Õý³£×¢²á¼°Ê¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¡£</div>
+						<h5>3.2 ÕË»§ËµÃ÷</h5>
+                        <div class=\"nex_abvip_line\">¡¾ÕË»§»ñµÃ¡¿µ±Äú°´ÕÕ×¢²áÒ³ÃæÌáÊ¾ÌîÐ´ÐÅÏ¢¡¢ÔÄ¶Á²¢Í¬Òâ±¾Ð­ÒéÇÒÍê³ÉÈ«²¿×¢²á³ÌÐòºó£¬Äú¿É»ñµÃÐÇµã»¥Áª(neoconex)ÍøÕ¾ÕË»§¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾ÕË»§Ê¹ÓÃ¡¿ÄúÓÐÈ¨Ê¹ÓÃÄúÉèÖÃ»òÈ·ÈÏµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾»áÔ±Ãû¡¢ÓÊÏä¡¢ÊÖ»úºÅÂë£¨ÒÔÏÂ¼ò³Æ¡°ÕË»§Ãû³Æ¡±£©¼°ÄúÉèÖÃµÄÃÜÂë£¨ÕË»§Ãû³Æ¼°ÃÜÂëºÏ³Æ¡°ÕË»§¡±£©µÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾¡£</div>
+                        <div class=\"nex_abvip_line\">ÓÉÓÚÄúµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾¹ØÁªÄúµÄ¸öÈËÐÅÏ¢¼°ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÉÌÒµÐÅÏ¢£¬ÄúµÄÐÇµã»¥Áª(neoconex)ÕË»§½öÏÞÄú±¾ÈËÊ¹ÓÃ¡£Î´¾­ÐÇµã»¥Áª(neoconex)ÍøÕ¾Í¬Òâ£¬ÄúÖ±½Ó»ò¼ä½ÓÊÚÈ¨µÚÈý·½Ê¹ÓÃÄúÐÇµã»¥Áª(neoconex)ÕË»§»ò»ñÈ¡ÄúÕË»§ÏîÏÂÐÅÏ¢µÄÐÐÎªÎÞÐ§¡£ÈçÐÇµã»¥Áª(neoconex)ÍøÕ¾ÅÐ¶ÏÄúÐÇµã»¥Áª(neoconex)ÕË»§µÄÊ¹ÓÃ¿ÉÄÜÎ£¼°ÄúµÄÕË»§°²È«¼°/»òÐÇµã»¥Áª(neoconex)ÍøÕ¾ÐÅÏ¢°²È«µÄ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾¿É¾Ü¾øÌá¹©ÏàÓ¦·þÎñ»òÖÕÖ¹±¾Ð­Òé¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾ÕË»§×ªÈÃ¡¿ÓÉÓÚÓÃ»§ÕË»§¹ØÁªÓÃ»§ÐÅÓÃÐÅÏ¢£¬½öµ±ÓÐ·¨ÂÉÃ÷ÎÄ¹æ¶¨¡¢Ë¾·¨²Ã¶¨»ò¾­ÐÇµã»¥Áª(neoconex)ÍøÕ¾Í¬Òâ£¬²¢·ûºÏÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔò¹æ¶¨µÄÓÃ»§ÕË»§×ªÈÃÁ÷³ÌµÄÇé¿öÏÂ£¬Äú¿É½øÐÐÕË»§µÄ×ªÈÃ¡£ÄúµÄÕË»§Ò»¾­×ªÈÃ£¬¸ÃÕË»§ÏîÏÂÈ¨ÀûÒåÎñÒ»²¢×ªÒÆ¡£³ý´ËÍâ£¬ÄúµÄÕË»§²»µÃÒÔÈÎºÎ·½Ê½×ªÈÃ£¬·ñÔòÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÐÈ¨×·¾¿ÄúµÄÎ¥Ô¼ÔðÈÎ£¬ÇÒÓÉ´Ë²úÉúµÄÒ»ÇÐÔðÈÎ¾ùÓÉÄú³Ðµ£¡£</div>
+                        <h5>3.3 ×¢²áÐÅÏ¢¹ÜÀí</h5>
+                        <h5>3.3.1 ÕæÊµºÏ·¨</h5>
+                        <div class=\"nex_abvip_line\">¡¾ÐÅÏ¢ÕæÊµ¡¿ÔÚÊ¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñÊ±£¬ÄúÓ¦µ±°´ÐÇµã»¥Áª(neoconex)ÍøÕ¾Ò³ÃæµÄÌáÊ¾×¼È·ÍêÕûµØÌá¹©ÄúµÄÐÅÏ¢£¨°üÀ¨ÄúµÄÐÕÃû¼°µç×ÓÓÊ¼þµØÖ·¡¢ÁªÏµµç»°¡¢ÁªÏµµØÖ·µÈ£©£¬ÒÔ±ãÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓëÄúÁªÏµ¡£ÄúÁË½â²¢Í¬Òâ£¬ÄúÓÐÒåÎñ±£³ÖÄúÌá¹©ÐÅÏ¢µÄÕæÊµÐÔ¼°ÓÐÐ§ÐÔ¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾»áÔ±ÃûµÄºÏ·¨ÐÔ¡¿ÄúÉèÖÃµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§Ãû²»µÃÎ¥·´¹ú¼Ò·¨ÂÉ·¨¹æ¼°ÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔò¹ØÓÚ»áÔ±ÃûµÄ¹ÜÀí¹æ¶¨£¬·ñÔòÐÇµã»¥Áª(neoconex)ÍøÕ¾¿É»ØÊÕÄúµÄÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§Ãû¡£ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÓÃ»§ÃûµÄ»ØÊÕ²»Ó°ÏìÄúÒÔÓÊÏä¡¢ÊÖ»úºÅÂëµÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾²¢Ê¹ÓÃÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¡£</div>
+                        <h5>3.3.2 ¸üÐÂÎ¬»¤</h5>
+                        <div class=\"nex_abvip_line\">ÄúÓ¦µ±¼°Ê±¸üÐÂÄúÌá¹©µÄÐÅÏ¢£¬ÔÚ·¨ÂÉÓÐÃ÷È·¹æ¶¨ÒªÇóÐÇµã»¥Áª(neoconex)ÍøÕ¾×÷ÎªÆ½Ì¨·þÎñÌá¹©Õß±ØÐë¶Ô²¿·ÖÓÃ»§µÄÐÅÏ¢½øÐÐºËÊµµÄÇé¿öÏÂ£¬ÐÇµã»¥Áª(neoconex)½«ÒÀ·¨²»Ê±µØ¶ÔÄúµÄÐÅÏ¢½øÐÐ¼ì²éºËÊµ£¬ÄúÓ¦µ±ÅäºÏÌá¹©×îÐÂ¡¢ÕæÊµ¡¢ÍêÕû¡¢ÓÐÐ§µÄÐÅÏ¢¡£
+ÈçÐÇµã»¥Áª(neoconex)°´Äú×îºóÒ»´ÎÌá¹©µÄÐÅÏ¢ÓëÄúÁªÏµÎ´¹û¡¢ÄúÎ´°´ÐÇµã»¥Áª(neoconex)µÄÒªÇó¼°Ê±Ìá¹©ÐÅÏ¢¡¢ÄúÌá¹©µÄÐÅÏ¢´æÔÚÃ÷ÏÔ²»Êµ»òÐÐÕþË¾·¨»ú¹ØºËÊµÄúÌá¹©µÄÐÅÏ¢ÎÞÐ§µÄ£¬Äú½«³Ðµ£Òò´Ë¶ÔÄú×ÔÉí¡¢ËûÈË¼°ÐÇµã»¥Áª(neoconex)Ôì³ÉµÄÈ«²¿ËðÊ§Óë²»Àûºó¹û¡£ÐÇµã»¥Áª(neoconex)¿ÉÏòÄú·¢³öÑ¯ÎÊ»òÒªÇóÕû¸ÄµÄÍ¨Öª£¬²¢ÒªÇóÄú½øÐÐÖØÐÂÈÏÖ¤£¬Ö±ÖÁÖÐÖ¹¡¢ÖÕÖ¹¶ÔÄúÌá¹©²¿·Ö»òÈ«²¿ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ£¬ÐÇµã»¥Áª(neoconex)¶Ô´Ë²»³Ðµ£ÔðÈÎ¡£</div>
+						<h5>3.4 ÕË»§°²È«¹æ·¶</h5>
+                        <div class=\"nex_abvip_line\">¡¾ÕË»§°²È«±£¹ÜÒåÎñ¡¿ÄúµÄÕË»§ÎªÄú×ÔÐÐÉèÖÃ²¢ÓÉÄú±£¹Ü£¬ÐÇµã»¥Áª(neoconex)ÈÎºÎÊ±ºò¾ù²»»áÖ÷¶¯ÒªÇóÄúÌá¹©ÄúµÄÕË»§ÃÜÂë¡£Òò´Ë£¬½¨ÒéÄúÎñ±Ø±£¹ÜºÃÄúµÄÕË»§£¬²¢È·±£ÄúÔÚÃ¿¸öÉÏÍøÊ±¶Î½áÊøÊ±ÍË³öµÇÂ¼²¢ÒÔÕýÈ·²½ÖèÀë¿ªÐÇµã»¥Áª(neoconex)ÍøÕ¾¡£
+ÕË»§ÒòÄúÖ÷¶¯Ð¹Â¶»òÒòÄúÔâÊÜËûÈË¹¥»÷¡¢Õ©Æ­µÈÐÐÎªµ¼ÖÂµÄËðÊ§¼°ºó¹û£¬ÐÇµã»¥Áª(neoconex)²¢²»³Ðµ£ÔðÈÎ£¬ÄúÓ¦Í¨¹ýË¾·¨¡¢ÐÐÕþµÈ¾È¼ÃÍ¾¾¶ÏòÇÖÈ¨ÐÐÎªÈË×·³¥¡£</div>
+                        <div class=\"nex_abvip_line\">¡¾ÕË»§ÐÐÎªÔðÈÎ×Ô¸º¡¿³ýÐÇµã»¥Áª(neoconex)´æÔÚ¹ý´íÍâ£¬ÄúÓ¦¶ÔÄúÕË»§ÏîÏÂµÄËùÓÐÐÐÎª½á¹û£¨°üÀ¨µ«²»ÏÞÓÚÔÚÏßÇ©Êð¸÷ÀàÐ­Òé¡¢·¢²¼ÐÅÏ¢¡¢¹ºÂòVIP»áÔ±¼°·þÎñ¼°ÅûÂ¶ÐÅÏ¢µÈ£©¸ºÔð¡£</div>
+                        <h5>ËÄ¡¢ ÐÇµã»¥Áª(neoconex)ÍøÕ¾·þÎñ¼°¹æ·¶</h5>
+                        <div class=\"nex_abvip_line\">¡¾·þÎñ¸Å¿ö¡¿ÄúÓÐÈ¨ÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾ÉÏÏíÊÜ·¢²¼ºÏ·¨ÐÅÏ¢£¬°üÀ¨µ«²»ÏÞÓÚ×ÊÑ¶¡¢ÆÀÂÛºÍÉè¼Æ×ÊÔ´µÈ·þÎñ¡£¸ü¶àÍøÕ¾·þÎñÄÚÈÝ£¬¾ßÌåÄú¿ÉÒÔµÇÂ¼ÐÇµã»¥Áª(neoconex)ÍøÕ¾ä¯ÀÀ¡£</div>
+                        <h5>4.2×ÊÑ¶ºÍ×ÊÔ´·¢²¼</h5>
+                        <div class=\"nex_abvip_line\">¡¾×ÊÑ¶ºÍ×ÊÔ´·¢²¼¡¿ÄúÍ¨¹ýÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢²¼µÄ×ÊÑ¶ºÍ×ÊÔ´Ó¦¸Ã×ñÊØÖÐ»ªÈËÃñ¹²ºÍ¹úÏà¹Ø·¨ÂÉ·¨¹æ¹æ¶¨£¬ÇÒ·ûºÏDMCA notices¡£¡¾×ÊÑ¶ºÍ×ÊÔ´É¾³ý¡¿ÈçÄúÍ¨¹ýÐÇµã»¥Áª(neoconex)ÍøÕ¾·¢²¼µÄÐÅÏ¢´æÔÚÒÔÏÂÐÐÎª£º£¨Ò»£©¹ú¼Ò·¨ÂÉ·¨¹æÃ÷ÎÄ½ûÖ¹»òÏÞÖÆµÄ£»£¨¶þ£©ÇÖ·¸ËûÈËÖªÊ¶²úÈ¨»òÆäËüºÏ·¨È¨ÒæµÄ£»£¨Èý£©Î¥·´DMCA noticesµÄ¡£ÐÇµã»¥Áª(neoconex)¾ùÓÐÈ¨¶Ô¸ÃÐÅÏ¢½øÐÐÉ¾³ý£¬ÇÒÓÉ´Ë²úÉúµÄ·¨ÂÉÔðÈÎÓ¦ÓÉÄú±¾ÈË³Ðµ£¡£
+</div>
+                        <h5>4.3ÍøÕ¾ÆÀ¼Û</h5>
+                        <div class=\"nex_abvip_line\">¡¾ÆÀ¼Û¡¿ÄúÓÐÈ¨ÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾Ìá¹©µÄÆÀ¼ÛÏµÍ³ÖÐ¶ÔÏà¹Ø×ÊÑ¶¡¢×ÊÔ´½øÐÐÆÀ¼Û¡£ÄúÓ¦µ±Àí½â£¬ÄúÔÚÐÇµã»¥Áª(neoconex)ÍøÕ¾µÄÆÀ¼ÛÐÅÏ¢ÊÇ¹«¿ªµÄ£¬ÈçÄú²»Ô¸ÒâÔÚÆÀ¼ÛÐÅÏ¢ÖÐÏò¹«ÖÚÅûÂ¶ÄúµÄÉí·ÝÐÅÏ¢£¬ÄúÓÐÈ¨Ñ¡ÔñÍ¨¹ýÄäÃûÐÎÊ½·¢±íÆÀ¼ÛÄÚÈÝ¡£</div>
+                        <div class=\"nex_abvip_line\">ÄúµÄËùÓÐÆÀ¼ÛÐÐÎªÓ¦×ñÊØÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔòµÄÏà¹Ø¹æ¶¨£¬ÆÀ¼ÛÄÚÈÝÓ¦µ±¿Í¹ÛÕæÊµ£¬²»Ó¦°üº¬ÈÎºÎÎÛÑÔ»àÓï¡¢É«ÇéµÍË×¡¢¹ã¸æÐÅÏ¢¼°·¨ÂÉ·¨¹æÓë±¾Ð­ÒéÁÐÃ÷µÄÆäËû½ûÖ¹ÐÔÐÅÏ¢¡£ÐÇµã»¥Áª(neoconex)¿É°´ÕÕÐÇµã»¥Áª(neoconex)ÍøÕ¾¹æÔòµÄÏà¹Ø¹æ¶¨¶ÔÄúÊµÊ©ÉÏÊöÐÐÎªËù²úÉúµÄÆÀ¼ÛÐÅÏ¢½øÐÐÉ¾³ý»òÆÁ±Î¡£</div>
+                        <h5>4.4·ÑÓÃ</h5>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª(neoconex)ÎªÐÇµã»¥Áª(neoconex)ÍøÕ¾ÏòÄúÌá¹©µÄ·þÎñ¸¶³öÁËÔËÓª³É±¾£¬³ýÐÇµã»¥Áª(neoconex)ÍøÕ¾Ã÷Ê¾µÄÊÕ·ÑÒµÎñÍâ£¬ÐÇµã»¥Áª(neoconex)ÍøÕ¾ÏòÄúÌá¹©µÄÆÕÍ¨»áÔ±·þÎñÄ¿Ç°ÊÇÃâ·ÑµÄ¡£</div>
+                        <div class=\"nex_abvip_line\">×¢Òâ£¬VIP»áÔ±ËùÓÐÖ§¸¶µÄ·ÑÓÃ½öÓÃÓÚ¾èÏ×±¾Õ¾·þÎñÆ÷ÓòÃû¹ºÂò¡¢ÍøÕ¾Î¬»¤ºÍÆäËûÍøÕ¾ÔÓ·Ñ¡£¶ø²¢·ÇÓÃÓÚ¹ºÂò±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´Ê¹ÓÃÈ¨»òÕß°æÈ¨¡£ÈôÓÃ»§ÐèÒªÉÌÓÃ±¾Õ¾ÈÎÒâÉè¼Æ×ÊÔ´£¬¾ùÐèÒªÏò×ÊÔ´°æÈ¨ÕßÖ§¸¶°æÈ¨·ÑÓÃ¡£
+¹ºÂòVIP»áÔ±ÒâÎ¶×ÅÄúÈÏÍ¬ºÍ·þ´ÓVIP»áÔ±Ïà¹ØÌõ¿î¡£</div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568087565]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="136">
+				<item id="bid"><![CDATA[136]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[law]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>Ò»¡¢ÃâÔðÌõ¿î</h2>
+                        <div class="nex_abvip_line">1¡¢±¾Õ¾×ªÔØµÄÎÄÕÂ»òÕß×ÊÔ´·ÇÔ­´´£¬Æä°æÈ¨ºÍÎÄÔðÊôÓÚÔ­×÷Õß¡£</div>
+                        <div class="nex_abvip_line">2¡¢±¾Õ¾ÓÃ»§Í¶µÝµÄÔ­´´ÎÄÕÂ»òÕß×ÊÔ´£¬Æä°æÈ¨ºÍÎÄÔðÊôÓÚÍ¶µÝÕß£¬³ý·ÇÁíÓÐËµÃ÷¡£</div>
+                        <div class="nex_abvip_line">3¡¢ÓÉÐÇµã»¥Áª(neoconex)±à¼­²ÉÐ´µÄÎÄÕÂ»òÕß×ÊÔ´¾ùÔÚÎÄÄÚÓÐÃ÷ÏÔ±ê¼Ç£¬ÔðÈÎ±à¼­¶ÔÎÄÕÂµÄÕæÊµÐÔºÍÔ­´´ÐÔ¸ºÔð¡£×ªÔØÊ±Ö»Ðè±êÃ÷³ö´¦ºÍÔ­×÷Õß¼´¿É£¬µ«¶ÔÓÚÉÃ×ÔÐÞ¸ÄÔ­ÎÄµ¼ÖÂÎÄÒâ¸Ä±äÒý·¢µÄÎÊÌâ£¬ÐÇµã»¥Áª(neoconex)²»³Ðµ£ÈÎºÎÔðÈÎ¡£</div>
+                        <div class="nex_abvip_line">4¡¢±¨µÀÖÐ³öÏÖµÄÉÌ±ê¡¢×¨ÀûºÍÆäËû°æÈ¨ËùÓÐµÄÐÅÏ¢£¬Æä°æÈ¨ÊôÓÚÆäºÏ·¨³ÖÓÐÈË¡£</div>
+                        <div class="nex_abvip_line">5¡¢ÐÇµã»¥Áª(neoconex)×ñÊØDMCA notices£¬¶ÔÇÖÈ¨ÄÚÈÝÁ´½Ó½øÐÐÉ¾³ý¡£¶Ô¿ÉÒÔÌá¹©³ä·ÖÖ¤¾ÝµÄÇÖÈ¨ÐÅÏ¢£¬ Ð¡¿â½«ÔÚÈ·ÈÏºó24Ð¡Ê±ÄÚÉ¾³ý¡£</div>
+                        <div class="nex_abvip_line">6¡¢ÐÇµã»¥Áª(neoconex)·þ´ÓÆä·þÎñÆ÷½ÚµãËùÔÚµØµÄ·¨ÂÉ¹ÜÏ½¡£</div>
+                        <h2>¶þ¡¢ÆÀÂÛÐëÖª</h2>
+                        <div class="nex_abvip_line">1¡¢ÍøÓÑÆÀÂÛ½ö¹©Æä±í´ï¸öÈË¿´·¨£¬²¢²»±íÃ÷ÐÇµã»¥Áª(neoconex)Ö¤Êµ¡¢Ö¤Î±¡¢Ö§³Ö»ò·´¶ÔÆÀÂÛÖÐµÄÐÅÏ¢¡£</div>
+                        <div class="nex_abvip_line">2¡¢ÆÀÂÛÕßÍ¬Ê±ÊÜµ½Æä×ÔÉíËùÔÚµØºÍÐÇµã»¥Áª(neoconex)·þÎñÆ÷ËùÔÚµØµÄ·¨ÂÉ¹ÜÏ½¡£Çë×¢Òâ²»Òª·¢²¼Î¥·´ÆÀÂÛÕßËùÔÚµØ»ò±¾Õ¾·þÎñÆ÷ËùÔÚµØ·¨ÂÉµÄÐÅÏ¢£¬·ñÔòÐÅÏ¢ÓÐ¿ÉÄÜ±»É¾³ý¡£±¾Õ¾¿ÉÄÜÓÃ¼¼ÊõÊÖ¶ÎÏÞÖÆÄúµÄ·ÃÎÊ£¬Ò²¿ÉÄÜÒÀÏÂÊö¡°ÓÐ¹ØÄúµÄÒþË½¡±²¿·ÖÖ®ÀíÓÉ¶øÒÀ·¨ÅûÂ¶ÄúµÄÐÅÏ¢¡£ÇëÈÏÕæ¶Ô´ýÒÔÉÏ¾¯¸æ¡£</div>
+                        <div class="nex_abvip_line">3¡¢·¢±íÆÀÂÛ±íÊ¾ÄúÊÚÈ¨ÐÇµã»¥Áª(neoconex)ÈÎÒâÊ¹ÓÃÄú·¢²¼µÄÐÅÏ¢£¬ÒÔ¼°ÖÆ×÷ÑÜÉú²úÆ·¡£¾ßÌåµØËµ£¬¶ÔÓÚÄúÑ¡Ôñ²¢ÕÅÌùÔÚÈÎºÎ±¾·þÎñÖÐ¿É¹«¿ª»ñÈ¡ÇøÓòµÄÄÚÈÝ£¬ÄúÍ¬ÒâÐÇµã»¥Áª(neoconex) ÔÚÈ«ÊÀ½ç·¶Î§ÄÚ¾ßÓÐÃâ·ÑµÄ¡¢ÓÀÔ¶µÄ¡¢²»¿É³·ÏúµÄ¡¢·Ç¶À¼ÒµÄºÍÍêÈ«ÔÙÐí¿ÉµÄÈ¨ÀûºÍÐí¿É£¬ÒÔÊ¹ÓÃ¡¢¸´ÖÆ¡¢ÐÞ¸Ä¡¢¸Ä±à¡¢³ö°æ¡¢·­Òë¡¢¾ÝÒÔ´´×÷ÑÜÉú×÷Æ·£¬´«²¥¡¢±íÑÝºÍÕ¹Ê¾´ËµÈÄÚÈÝ£¨ÕûÌå»ò²¿·Ö£©£¬ºÍ/»ò½«´ËµÈÄÚÈÝ±àÈëÆäËûÈÎºÎÐÎÊ½µÄ×÷Æ·¡¢Ã½Ìå¡¢»ò¼¼ÊõÖÐ£¬²»ÂÛÊÇµ±Ç°ÒÑÖªµÄ»òÒÔºó¿ª·¢µÄ¡£</div>
+                        <div class="nex_abvip_line">4¡¢ÐÇµã»¥Áª(neoconex)¿ÉÄÜÔÚ²»ÊÂÏÈÍ¨ÖªÄúµÄÇé¿öÏÂ¸ü¸Ä»òÖÐÖ¹Ä³ÏîÕýÔÚÔËÓªµÄ·þÎñ£¬Ò²²»»á¶Ô´«Êä¹ý³ÌÖÐÔì³ÉµÄÐÅÏ¢µÄÅ¼È»¶ªÊ§³Ðµ£ÔðÈÎ»òÒåÎñ¡£</div>
+                        <div class="nex_abvip_line">5¡¢ÆÀÂÛÊ±Çë×ñÊØ¹«¹²µÀµÂ£¬Ð»¾øµØÓò¹¥»÷¡¢ÈËÉí¹¥»÷¡£Çë×ñÊØÀíÐÔ£¬¿íÈÝ£¬»»Î»Ë¼¿¼µÄÔ­Ôò¡£</div>
+                        <h2>Èý¡¢ÓÃ»§ÒþË½</h2>
+                        <div class="nex_abvip_line">1¡¢ÐÇµã»¥Áª(neoconex) Ö÷¶¯ÊÕ¼¯µÄÐÅÏ¢¾ùÓëÄúµÄ¸öÈËÉí·ÝÃ»ÓÐ¹ØÁª£¬ÕâÐ©ÐÅÏ¢ÓÃÒÔ¸ÄÉÆÎÒÃÇµÄ·þÎñºÍÍ³¼ÆÓÃÓÚ¹ã¸æÖ÷µÄÍøÕ¾ÕûÌåÐÅÏ¢¡£</div>
+                        <div class="nex_abvip_line">2¡¢ÐÇµã»¥Áª(neoconex) Ê¹ÓÃµÄÄ³Ð©µÚÈý·½·þÎñ¿ÉÄÜÊÕ¼¯ÄúµÄÐÅÏ¢£¬Çë²Î¿¼ËüÃÇ¸÷×ÔµÄÒþË½ÉùÃ÷¡£</div>
+                        <div class="nex_abvip_line">3¡¢ÐÇµã»¥Áª(neoconex) ¿É¸ù¾Ý·¨ÂÉÒªÇó¶ÔÄÚÈÝ½øÐÐÅûÂ¶£¬ÒÔ£¨a£©×ñÊØ·¨ÂÉ³ÌÐò£»£¨b£©Ö´ÐÐ·þÎñÌõ¿î£» £¨c£©ÎªÁË´ð¸´ÒòÕÅÌùÄÚÈÝÇÖ·¸µÚÈý·½È¨Àû¶øÒýÆðµÄÖ÷ÕÅ£»£¨d£©ÎªÁË±£»¤ÐÇµã»¥Áª(neoconex)¼°ÆäÓÃ»§ºÍ¹«ÖÚµÄÈ¨Àû¡¢²Æ²ú¡¢»òÈËÔ±µÄ°²È«£»£¨e£©ÐÇµã»¥Áª(neoconex)¼°ÆäÖ¸¶¨µÄÈË½«ÓÐÈ¨ÀûÒÆ×ßÈÎºÎÎ¥·´·þÎñÆ÷ËùÔÚµØ·¨ÂÉ¡¢·¨¹æ¡¢±¾Ò³Ìõ¿îµÄÓÃ»§£¬»òÆäËûÐÇµã»¥Áª(neoconex)ÈÏÎª²»¿É½ÓÊÜµÄÄÚÈÝ¡£</div>
+                        <div class="nex_abvip_line">4¡¢ÐÇµã»¥Áª(neoconex)Î´À´¿ÉÄÜÊÓÇé¿ö¶Ô±¾Ò³Ìõ¿î½øÐÐÐÞ¶©»ò½âÊÍ¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>Ò»¡¢ÃâÔðÌõ¿î</h2>
+                        <div class=\"nex_abvip_line\">1¡¢±¾Õ¾×ªÔØµÄÎÄÕÂ»òÕß×ÊÔ´·ÇÔ­´´£¬Æä°æÈ¨ºÍÎÄÔðÊôÓÚÔ­×÷Õß¡£</div>
+                        <div class=\"nex_abvip_line\">2¡¢±¾Õ¾ÓÃ»§Í¶µÝµÄÔ­´´ÎÄÕÂ»òÕß×ÊÔ´£¬Æä°æÈ¨ºÍÎÄÔðÊôÓÚÍ¶µÝÕß£¬³ý·ÇÁíÓÐËµÃ÷¡£</div>
+                        <div class=\"nex_abvip_line\">3¡¢ÓÉÐÇµã»¥Áª(neoconex)±à¼­²ÉÐ´µÄÎÄÕÂ»òÕß×ÊÔ´¾ùÔÚÎÄÄÚÓÐÃ÷ÏÔ±ê¼Ç£¬ÔðÈÎ±à¼­¶ÔÎÄÕÂµÄÕæÊµÐÔºÍÔ­´´ÐÔ¸ºÔð¡£×ªÔØÊ±Ö»Ðè±êÃ÷³ö´¦ºÍÔ­×÷Õß¼´¿É£¬µ«¶ÔÓÚÉÃ×ÔÐÞ¸ÄÔ­ÎÄµ¼ÖÂÎÄÒâ¸Ä±äÒý·¢µÄÎÊÌâ£¬ÐÇµã»¥Áª(neoconex)²»³Ðµ£ÈÎºÎÔðÈÎ¡£</div>
+                        <div class=\"nex_abvip_line\">4¡¢±¨µÀÖÐ³öÏÖµÄÉÌ±ê¡¢×¨ÀûºÍÆäËû°æÈ¨ËùÓÐµÄÐÅÏ¢£¬Æä°æÈ¨ÊôÓÚÆäºÏ·¨³ÖÓÐÈË¡£</div>
+                        <div class=\"nex_abvip_line\">5¡¢ÐÇµã»¥Áª(neoconex)×ñÊØDMCA notices£¬¶ÔÇÖÈ¨ÄÚÈÝÁ´½Ó½øÐÐÉ¾³ý¡£¶Ô¿ÉÒÔÌá¹©³ä·ÖÖ¤¾ÝµÄÇÖÈ¨ÐÅÏ¢£¬ Ð¡¿â½«ÔÚÈ·ÈÏºó24Ð¡Ê±ÄÚÉ¾³ý¡£</div>
+                        <div class=\"nex_abvip_line\">6¡¢ÐÇµã»¥Áª(neoconex)·þ´ÓÆä·þÎñÆ÷½ÚµãËùÔÚµØµÄ·¨ÂÉ¹ÜÏ½¡£</div>
+                        <h2>¶þ¡¢ÆÀÂÛÐëÖª</h2>
+                        <div class=\"nex_abvip_line\">1¡¢ÍøÓÑÆÀÂÛ½ö¹©Æä±í´ï¸öÈË¿´·¨£¬²¢²»±íÃ÷ÐÇµã»¥Áª(neoconex)Ö¤Êµ¡¢Ö¤Î±¡¢Ö§³Ö»ò·´¶ÔÆÀÂÛÖÐµÄÐÅÏ¢¡£</div>
+                        <div class=\"nex_abvip_line\">2¡¢ÆÀÂÛÕßÍ¬Ê±ÊÜµ½Æä×ÔÉíËùÔÚµØºÍÐÇµã»¥Áª(neoconex)·þÎñÆ÷ËùÔÚµØµÄ·¨ÂÉ¹ÜÏ½¡£Çë×¢Òâ²»Òª·¢²¼Î¥·´ÆÀÂÛÕßËùÔÚµØ»ò±¾Õ¾·þÎñÆ÷ËùÔÚµØ·¨ÂÉµÄÐÅÏ¢£¬·ñÔòÐÅÏ¢ÓÐ¿ÉÄÜ±»É¾³ý¡£±¾Õ¾¿ÉÄÜÓÃ¼¼ÊõÊÖ¶ÎÏÞÖÆÄúµÄ·ÃÎÊ£¬Ò²¿ÉÄÜÒÀÏÂÊö¡°ÓÐ¹ØÄúµÄÒþË½¡±²¿·ÖÖ®ÀíÓÉ¶øÒÀ·¨ÅûÂ¶ÄúµÄÐÅÏ¢¡£ÇëÈÏÕæ¶Ô´ýÒÔÉÏ¾¯¸æ¡£</div>
+                        <div class=\"nex_abvip_line\">3¡¢·¢±íÆÀÂÛ±íÊ¾ÄúÊÚÈ¨ÐÇµã»¥Áª(neoconex)ÈÎÒâÊ¹ÓÃÄú·¢²¼µÄÐÅÏ¢£¬ÒÔ¼°ÖÆ×÷ÑÜÉú²úÆ·¡£¾ßÌåµØËµ£¬¶ÔÓÚÄúÑ¡Ôñ²¢ÕÅÌùÔÚÈÎºÎ±¾·þÎñÖÐ¿É¹«¿ª»ñÈ¡ÇøÓòµÄÄÚÈÝ£¬ÄúÍ¬ÒâÐÇµã»¥Áª(neoconex) ÔÚÈ«ÊÀ½ç·¶Î§ÄÚ¾ßÓÐÃâ·ÑµÄ¡¢ÓÀÔ¶µÄ¡¢²»¿É³·ÏúµÄ¡¢·Ç¶À¼ÒµÄºÍÍêÈ«ÔÙÐí¿ÉµÄÈ¨ÀûºÍÐí¿É£¬ÒÔÊ¹ÓÃ¡¢¸´ÖÆ¡¢ÐÞ¸Ä¡¢¸Ä±à¡¢³ö°æ¡¢·­Òë¡¢¾ÝÒÔ´´×÷ÑÜÉú×÷Æ·£¬´«²¥¡¢±íÑÝºÍÕ¹Ê¾´ËµÈÄÚÈÝ£¨ÕûÌå»ò²¿·Ö£©£¬ºÍ/»ò½«´ËµÈÄÚÈÝ±àÈëÆäËûÈÎºÎÐÎÊ½µÄ×÷Æ·¡¢Ã½Ìå¡¢»ò¼¼ÊõÖÐ£¬²»ÂÛÊÇµ±Ç°ÒÑÖªµÄ»òÒÔºó¿ª·¢µÄ¡£</div>
+                        <div class=\"nex_abvip_line\">4¡¢ÐÇµã»¥Áª(neoconex)¿ÉÄÜÔÚ²»ÊÂÏÈÍ¨ÖªÄúµÄÇé¿öÏÂ¸ü¸Ä»òÖÐÖ¹Ä³ÏîÕýÔÚÔËÓªµÄ·þÎñ£¬Ò²²»»á¶Ô´«Êä¹ý³ÌÖÐÔì³ÉµÄÐÅÏ¢µÄÅ¼È»¶ªÊ§³Ðµ£ÔðÈÎ»òÒåÎñ¡£</div>
+                        <div class=\"nex_abvip_line\">5¡¢ÆÀÂÛÊ±Çë×ñÊØ¹«¹²µÀµÂ£¬Ð»¾øµØÓò¹¥»÷¡¢ÈËÉí¹¥»÷¡£Çë×ñÊØÀíÐÔ£¬¿íÈÝ£¬»»Î»Ë¼¿¼µÄÔ­Ôò¡£</div>
+                        <h2>Èý¡¢ÓÃ»§ÒþË½</h2>
+                        <div class=\"nex_abvip_line\">1¡¢ÐÇµã»¥Áª(neoconex) Ö÷¶¯ÊÕ¼¯µÄÐÅÏ¢¾ùÓëÄúµÄ¸öÈËÉí·ÝÃ»ÓÐ¹ØÁª£¬ÕâÐ©ÐÅÏ¢ÓÃÒÔ¸ÄÉÆÎÒÃÇµÄ·þÎñºÍÍ³¼ÆÓÃÓÚ¹ã¸æÖ÷µÄÍøÕ¾ÕûÌåÐÅÏ¢¡£</div>
+                        <div class=\"nex_abvip_line\">2¡¢ÐÇµã»¥Áª(neoconex) Ê¹ÓÃµÄÄ³Ð©µÚÈý·½·þÎñ¿ÉÄÜÊÕ¼¯ÄúµÄÐÅÏ¢£¬Çë²Î¿¼ËüÃÇ¸÷×ÔµÄÒþË½ÉùÃ÷¡£</div>
+                        <div class=\"nex_abvip_line\">3¡¢ÐÇµã»¥Áª(neoconex) ¿É¸ù¾Ý·¨ÂÉÒªÇó¶ÔÄÚÈÝ½øÐÐÅûÂ¶£¬ÒÔ£¨a£©×ñÊØ·¨ÂÉ³ÌÐò£»£¨b£©Ö´ÐÐ·þÎñÌõ¿î£» £¨c£©ÎªÁË´ð¸´ÒòÕÅÌùÄÚÈÝÇÖ·¸µÚÈý·½È¨Àû¶øÒýÆðµÄÖ÷ÕÅ£»£¨d£©ÎªÁË±£»¤ÐÇµã»¥Áª(neoconex)¼°ÆäÓÃ»§ºÍ¹«ÖÚµÄÈ¨Àû¡¢²Æ²ú¡¢»òÈËÔ±µÄ°²È«£»£¨e£©ÐÇµã»¥Áª(neoconex)¼°ÆäÖ¸¶¨µÄÈË½«ÓÐÈ¨ÀûÒÆ×ßÈÎºÎÎ¥·´·þÎñÆ÷ËùÔÚµØ·¨ÂÉ¡¢·¨¹æ¡¢±¾Ò³Ìõ¿îµÄÓÃ»§£¬»òÆäËûÐÇµã»¥Áª(neoconex)ÈÏÎª²»¿É½ÓÊÜµÄÄÚÈÝ¡£</div>
+                        <div class=\"nex_abvip_line\">4¡¢ÐÇµã»¥Áª(neoconex)Î´À´¿ÉÄÜÊÓÇé¿ö¶Ô±¾Ò³Ìõ¿î½øÐÐÐÞ¶©»ò½âÊÍ¡£</div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568087563]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="137">
+				<item id="bid"><![CDATA[137]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[update_agreement]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>×ÜÔò</h2>
+                        <div class="nex_abvip_line">ÓÃ»§ÔÚ½ÓÊÜÐÇµã»¥ÁªµÄÉÏ´«·þÎñÖ®Ç°£¬ÇëÎñ±Ø×ÐÏ¸ÔÄ¶Á±¾Ìõ¿î²¢Í¬Òâ±¾ÉùÃ÷£»ÓÃ»§Ê¹ÓÃÉÏ´«·þÎñÔòÄ¬ÈÏÒÑÖªÏþÏà¹ØÉùÃ÷¼°ÄÚÈÝ¡£</div>
+                        <h2>µÚÒ»Ìõ</h2>
+                        <div class="nex_abvip_line">ÓÃ»§ÒÔ¸÷ÖÖ·½Ê½Ê¹ÓÃÐÇµã»¥ÁªµÄ·þÎñºÍÊý¾Ý£¨°üÀ¨µ«²»ÏÞÓÚÉÏ´«Í¼Æ¬¡¢psÎÄ¼þ¡¢Ñ¹Ëõ°üµÈÄÚÈÝ£©µÄ¹ý³ÌÖÐ£¬²»µÃÒÔÈÎºÎ·½Ê½ÀûÓÃÄ£¿âÖ±½Ó»ò¼ä½Ó´ÓÊÂÎ¥·´ÖÐ¹ú·¨ÂÉ¡¢ÒÔ¼°Éç»á¹«µÂµÄÐÐÎª£¬ÇÒÓÃ»§Ó¦µ±ã¡ÊØÏÂÊö³ÐÅµ£º</div>
+                        <div class="nex_abvip_line">1. ÉÏ´«¡¢·¢²¼¡¢×ªÔØ»òÌá¹©µÄÄÚÈÝ·ûºÏÖÐ¹ú·¨ÂÉ¡¢Éç»á¹«µÂ£»</div>
+                        <div class="nex_abvip_line">2. ²»µÃ¸ÉÈÅ¡¢Ëðº¦ºÍÇÖ·¸ÐÇµã»¥ÁªµÄ¸÷ÖÖºÏ·¨È¨ÀûÓëÀûÒæ£»</div>
+                        <div class="nex_abvip_line">3. ×ñÊØÐÇµã»¥ÁªÒÔ¼°ÓëÖ®Ïà¹ØµÄÍøÂç·þÎñµÄÐ­Òé¡¢Ö¸µ¼Ô­Ôò¡¢¹ÜÀíÏ¸ÔòµÈ£»</div>
+                        <div class="nex_abvip_line">ÐÇµã»¥ÁªÓÐÈ¨¶ÔÎ¥·´ÉÏÊö³ÐÅµµÄÄÚÈÝÓèÒÔÉ¾³ý¡£</div>
+                        <h2>µÚ¶þÌõ</h2>
+                        <div class="nex_abvip_line">1.ÓÃ»§ÔÚÐÇµã»¥ÁªÉÏ´«¡¢·¢²¼µÄÄÚÈÝ£¨°üº¬µ«²»ÏÞÓÚ°üÀ¨µ«²»ÏÞÓÚÉÏ´«Í¼Æ¬¡¢psÎÄ¼þ¡¢Ñ¹Ëõ°üµÈÄÚÈÝ£©½ö±íÃ÷Æä¸öÈËµÄÁ¢³¡ºÍ¹Ûµã£¬²¢²»´ú±íÐÇµã»¥ÁªµÄÁ¢³¡»ò¹Ûµã¡£×÷ÎªÄÚÈÝµÄ·¢±íÕß£¬Ðè×ÔÐÐ¶ÔËù·¢±íÄÚÈÝ¸ºÔð£¬ÒòËù·¢±íÄÚÈÝÒý·¢µÄÒ»ÇÐ¾À·×£¬ÓÉ¸ÃÄÚÈÝµÄ·¢±íÕß³Ðµ£È«²¿·¨ÂÉ¼°Á¬´øÔðÈÎ¡£ÐÇµã»¥Áª²»³Ðµ£ÈÎºÎ·¨ÂÉ¼°Á¬´øÔðÈÎ¡£</div>
+                        <div class="nex_abvip_line">2. ÓÃ»§ÔÚÐÇµã»¥ÁªÉÏ´«µÄÄÚÈÝÇÖ·¸ËûÈËÖªÊ¶²úÈ¨»òÆäËûºÏ·¨È¨ÒæµÄÄÚÈÝ£¬ÐÇµã»¥ÁªÓÐÈ¨ÓèÒÔÉ¾³ý£¬²¢±£ÁôÒÆ½»Ë¾·¨»ú¹Ø´¦ÀíµÄÈ¨Àû¡£</div>
+                        <div class="nex_abvip_line">3. ÐÇµã»¥Áª¶ÔÓÃ»§ÉÏ´«µÄ×÷Æ·¼°ÆäËûÄÚÈÝ£¬¸ù¾Ý·¨ÂÉ·¨¹æ¡¢¹æÕÂÖÆ¶È¡¢Ïà¹ØÕþ²ß¼°ÐÇµã»¥ÁªµÄ¹æ¶¨½øÐÐ³õ²½Éó²é¡£¶Ô¾­³õ²½Éó²éºÏ¸ñµÄ×÷Æ·£¬½«ÓèÒÔÉó²éÍ¨¹ý£¬ÔÊÐíÔÚÐÇµã»¥ÁªÉÏÕ¹Ê¾·ÖÏí¡£µ«×÷Æ·Éó²éÍ¨¹ý£¬ ²»´ú±íÐÇµã»¥Áª¶Ô×÷Æ·²»ÇÖÈ¨µÄÈÎºÎ±£Ö¤£¬Ò²²»´ú±íÓÃ»§¶ÔÆäÉÏ´«µÄ×÷Æ·Ó¦¸ºµÄÔðÈÎ¼õÇá¡¢Ãâ³ý»ò×ª¼Þµ½ÐÇµã»¥Áª£¬×÷Æ·ÈÔÓÉÓÃ»§×ÔÐÐ¸ºÔð¡£</div>
+                        <div class="nex_abvip_line"> 4. ÓÃ»§Ê¹ÓÃÐÇµã»¥Áª·þÎñÉÏ´«¡¢·¢²¼»ò´«ÊäÄÚÈÝ¼´´ú±íÁËÄúÓÐÈ¨ÇÒÍ¬ÒâÔÚÈ«ÊÀ½ç·¶Î§ÄÚ£¬ÓÀ¾ÃÐÔµÄ¡¢²»¿É³·ÏúµÄ¡¢Ãâ·ÑµÄÊÚÓèÐÇµã»¥Áª¶Ô¸ÃÄÚÈÝµÄ´æ´¢¡¢Ê¹ÓÃ¡¢·¢²¼¡¢¸´ÖÆ¡¢·¢ÐÐ¡¢Õ¹ÀÀ¡¢ÍøÂç´«²¥¡¢ÐÞ¸Ä¡¢¸Ä±à¡¢³ö°æ¡¢·­Òë¡¢¾ÝÒÔ´´×÷ÑÜÉú×÷Æ·¡¢´«²¥¡¢±íÑÝºÍÕ¹Ê¾µÈÈ¨Àû£»½«ÄÚÈÝµÄÈ«²¿»ò²¿·Ö±àÈëÆäËûÈÎºÎÐÎÊ½µÄ×÷Æ·¡¢Ã½Ìå¡¢¼¼ÊõÖÐµÄÈ¨Àû£»¶ÔÄúµÄÉÏ´«¡¢·¢²¼µÄÄÚÈÝ½øÐÐÉÌÒµ¿ª·¢µÄÈ¨Àû£»Í¨¹ýÓÐÏß»òÎÞÏßÍøÂçÏò¼ÆËã»úÖÕ¶Ë¡¢ÒÆ¶¯Í¨Ñ¶ÖÕ¶Ë£¨°üÀ¨µ«²»ÏÞÓÚ±ãÐ¯Ê½Í¨Ñ¶Éè±¸ÈçÊÖ»úºÍÖÇÄÜÆ½°åµçÄÔµÈ£©¡¢ÊÖ³ÖÊý×ÖÓ°Òô²¥·ÅÉè±¸¡¢µçÊÓ½ÓÊÕÉè±¸£¨Ä£ÄâÐÅºÅ½ÓÊÕÉè±¸¡¢Êý×ÖÐÅºÅ½ÓÊÕÉè±¸¡¢Êý×ÖµçÊÓ¡¢IPTV¡¢´ø»¥ÁªÍø½ÓÈë¹¦ÄÜµÄ²¥·ÅÉè±¸µÈ£©µÈÌá¹©ÐÅÏ¢µÄÏÂÔØ¡¢Êý¾Ý´«Êä¡¢¼°ÆäÏà¹ØµÄÐû´«ºÍÍÆ¹ãµÈ·þÎñµÄÈ¨Àû£»ÔÙÊÚÈ¨¸øÆäËûµÚÈý·½ÒÔÉÏÊö·½Ê½Ê¹ÓÃµÄÈ¨Àû£»ÒÔ¼°¶Ô×÷Æ·½øÐÐµ¥¶ÀÎ¬È¨µÄÈ¨Àû</div>
+                        <div class="nex_abvip_line">5. ¸öÈË»òµ¥Î»ÈçÈÏÎªÐÇµã»¥ÁªÉÏ´æÔÚÇÖ·¸×ÔÉíºÏ·¨È¨ÒæµÄÄÚÈÝ£¬Ó¦×¼±¸ºÃ¾ßÓÐ·¨ÂÉÐ§Ó¦µÄÖ¤Ã÷²ÄÁÏ£¬¼°Ê±ÓëÐÇµã»¥ÁªÈ¡µÃÁªÏµ£¬ÒÔ±ãÐÇµã»¥ÁªÑ¸ËÙ×ö³ö´¦Àí¡£</div>
+                        <h2>¸½Ôò</h2>
+                        <div class="nex_abvip_line">¶ÔÃâÔðÉùÃ÷µÄ½âÊÍ¡¢ÐÞ¸Ä¼°¸üÐÂÈ¨¾ùÊôÓÚÐÇµã»¥ÁªËùÓÐ¡£</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>×ÜÔò</h2>
+                        <div class=\"nex_abvip_line\">ÓÃ»§ÔÚ½ÓÊÜÐÇµã»¥ÁªµÄÉÏ´«·þÎñÖ®Ç°£¬ÇëÎñ±Ø×ÐÏ¸ÔÄ¶Á±¾Ìõ¿î²¢Í¬Òâ±¾ÉùÃ÷£»ÓÃ»§Ê¹ÓÃÉÏ´«·þÎñÔòÄ¬ÈÏÒÑÖªÏþÏà¹ØÉùÃ÷¼°ÄÚÈÝ¡£</div>
+                        <h2>µÚÒ»Ìõ</h2>
+                        <div class=\"nex_abvip_line\">ÓÃ»§ÒÔ¸÷ÖÖ·½Ê½Ê¹ÓÃÐÇµã»¥ÁªµÄ·þÎñºÍÊý¾Ý£¨°üÀ¨µ«²»ÏÞÓÚÉÏ´«Í¼Æ¬¡¢psÎÄ¼þ¡¢Ñ¹Ëõ°üµÈÄÚÈÝ£©µÄ¹ý³ÌÖÐ£¬²»µÃÒÔÈÎºÎ·½Ê½ÀûÓÃÄ£¿âÖ±½Ó»ò¼ä½Ó´ÓÊÂÎ¥·´ÖÐ¹ú·¨ÂÉ¡¢ÒÔ¼°Éç»á¹«µÂµÄÐÐÎª£¬ÇÒÓÃ»§Ó¦µ±ã¡ÊØÏÂÊö³ÐÅµ£º</div>
+                        <div class=\"nex_abvip_line\">1. ÉÏ´«¡¢·¢²¼¡¢×ªÔØ»òÌá¹©µÄÄÚÈÝ·ûºÏÖÐ¹ú·¨ÂÉ¡¢Éç»á¹«µÂ£»</div>
+                        <div class=\"nex_abvip_line\">2. ²»µÃ¸ÉÈÅ¡¢Ëðº¦ºÍÇÖ·¸ÐÇµã»¥ÁªµÄ¸÷ÖÖºÏ·¨È¨ÀûÓëÀûÒæ£»</div>
+                        <div class=\"nex_abvip_line\">3. ×ñÊØÐÇµã»¥ÁªÒÔ¼°ÓëÖ®Ïà¹ØµÄÍøÂç·þÎñµÄÐ­Òé¡¢Ö¸µ¼Ô­Ôò¡¢¹ÜÀíÏ¸ÔòµÈ£»</div>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥ÁªÓÐÈ¨¶ÔÎ¥·´ÉÏÊö³ÐÅµµÄÄÚÈÝÓèÒÔÉ¾³ý¡£</div>
+                        <h2>µÚ¶þÌõ</h2>
+                        <div class=\"nex_abvip_line\">1.ÓÃ»§ÔÚÐÇµã»¥ÁªÉÏ´«¡¢·¢²¼µÄÄÚÈÝ£¨°üº¬µ«²»ÏÞÓÚ°üÀ¨µ«²»ÏÞÓÚÉÏ´«Í¼Æ¬¡¢psÎÄ¼þ¡¢Ñ¹Ëõ°üµÈÄÚÈÝ£©½ö±íÃ÷Æä¸öÈËµÄÁ¢³¡ºÍ¹Ûµã£¬²¢²»´ú±íÐÇµã»¥ÁªµÄÁ¢³¡»ò¹Ûµã¡£×÷ÎªÄÚÈÝµÄ·¢±íÕß£¬Ðè×ÔÐÐ¶ÔËù·¢±íÄÚÈÝ¸ºÔð£¬ÒòËù·¢±íÄÚÈÝÒý·¢µÄÒ»ÇÐ¾À·×£¬ÓÉ¸ÃÄÚÈÝµÄ·¢±íÕß³Ðµ£È«²¿·¨ÂÉ¼°Á¬´øÔðÈÎ¡£ÐÇµã»¥Áª²»³Ðµ£ÈÎºÎ·¨ÂÉ¼°Á¬´øÔðÈÎ¡£</div>
+                        <div class=\"nex_abvip_line\">2. ÓÃ»§ÔÚÐÇµã»¥ÁªÉÏ´«µÄÄÚÈÝÇÖ·¸ËûÈËÖªÊ¶²úÈ¨»òÆäËûºÏ·¨È¨ÒæµÄÄÚÈÝ£¬ÐÇµã»¥ÁªÓÐÈ¨ÓèÒÔÉ¾³ý£¬²¢±£ÁôÒÆ½»Ë¾·¨»ú¹Ø´¦ÀíµÄÈ¨Àû¡£</div>
+                        <div class=\"nex_abvip_line\">3. ÐÇµã»¥Áª¶ÔÓÃ»§ÉÏ´«µÄ×÷Æ·¼°ÆäËûÄÚÈÝ£¬¸ù¾Ý·¨ÂÉ·¨¹æ¡¢¹æÕÂÖÆ¶È¡¢Ïà¹ØÕþ²ß¼°ÐÇµã»¥ÁªµÄ¹æ¶¨½øÐÐ³õ²½Éó²é¡£¶Ô¾­³õ²½Éó²éºÏ¸ñµÄ×÷Æ·£¬½«ÓèÒÔÉó²éÍ¨¹ý£¬ÔÊÐíÔÚÐÇµã»¥ÁªÉÏÕ¹Ê¾·ÖÏí¡£µ«×÷Æ·Éó²éÍ¨¹ý£¬ ²»´ú±íÐÇµã»¥Áª¶Ô×÷Æ·²»ÇÖÈ¨µÄÈÎºÎ±£Ö¤£¬Ò²²»´ú±íÓÃ»§¶ÔÆäÉÏ´«µÄ×÷Æ·Ó¦¸ºµÄÔðÈÎ¼õÇá¡¢Ãâ³ý»ò×ª¼Þµ½ÐÇµã»¥Áª£¬×÷Æ·ÈÔÓÉÓÃ»§×ÔÐÐ¸ºÔð¡£</div>
+                        <div class=\"nex_abvip_line\"> 4. ÓÃ»§Ê¹ÓÃÐÇµã»¥Áª·þÎñÉÏ´«¡¢·¢²¼»ò´«ÊäÄÚÈÝ¼´´ú±íÁËÄúÓÐÈ¨ÇÒÍ¬ÒâÔÚÈ«ÊÀ½ç·¶Î§ÄÚ£¬ÓÀ¾ÃÐÔµÄ¡¢²»¿É³·ÏúµÄ¡¢Ãâ·ÑµÄÊÚÓèÐÇµã»¥Áª¶Ô¸ÃÄÚÈÝµÄ´æ´¢¡¢Ê¹ÓÃ¡¢·¢²¼¡¢¸´ÖÆ¡¢·¢ÐÐ¡¢Õ¹ÀÀ¡¢ÍøÂç´«²¥¡¢ÐÞ¸Ä¡¢¸Ä±à¡¢³ö°æ¡¢·­Òë¡¢¾ÝÒÔ´´×÷ÑÜÉú×÷Æ·¡¢´«²¥¡¢±íÑÝºÍÕ¹Ê¾µÈÈ¨Àû£»½«ÄÚÈÝµÄÈ«²¿»ò²¿·Ö±àÈëÆäËûÈÎºÎÐÎÊ½µÄ×÷Æ·¡¢Ã½Ìå¡¢¼¼ÊõÖÐµÄÈ¨Àû£»¶ÔÄúµÄÉÏ´«¡¢·¢²¼µÄÄÚÈÝ½øÐÐÉÌÒµ¿ª·¢µÄÈ¨Àû£»Í¨¹ýÓÐÏß»òÎÞÏßÍøÂçÏò¼ÆËã»úÖÕ¶Ë¡¢ÒÆ¶¯Í¨Ñ¶ÖÕ¶Ë£¨°üÀ¨µ«²»ÏÞÓÚ±ãÐ¯Ê½Í¨Ñ¶Éè±¸ÈçÊÖ»úºÍÖÇÄÜÆ½°åµçÄÔµÈ£©¡¢ÊÖ³ÖÊý×ÖÓ°Òô²¥·ÅÉè±¸¡¢µçÊÓ½ÓÊÕÉè±¸£¨Ä£ÄâÐÅºÅ½ÓÊÕÉè±¸¡¢Êý×ÖÐÅºÅ½ÓÊÕÉè±¸¡¢Êý×ÖµçÊÓ¡¢IPTV¡¢´ø»¥ÁªÍø½ÓÈë¹¦ÄÜµÄ²¥·ÅÉè±¸µÈ£©µÈÌá¹©ÐÅÏ¢µÄÏÂÔØ¡¢Êý¾Ý´«Êä¡¢¼°ÆäÏà¹ØµÄÐû´«ºÍÍÆ¹ãµÈ·þÎñµÄÈ¨Àû£»ÔÙÊÚÈ¨¸øÆäËûµÚÈý·½ÒÔÉÏÊö·½Ê½Ê¹ÓÃµÄÈ¨Àû£»ÒÔ¼°¶Ô×÷Æ·½øÐÐµ¥¶ÀÎ¬È¨µÄÈ¨Àû</div>
+                        <div class=\"nex_abvip_line\">5. ¸öÈË»òµ¥Î»ÈçÈÏÎªÐÇµã»¥ÁªÉÏ´æÔÚÇÖ·¸×ÔÉíºÏ·¨È¨ÒæµÄÄÚÈÝ£¬Ó¦×¼±¸ºÃ¾ßÓÐ·¨ÂÉÐ§Ó¦µÄÖ¤Ã÷²ÄÁÏ£¬¼°Ê±ÓëÐÇµã»¥ÁªÈ¡µÃÁªÏµ£¬ÒÔ±ãÐÇµã»¥ÁªÑ¸ËÙ×ö³ö´¦Àí¡£</div>
+                        <h2>¸½Ôò</h2>
+                        <div class=\"nex_abvip_line\">¶ÔÃâÔðÉùÃ÷µÄ½âÊÍ¡¢ÐÞ¸Ä¼°¸üÐÂÈ¨¾ùÊôÓÚÐÇµã»¥ÁªËùÓÐ¡£</div>	]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567521111]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="138">
+				<item id="bid"><![CDATA[138]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[copyright]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<h2>¹ØÓÚ·ÑÓÃµÄÉùÃ÷£º</h2>
+                        <div class="nex_abvip_line">±¾Õ¾Îª·ÇÓªÀûÐÔÕ¾µã£¬ËùÓÐ»áÔ±ÔÞÖú·ÑÓÃÓÃÓÚ·þÎñÆ÷¼°´ø¿í£¬ËùÓÐ×ÊÔ´¾ùÊÇÍøÉÏËÑ¼¯»òË½ÏÂ½»Á÷Ñ§Ï°Ö®ÓÃ£¬ÈÎºÎÉæ¼°ÉÌÒµÓ¯ÀûÄ¿µÄ¾ù²»µÃÊ¹ÓÃ£¬·ñÔò²úÉúµÄÒ»ÇÐºó¹ûÓÉÄú×Ô¼º³Ðµ£!±¾Õ¾½ö½öÌá¹©Ò»¸ö¹ÛÄ¦Ñ§Ï°µÄ»·¾³£¬½«²»¶ÔÈÎºÎ×ÊÔ´¸º·¨ÂÉÔðÈÎ¡£ËùÓÐ×ÊÔ´ÇëÔÚÏÂÔØºó24Ð¡Ê±ÄÚÉ¾³ý¡£ÈôÎÞÒâÖÐÇÖ·¸µ½ÄúµÄ°æÈ¨ÀûÒæ£¬ÇëÀ´ÐÅÁªÏµÎÒÃÇ£¬ÎÒÃÇ»áÔÚÊÕµ½ÐÅÏ¢ÈýÌìÄÚ¸øÓè´¦Àí!</div>	
+                        <h2>¹ØÓÚ°æÈ¨µÄÉùÃ÷£º</h2>
+                        <div class="nex_abvip_line">ÐÇµã»¥ÁªÕ¾ÄÚËùÓÐËØ²ÄÍ¼Æ¬¾ùÓÉÍøÓÑÉÏ´«¶øÀ´£¬ÐÇµã»¥Áª²»ÓµÓÐ´ËÀàËØ²ÄÍ¼Æ¬µÄ°æÈ¨¡£ÐÇµã»¥ÁªÄÚ±êÃ÷°æÈ¨Îª"¹²ÏíËØ²Ä"¡¢"Í¼ÓÑÔ­´´"¡¢"Ô­´´×ªÔØ±Ø¾¿"µÄÍ¼Æ¬ËØ²Ä¾ùÓÉÍøÓÑÉÏ´«ÓÃÓÚÑ§Ï°½»Á÷Ö®ÓÃ£¬Îð×÷ËüÓÃ;ÈôÐèÉÌÒµÊ¹ÓÃ£¬Ðè»ñµÃ°æÈ¨ÓµÓÐÕßÊÚÈ¨£¬²¢×ñÑ­¹ú¼ÒÏà¹Ø·¨ÂÉ¡¢·¨¹æÖ®¹æ¶¨¡£ÈçÒò·Ç·¨Ê¹ÓÃÒýÆð¾À·×£¬Ò»ÇÐºó¹ûÓÉÊ¹ÓÃÕß³Ðµ£¡£</div>	
+                        <h2>¹ØÓÚ°æÈ¨´«²¥µÄÉùÃ÷£º</h2>
+                        <div class="nex_abvip_line">ÐÇµã»¥Áª×÷ÎªÍøÂç·þÎñÌá¹©Õß£¬¶Ô·Ç·¨×ªÔØ£¬µÁ°æÐÐÎªµÄ·¢Éú²»¾ß±¸³ä·ÖµÄ¼à¿ØÄÜÁ¦¡£µ«ÊÇµ±°æÈ¨ÓµÓÐÕßÌá³öÇÖÈ¨Ö¸¿Ø²¢³öÊ¾³ä·ÖµÄ°æÈ¨Ö¤Ã÷²ÄÁÏÊ±£¬ÐÇµã»¥Áª¸ºÓÐÒÆ³ýµÁ°æºÍ·Ç·¨×ªÔØ×÷Æ·ÒÔ¼°Í£Ö¹¼ÌÐø´«²¥µÄÒåÎñ¡£ÐÇµã»¥Áª¶ÔËûÈËÔÚÍøÕ¾ÉÏÊµÊ©µÄ´ËÀàÇÖÈ¨ÐÐÎª²»³Ðµ£·¨ÂÉÔðÈÎ£¬ÇÖÈ¨µÄ·¨ÂÉÔðÈÎ¸ÅÓÉ»áÔ±±¾ÈË³Ðµ£¡£ÏòÐÇµã»¥Áª·¢²¼×÷Æ·µÄ×÷ÕßÊÓÎªÍ¬ÒâÐÇµã»¥Áª¾ÍÇ°¿îÇé¿ö²ÉÈ¡µÄÏàÓ¦´ëÊ©¡£ÐÇµã»¥ÁªÔÚÂú×ãÇ°¿îÌõ¼þÏÂ²ÉÈ¡ÒÆ³ýµÈÏàÓ¦´ëÊ©ºó²»Îª´ËÏòÔ­·¢²¼ÈË³Ðµ£Î¥Ô¼ÔðÈÎ»òÆäËû·¨ÂÉÔðÈÎ£¬°üÀ¨²»³Ðµ£ÒòÇÖÈ¨Ö¸¿Ø²»³ÉÁ¢¶ø¸øÔ­·¢²¼ÈË´øÀ´Ëðº¦µÄÅâ³¥ÔðÈÎ¡£</div>	
+                        <h2>¹ØÓÚ°æÈ¨¹éÊô£º</h2>
+                        <div class="nex_abvip_line">±¾Õ¾ËùÓÐ×ÊÔ´Ô­Ê¼°æ±¾°æÈ¨¹éÔ­×÷ÕßËùÓÐ£¬²¿·ÝÔ­´´ÄÚÈÝÖ»ÔÊÐíÊ¹ÓÃ½ûÖ¹ÈÎÒâ×ªÔØÖÁÆäËüÍøÕ¾£¬Î´¾­×÷ÕßÐí¿É²»µÃÓÃÓÚÉÌÒµÓÃÍ¾!±¾Õ¾²¢²»¶Ô¿ÉÄÜÓÉ´Ë¸øÄúµÄ¼ÆËã»úÏµÍ³´øÀ´µÄÈÎºÎÎÊÌâ¸ºÔð!Ê¹ÓÃ±¾×ÊÔ´Ôì³ÉµÄÒ»ÇÐºó¹ûÓÉÊ¹ÓÃÕß×Ô¸º£¬Óë×÷ÕßÎÞ¹Ø!</div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<h2>¹ØÓÚ·ÑÓÃµÄÉùÃ÷£º</h2>
+                        <div class=\"nex_abvip_line\">±¾Õ¾Îª·ÇÓªÀûÐÔÕ¾µã£¬ËùÓÐ»áÔ±ÔÞÖú·ÑÓÃÓÃÓÚ·þÎñÆ÷¼°´ø¿í£¬ËùÓÐ×ÊÔ´¾ùÊÇÍøÉÏËÑ¼¯»òË½ÏÂ½»Á÷Ñ§Ï°Ö®ÓÃ£¬ÈÎºÎÉæ¼°ÉÌÒµÓ¯ÀûÄ¿µÄ¾ù²»µÃÊ¹ÓÃ£¬·ñÔò²úÉúµÄÒ»ÇÐºó¹ûÓÉÄú×Ô¼º³Ðµ£!±¾Õ¾½ö½öÌá¹©Ò»¸ö¹ÛÄ¦Ñ§Ï°µÄ»·¾³£¬½«²»¶ÔÈÎºÎ×ÊÔ´¸º·¨ÂÉÔðÈÎ¡£ËùÓÐ×ÊÔ´ÇëÔÚÏÂÔØºó24Ð¡Ê±ÄÚÉ¾³ý¡£ÈôÎÞÒâÖÐÇÖ·¸µ½ÄúµÄ°æÈ¨ÀûÒæ£¬ÇëÀ´ÐÅÁªÏµÎÒÃÇ£¬ÎÒÃÇ»áÔÚÊÕµ½ÐÅÏ¢ÈýÌìÄÚ¸øÓè´¦Àí!</div>	
+                        <h2>¹ØÓÚ°æÈ¨µÄÉùÃ÷£º</h2>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥ÁªÕ¾ÄÚËùÓÐËØ²ÄÍ¼Æ¬¾ùÓÉÍøÓÑÉÏ´«¶øÀ´£¬ÐÇµã»¥Áª²»ÓµÓÐ´ËÀàËØ²ÄÍ¼Æ¬µÄ°æÈ¨¡£ÐÇµã»¥ÁªÄÚ±êÃ÷°æÈ¨Îª\"¹²ÏíËØ²Ä\"¡¢\"Í¼ÓÑÔ­´´\"¡¢\"Ô­´´×ªÔØ±Ø¾¿\"µÄÍ¼Æ¬ËØ²Ä¾ùÓÉÍøÓÑÉÏ´«ÓÃÓÚÑ§Ï°½»Á÷Ö®ÓÃ£¬Îð×÷ËüÓÃ;ÈôÐèÉÌÒµÊ¹ÓÃ£¬Ðè»ñµÃ°æÈ¨ÓµÓÐÕßÊÚÈ¨£¬²¢×ñÑ­¹ú¼ÒÏà¹Ø·¨ÂÉ¡¢·¨¹æÖ®¹æ¶¨¡£ÈçÒò·Ç·¨Ê¹ÓÃÒýÆð¾À·×£¬Ò»ÇÐºó¹ûÓÉÊ¹ÓÃÕß³Ðµ£¡£</div>	
+                        <h2>¹ØÓÚ°æÈ¨´«²¥µÄÉùÃ÷£º</h2>
+                        <div class=\"nex_abvip_line\">ÐÇµã»¥Áª×÷ÎªÍøÂç·þÎñÌá¹©Õß£¬¶Ô·Ç·¨×ªÔØ£¬µÁ°æÐÐÎªµÄ·¢Éú²»¾ß±¸³ä·ÖµÄ¼à¿ØÄÜÁ¦¡£µ«ÊÇµ±°æÈ¨ÓµÓÐÕßÌá³öÇÖÈ¨Ö¸¿Ø²¢³öÊ¾³ä·ÖµÄ°æÈ¨Ö¤Ã÷²ÄÁÏÊ±£¬ÐÇµã»¥Áª¸ºÓÐÒÆ³ýµÁ°æºÍ·Ç·¨×ªÔØ×÷Æ·ÒÔ¼°Í£Ö¹¼ÌÐø´«²¥µÄÒåÎñ¡£ÐÇµã»¥Áª¶ÔËûÈËÔÚÍøÕ¾ÉÏÊµÊ©µÄ´ËÀàÇÖÈ¨ÐÐÎª²»³Ðµ£·¨ÂÉÔðÈÎ£¬ÇÖÈ¨µÄ·¨ÂÉÔðÈÎ¸ÅÓÉ»áÔ±±¾ÈË³Ðµ£¡£ÏòÐÇµã»¥Áª·¢²¼×÷Æ·µÄ×÷ÕßÊÓÎªÍ¬ÒâÐÇµã»¥Áª¾ÍÇ°¿îÇé¿ö²ÉÈ¡µÄÏàÓ¦´ëÊ©¡£ÐÇµã»¥ÁªÔÚÂú×ãÇ°¿îÌõ¼þÏÂ²ÉÈ¡ÒÆ³ýµÈÏàÓ¦´ëÊ©ºó²»Îª´ËÏòÔ­·¢²¼ÈË³Ðµ£Î¥Ô¼ÔðÈÎ»òÆäËû·¨ÂÉÔðÈÎ£¬°üÀ¨²»³Ðµ£ÒòÇÖÈ¨Ö¸¿Ø²»³ÉÁ¢¶ø¸øÔ­·¢²¼ÈË´øÀ´Ëðº¦µÄÅâ³¥ÔðÈÎ¡£</div>	
+                        <h2>¹ØÓÚ°æÈ¨¹éÊô£º</h2>
+                        <div class=\"nex_abvip_line\">±¾Õ¾ËùÓÐ×ÊÔ´Ô­Ê¼°æ±¾°æÈ¨¹éÔ­×÷ÕßËùÓÐ£¬²¿·ÝÔ­´´ÄÚÈÝÖ»ÔÊÐíÊ¹ÓÃ½ûÖ¹ÈÎÒâ×ªÔØÖÁÆäËüÍøÕ¾£¬Î´¾­×÷ÕßÐí¿É²»µÃÓÃÓÚÉÌÒµÓÃÍ¾!±¾Õ¾²¢²»¶Ô¿ÉÄÜÓÉ´Ë¸øÄúµÄ¼ÆËã»úÏµÍ³´øÀ´µÄÈÎºÎÎÊÌâ¸ºÔð!Ê¹ÓÃ±¾×ÊÔ´Ôì³ÉµÄÒ»ÇÐºó¹ûÓÉÊ¹ÓÃÕß×Ô¸º£¬Óë×÷ÕßÎÞ¹Ø!</div>	]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567242746]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+		</item>
+		<item id="style">
+		</item>
+	</item>
+</root>

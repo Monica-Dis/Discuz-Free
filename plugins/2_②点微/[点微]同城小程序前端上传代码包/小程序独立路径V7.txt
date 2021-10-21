@@ -1,0 +1,36 @@
+
+【以下为模块路径】
+
+同城首页 pages/index/index
+好店首页 pages/module/tcshop
+商城首页 pages/module/tcmall
+抢购首页 pages/module/tcqianggou
+114首页  pages/module/tc114
+一卡通   pages/module/tcyikatong
+拼团首页 pages/module/tcptuan
+砍价首页 pages/module/tckjia
+交友首页 pages/module/love
+相亲首页 pages/module/xiangqin
+头条首页 pages/module/tctoutiao
+合伙人   pages/module/tchehuoren
+金币商城 pages/module/tcsign
+招聘首页 pages/module/tczhaopin
+房产首页 pages/module/tcfangchan
+拼车首页 pages/module/tcpinche
+微信群   pages/module/tcqun
+婚恋首页 pages/module/tclove
+个人中心 pages/index/my
+
+
+
+【以下为带参数路径】
+
+好店详情页 pages/index/shop?tcshop_id=530	( 530为店铺ID )
+商城商品页 pages/index/tcmall?goods_id=1	( 1为商品ID )
+抢购商品页 pages/index/tcqianggou?goods_id=10	( 10为抢购商品ID )
+拼团商品页 pages/index/tcptuan?goods_id=2	( 2为拼团商品ID )
+砍价商品页 pages/index/tckjia?goods_id=3	( 3为砍价商品ID )
+卡券商品页 pages/index/coupon?goods_id=10	( 10为卡券商品ID )
+好店列表页 pages/index/shoplist?cate_id=10	( 10为分类ID )
+分类列表页 pages/index/fenleilist?model_id=2    （ 2为分类模型ID ）
+头条文章页 pages/index/tctoutiao?aid=2    	（ 2为文章ID ）

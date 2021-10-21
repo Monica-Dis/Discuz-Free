@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="spacecss"><![CDATA[]]></item>
+	<item id="layoutdata">
+		<item id="diy1"><![CDATA[]]></item>
+		<item id="diysummarytop"><![CDATA[]]></item>
+		<item id="diysummarybottom"><![CDATA[]]></item>
+		<item id="diycontenttop"><![CDATA[]]></item>
+		<item id="diycontentbottom"><![CDATA[]]></item>
+		<item id="diycontentclickbottom"><![CDATA[]]></item>
+		<item id="diycontentrelatetop"><![CDATA[]]></item>
+		<item id="diycontentrelate"><![CDATA[]]></item>
+		<item id=""><![CDATA[]]></item>
+		<item id="diycontentcomment"><![CDATA[]]></item>
+		<item id="diywic_article_rank">
+			<item id="frame`frameGwxX5W">
+				<item id="attr">
+					<item id="name"><![CDATA[frameGwxX5W]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameGwxX5W_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameGwxX5W_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_2894">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_2894]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="diyrighttop"><![CDATA[]]></item>
+		<item id="diy2"><![CDATA[]]></item>
+		<item id="diy3"><![CDATA[]]></item>
+	</item>
+	<item id="blockdata">
+		<item id="block">
+			<item id="2894">
+				<item id="bid"><![CDATA[2894]]></item>
+				<item id="blockclass"><![CDATA[portal_article]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[articleview_rank]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[992]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[310]]></item>
+				<item id="picheight"><![CDATA[190]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[article]]></item>
+				<item id="param">
+					<item id="aids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="catid">
+						<item id="0"><![CDATA[0]]></item>
+					</item>
+					<item id="picrequired"><![CDATA[1]]></item>
+					<item id="starttime"><![CDATA[]]></item>
+					<item id="endtime"><![CDATA[]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="publishdateline"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[5]]></item>
+				</item>
+				<item id="shownum"><![CDATA[5]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1507620795]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+		</item>
+		<item id="style">
+			<item id="992">
+				<item id="styleid"><![CDATA[992]]></item>
+				<item id="blockclass"><![CDATA[portal_article]]></item>
+				<item id="name"><![CDATA[wic_portal_hot]]></item>
+				<item id="template">
+					<item id="raw"><![CDATA[<ul>
+[loop]
+	[order=1]<li class="on cl">
+		<a href="{url}"{target}>
+			<div class="tit cl"><em class="num{currentorder}">{currentorder}</em><span>{title}</span></div>
+			<div class="cover"><img src="{pic}" width="{picwidth}" height="{picheight}" /><i></i></div>
+		</a>
+	</li>[/order]
+	<li class="cl">
+		<a href="{url}"{target}>
+			<div class="tit cl"><em class="num{currentorder}">{currentorder}</em><span>{title}</span></div>
+			<div class="cover"><img src="{pic}" width="{picwidth}" height="{picheight}" /><i></i></div>
+		</a>
+	</li>
+[/loop]
+</ul>]]></item>
+					<item id="footer"><![CDATA[]]></item>
+					<item id="header"><![CDATA[]]></item>
+					<item id="indexplus">
+					</item>
+					<item id="index">
+					</item>
+					<item id="orderplus">
+					</item>
+					<item id="order">
+						<item id="1"><![CDATA[<li class="on cl">
+		<a href="{url}"{target}>
+			<div class="tit cl"><em class="num{currentorder}">{currentorder}</em><span>{title}</span></div>
+			<div class="cover"><img src="{pic}" width="{picwidth}" height="{picheight}" /><i></i></div>
+		</a>
+	</li>]]></item>
+					</item>
+					<item id="loopplus">
+					</item>
+					<item id="loop"><![CDATA[[order=1]<li class="on cl">
+		<a href="{url}"{target}>
+			<div class="tit cl"><em class="num{currentorder}">{currentorder}</em><span>{title}</span></div>
+			<div class="cover"><img src="{pic}" width="{picwidth}" height="{picheight}" /><i></i></div>
+		</a>
+	</li>[/order]
+	<li class="cl">
+		<a href="{url}"{target}>
+			<div class="tit cl"><em class="num{currentorder}">{currentorder}</em><span>{title}</span></div>
+			<div class="cover"><img src="{pic}" width="{picwidth}" height="{picheight}" /><i></i></div>
+		</a>
+	</li>]]></item>
+				</item>
+				<item id="hash"><![CDATA[fbe67537]]></item>
+				<item id="getpic"><![CDATA[1]]></item>
+				<item id="getsummary"><![CDATA[0]]></item>
+				<item id="makethumb"><![CDATA[1]]></item>
+				<item id="settarget"><![CDATA[1]]></item>
+				<item id="fields">
+					<item id="0"><![CDATA[url]]></item>
+					<item id="1"><![CDATA[currentorder]]></item>
+					<item id="2"><![CDATA[title]]></item>
+					<item id="3"><![CDATA[pic]]></item>
+				</item>
+				<item id="moreurl"><![CDATA[0]]></item>
+			</item>
+		</item>
+	</item>
+</root>

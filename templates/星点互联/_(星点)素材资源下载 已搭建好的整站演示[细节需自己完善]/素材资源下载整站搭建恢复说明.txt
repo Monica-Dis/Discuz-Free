@@ -1,0 +1,76 @@
+准备工作：
+确保你已准备好一个新站点环境：
+域名已经解析并绑定到主机；
+数据库已经建立好；
+
+
+上传  liangjian.zip 到你论坛根目录，并在线解压出来。（解压后删除 nex_sucai_web.zip）；【也可以先桌面右键 解压到 nex_sucai_web/，然后FTP上传解压出来的nex_sucai_web/里面所有文件到你论坛根目录】
+
+
+配置数据库连接信息：【3处修改位置】
+编辑：
+①\config\config_global.php
+其中：
+$_config['db']['1']['dbuser'] = '你的数据库用户名';
+$_config['db']['1']['dbpw'] = '你的数据库密码';
+$_config['db']['1']['dbcharset'] = 'utf8';
+$_config['db']['1']['pconnect'] = '0';
+$_config['db']['1']['dbname'] = '你的数据库库名';
+
+②\config\config_ucenter.php
+其中：
+define('UC_DBUSER', '你的数据库用户名');
+define('UC_DBPW', '你的数据库密码');
+define('UC_DBNAME', '你的数据库库名');
+
+define('UC_DBTABLEPRE', '`你的数据库库名`.pre_ucenter_');
+
+define('UC_API', 'http://127.0.0.1/nex_sucai/uc_server');
+改为：
+define('UC_API', 'http://你的域名/uc_server');
+
+③\uc_server\data\config.inc.php
+define('UC_DBUSER', '你的数据库用户名');
+define('UC_DBPW', '你的数据库密码');
+define('UC_DBNAME', '你的数据库库名');
+
+
+然后用数据库管理软件 phpmyadmin 导入 nex_sucai.sql到你准备好的一个空的论坛数据库中，
+
+
+解压或者上传好后，直接访问 http://你的域名/admin.php
+账号：admin
+密码：admin
+进去更新缓存，
+
+然后修改UC通信链接：http://你的域名/uc_server/
+登陆密码：admin
+
+点击左侧应用管理——编辑——输入你的应用的主 URL:（比如 https://www.baidu.com  结尾请不要加“/” ），提交保存。
+附：
+通信失败处理方法：
+点击编辑：复制  通信密钥，
+到：http://你的域名/admin.php?action=setting&operation=uc
+UCenter 通信密钥: 填入你的复制的，提交保存。
+
+
+修改密码链接： http://你的域名/home.php?mod=spacecp&ac=profile&op=password
+修改UC创始人密码链接：http://你的域名/uc_server/，点击左侧菜单——管理员——修改UCenter创始人密码
+附：
+忘记UC创始人密码 不用愁 教你怎么找回创始人密码
+https://www.discuz.net/thread-2604142-1-1.html
+(出处: Discuz! 官方站)
+
+
+
+
+附：
+重置网站ID的方法：【如果存在陌生网站ID信息】
+
+后台——站长——数据库——升级（需要将 config/config_global.php 当中的 $_config[admincp][runquery] 设置修改为 1。）
+执行：
+
+UPDATE  `pre_common_setting` SET  `svalue` =  '' WHERE  `pre_common_setting`.`skey` =  'siteuniqueid';
+
+然后更新缓存，重新进入一次后台，完事！
+再去应用——获取更多应用。

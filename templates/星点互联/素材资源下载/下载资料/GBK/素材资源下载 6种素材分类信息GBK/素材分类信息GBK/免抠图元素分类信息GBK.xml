@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Threadtypes]]></item>
+	<item id="Version"><![CDATA[X3.4]]></item>
+	<item id="Time"><![CDATA[2019-12-06 08:42]]></item>
+	<item id="From"><![CDATA[DisM!Ó¦ÓÃÖÐÐÄ (https://dism.taobao.com/)]]></item>
+	<item id="Data">
+		<item id="0">
+			<item id="optionid"><![CDATA[7]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[4]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[·âÃæÍ¼]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_coverpic]]></item>
+			<item id="type"><![CDATA[image]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="1">
+			<item id="optionid"><![CDATA[8]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[1]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ËØ²ÄÃû³Æ]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_name]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="2">
+			<item id="optionid"><![CDATA[9]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[2]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[´óÐ¡]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_size]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[MB]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="status"><![CDATA[0]]></item>
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="maxlength"><![CDATA[]]></item>
+				<item id="inputsize"><![CDATA[]]></item>
+				<item id="profile"><![CDATA[]]></item>
+				<item id="defaultvalue"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="3">
+			<item id="optionid"><![CDATA[11]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[5]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÉÏ´«Ê±¼ä]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_upload]]></item>
+			<item id="type"><![CDATA[calendar]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="4">
+			<item id="optionid"><![CDATA[12]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[6]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÊÊÓÃÈí¼þ]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_software]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=Powerpoint
+2=Photoshop
+3=Illustrator
+4=After Effects
+5=CorelDRAW
+6=Premiere
+7=AutoCAD
+8=Cinema 4D
+9=Zbrush
+10=3dsMax
+11=Maya
+12=Dreamwaver]]></item>
+			</item>
+		</item>
+		<item id="5">
+			<item id="optionid"><![CDATA[13]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[11]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÌáÈ¡Âë]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_pw]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[¹ºÂòVIPÓÃ»§×é²é¿´ÌáÈ¡ÃÜÂë]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="status"><![CDATA[1]]></item>
+				<item id="usergroup"><![CDATA[1]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="maxlength"><![CDATA[]]></item>
+				<item id="inputsize"><![CDATA[]]></item>
+				<item id="profile"><![CDATA[]]></item>
+				<item id="defaultvalue"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="6">
+			<item id="optionid"><![CDATA[17]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[10]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÏÂÔØµØÖ·]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_adds]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="7">
+			<item id="optionid"><![CDATA[35]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[7]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[Ð¤ÏñÈ¨]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_faceright]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=ÈËÎï»­Ïñ½ö¹©²Î¿¼½ûÖ¹ÉÌÓÃ
+2=ÈËÎï»­Ïñ¿ÉÉÌÓÃ]]></item>
+			</item>
+		</item>
+		<item id="8">
+			<item id="optionid"><![CDATA[62]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[91]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ·ÖÀà]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sorttype2]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=Æ¯¸¡ËØ²Ä
+2=Ð§¹ûÔªËØ
+3=¿¨Í¨ÊÖ»æ
+4=×°ÊÎÍ¼°¸
+5=Í¼±êÔªËØ
+6=±ß¿òÎÆÀí
+7=±íÇé°ü
+8=½ÚÈÕÔªËØ
+9=´ÙÏú±êÇ©
+10=²»¹æÔòÍ¼ÐÎ
+11=PPTÔªËØ
+12=²úÆ·ÊµÎï
+13=ÆäËû]]></item>
+			</item>
+		</item>
+		<item id="9">
+			<item id="optionid"><![CDATA[63]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[92]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[Ãâ¿ÙÍ¼¸ñÊ½]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_PNG_sort]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=PSD
+2=PNG
+3=AI
+4=EPS]]></item>
+			</item>
+		</item>
+		<item id="10">
+			<item id="optionid"><![CDATA[184]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[9]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[³ß´ç]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_measure]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[ÏñËØ]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[ÌîÐ´ÌáÊ¾£ºÈç800x600]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="status"><![CDATA[0]]></item>
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="maxlength"><![CDATA[]]></item>
+				<item id="inputsize"><![CDATA[]]></item>
+				<item id="profile"><![CDATA[]]></item>
+				<item id="defaultvalue"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="11">
+			<item id="optionid"><![CDATA[185]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[8]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÑÕÉ«]]></item>
+			<item id="description"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="identifier"><![CDATA[nex_sc_color]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[5]]></item>
+			<item id="name"><![CDATA[Ãâ¿ÙÍ¼ÔªËØ]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_sucai_pic_img"><img src="{nex_sc_coverpic_value}" /></div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_PNG_sort_value}£¬ {nex_sc_size}{nex_sc_size_value} {nex_sc_size_unit}£»{nex_sc_measure}Îª{nex_sc_measure_value}{nex_sc_measure_unit}£»ÑÕÉ«{nex_sc_color_value}£¬Ð¤ÏñÈ¨Îª{nex_faceright_value}£¬ÇëÊ¹ÓÃÈí¼þ{nex_sc_software_value}´ò¿ª£¬ ×÷Æ·ÖÐÎÄ×Ö¼°Í¼¾ù¿ÉÒÔÐÞ¸ÄºÍ±à¼­£¬Í¼Æ¬¸ü¸ÄÇëÔÚ×÷Æ·ÖÐÓÒ¼üÍ¼Æ¬²¢¸ü»»£¬ÎÄ×ÖÐÞ¸ÄÇëÖ±½Óµã»÷ÎÄ×Ö½øÐÐÐÞ¸Ä£¬Ò²¿ÉÒÔÐÂÔöºÍÉ¾³ý×÷Æ·ÖÐµÄÄÚÈÝ£¬ »¶Ó­Ê¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_sc_adds_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>³ß´ç£º</em>{nex_sc_measure_value}ÏñËØ</li>
+                    <li><em>ÊÊÓÃÈí¼þ£º</em><span class="nex_software">{nex_sc_software_value}</span></li>
+                    <li><em>¸ñÊ½£º</em><span class="nex_geshi">{nex_PNG_sort_value}</span></li>
+                    <li><em>ÑÕÉ«£º</em><span class="nex_yanse">{nex_sc_color_value}</span></li>
+                    <li><em>´óÐ¡£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>ÉÏ´«Ê±¼ä£º</em>{nex_sc_upload_value}</li>
+                    <li><em>Ð¤ÏñÈ¨£º</em>{nex_faceright_value}</li>
+                    <li class="nex_getcode"><em>ÌáÈ¡Âë£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/png_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+<div class="nex_contentbox">
+    <dl>
+        [loop]
+        <dd>
+            <div class="nex_contpics">
+                <a href="{subject_url}" target="_blank" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"><em>{nex_PNG_sort_value}</em></a>
+                
+            </div>
+            <div class="nex_contbtm">
+                <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                <div class="nex_contgyu">
+                    <em class="nex_download_nums">{views}</em>
+                    <em class="nex_update_time">{dateline}</em>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[]]></item>
+			<item id="sortid"><![CDATA[5]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[ËØ²Ä×ÊÔ´ÏÂÔØÌû×Ó]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=RGB
+2=SOLO]]></item>
+			</item>
+		</item>
+	</item>
+</root>

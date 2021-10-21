@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="spacecss"><![CDATA[]]></item>
+	<item id="layoutdata">
+		<item id="diy1"><![CDATA[]]></item>
+		<item id="nex_ART_ads_top">
+			<item id="frame`frame9YOT8g">
+				<item id="attr">
+					<item id="name"><![CDATA[frame9YOT8g]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame9YOT8g_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame9YOT8g_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_288">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_288]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="diycontentclickbottom"><![CDATA[]]></item>
+		<item id="nex_content_inerads">
+			<item id="frame`framedfOwN4">
+				<item id="attr">
+					<item id="name"><![CDATA[framedfOwN4]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framedfOwN4_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framedfOwN4_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_292">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_292]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id=""><![CDATA[]]></item>
+		<item id="nex_tj_read_list">
+			<item id="frame`framej21711">
+				<item id="attr">
+					<item id="name"><![CDATA[framej21711]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framej21711_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framej21711_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_289">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_289]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_new_zx_list">
+			<item id="frame`frameM2bnVc">
+				<item id="attr">
+					<item id="name"><![CDATA[frameM2bnVc]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameM2bnVc_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameM2bnVc_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_290">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_290]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_right_ads">
+			<item id="frame`frameBwOC3Y">
+				<item id="attr">
+					<item id="name"><![CDATA[frameBwOC3Y]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameBwOC3Y_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameBwOC3Y_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_291">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_291]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="diy3"><![CDATA[]]></item>
+	</item>
+	<item id="blockdata">
+		<item id="block">
+			<item id="288">
+				<item id="bid"><![CDATA[288]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÆµµÀ¶¥²¿¹ã¸æÎ»]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank"><img src="template/nex_sucai_190828/neoconex/info/ads_top.jpg" /></a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\"><img src=\"template/nex_sucai_190828/neoconex/info/ads_top.jpg\" /></a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568081512]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="289">
+				<item id="bid"><![CDATA[289]]></item>
+				<item id="blockclass"><![CDATA[portal_article]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÆµµÀÍÆ¼öÔÄ¶Á]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[portal_article]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[1]]></item>
+					<item id="getsummary"><![CDATA[0]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[url]]></item>
+						<item id="1"><![CDATA[pic]]></item>
+						<item id="2"><![CDATA[title]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[[loop]
+[order=1]
+
+<li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>
+[/order]
+[order=2]
+
+                        <li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>
+[/order]
+                        <li>
+                        	<div class="nex_tj_read_tit">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>
+[/loop]]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+							<item id="1"><![CDATA[<li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>]]></item>
+							<item id="2"><![CDATA[<li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>]]></item>
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[[order=1]
+
+<li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>
+[/order]
+[order=2]
+
+                        <li>
+                        	<div class="nex_tj_read_img">
+                            	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                            </div>
+                            <div class="nex_tj_read_tt">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>
+[/order]
+                        <li>
+                        	<div class="nex_tj_read_tit">
+                            	<a href="{url}"{target}>{title}</a>
+                            </div>
+                        </li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[b3c54630]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[article]]></item>
+				<item id="param">
+					<item id="aids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="picrequired"><![CDATA[0]]></item>
+					<item id="starttime"><![CDATA[]]></item>
+					<item id="endtime"><![CDATA[]]></item>
+					<item id="orderby"><![CDATA[viewnum]]></item>
+					<item id="publishdateline"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[6]]></item>
+				</item>
+				<item id="shownum"><![CDATA[6]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568081623]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="290">
+				<item id="bid"><![CDATA[290]]></item>
+				<item id="blockclass"><![CDATA[portal_article]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÆµµÀÈÈÃÅ½Ì³Ì]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle">
+					<item id="name"><![CDATA[]]></item>
+					<item id="blockclass"><![CDATA[portal_article]]></item>
+					<item id="makethumb"><![CDATA[0]]></item>
+					<item id="getpic"><![CDATA[1]]></item>
+					<item id="getsummary"><![CDATA[1]]></item>
+					<item id="settarget"><![CDATA[1]]></item>
+					<item id="moreurl"><![CDATA[0]]></item>
+					<item id="fields">
+						<item id="0"><![CDATA[url]]></item>
+						<item id="1"><![CDATA[pic]]></item>
+						<item id="2"><![CDATA[title]]></item>
+						<item id="3"><![CDATA[summary]]></item>
+					</item>
+					<item id="template">
+						<item id="raw"><![CDATA[[loop]
+ <li>
+                            	<div class="nex_jc_img">
+                                	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                                </div>
+                                <div class="nex_jc_intel">
+                                	<h5><a href="{url}"{target}>{title}</a></h5>
+                                    <p>{summary}</p>
+                                </div>
+                                <div class="clear"></div>
+                            </li>
+[/loop]]]></item>
+						<item id="footer"><![CDATA[]]></item>
+						<item id="header"><![CDATA[]]></item>
+						<item id="indexplus">
+						</item>
+						<item id="index">
+						</item>
+						<item id="orderplus">
+						</item>
+						<item id="order">
+						</item>
+						<item id="loopplus">
+						</item>
+						<item id="loop"><![CDATA[<li>
+                            	<div class="nex_jc_img">
+                                	<a href="{url}" target="_blank" style="background:url({pic}) center no-repeat; background-size:cover;"></a>
+                                </div>
+                                <div class="nex_jc_intel">
+                                	<h5><a href="{url}"{target}>{title}</a></h5>
+                                    <p>{summary}</p>
+                                </div>
+                                <div class="clear"></div>
+                            </li>]]></item>
+					</item>
+					<item id="hash"><![CDATA[5d1c3cd1]]></item>
+				</item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[article]]></item>
+				<item id="param">
+					<item id="aids"><![CDATA[]]></item>
+					<item id="uids"><![CDATA[]]></item>
+					<item id="keyword"><![CDATA[]]></item>
+					<item id="picrequired"><![CDATA[1]]></item>
+					<item id="starttime"><![CDATA[]]></item>
+					<item id="endtime"><![CDATA[]]></item>
+					<item id="orderby"><![CDATA[viewnum]]></item>
+					<item id="publishdateline"><![CDATA[0]]></item>
+					<item id="titlelength"><![CDATA[40]]></item>
+					<item id="summarylength"><![CDATA[80]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="items"><![CDATA[6]]></item>
+				</item>
+				<item id="shownum"><![CDATA[6]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568081755]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="291">
+				<item id="bid"><![CDATA[291]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÆµµÀ²à±ß¹ã¸æÎ»]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank"><img src="template/nex_sucai_190828/neoconex/info/nex_adv2.png" /></a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\"><img src=\"template/nex_sucai_190828/neoconex/info/nex_adv2.png\" /></a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568081741]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="292">
+				<item id="bid"><![CDATA[292]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÄÚÈÝÒ³ÄÚ²¿¹ã¸æÎ»]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="#" target="_blank" style="background:url(template/nex_sucai_190828/neoconex/info/ads_inner.jpg) center no-repeat; background-size:cover;"></a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\" style=\"background:url(template/nex_sucai_190828/neoconex/info/ads_inner.jpg) center no-repeat; background-size:cover;\"></a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1568081833]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+		</item>
+		<item id="style">
+		</item>
+	</item>
+</root>

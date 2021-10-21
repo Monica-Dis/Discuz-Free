@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="spacecss"><![CDATA[]]></item>
+	<item id="layoutdata">
+		<item id="diy1"><![CDATA[]]></item>
+		<item id="nex_center_con_wrapaper">
+			<item id="frame`frame9gWz6I">
+				<item id="attr">
+					<item id="name"><![CDATA[frame9gWz6I]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame9gWz6I_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame9gWz6I_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_222">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_222]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_banner_bottom_l">
+			<item id="frame`framep58GEZ">
+				<item id="attr">
+					<item id="name"><![CDATA[framep58GEZ]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framep58GEZ_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framep58GEZ_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_206">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_206]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_banner_bottom_r">
+			<item id="frame`frameB42DCf">
+				<item id="attr">
+					<item id="name"><![CDATA[frameB42DCf]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameB42DCf_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameB42DCf_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_208">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_208]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_sort_top_video">
+			<item id="frame`frame6K8DO8">
+				<item id="attr">
+					<item id="name"><![CDATA[frame6K8DO8]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame6K8DO8_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame6K8DO8_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_207">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_207]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_sort_video_tags">
+			<item id="frame`frameXz1yjK">
+				<item id="attr">
+					<item id="name"><![CDATA[frameXz1yjK]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameXz1yjK_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameXz1yjK_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_209">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_209]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids1">
+			<item id="frame`frameBNp56I">
+				<item id="attr">
+					<item id="name"><![CDATA[frameBNp56I]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameBNp56I_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameBNp56I_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_203">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_203]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids2">
+			<item id="frame`frameV84Tp5">
+				<item id="attr">
+					<item id="name"><![CDATA[frameV84Tp5]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameV84Tp5_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameV84Tp5_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_204">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_204]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids3">
+			<item id="frame`frameG1Cc28">
+				<item id="attr">
+					<item id="name"><![CDATA[frameG1Cc28]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameG1Cc28_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameG1Cc28_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_205">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_205]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_more_btn1">
+			<item id="frame`framehB54L5">
+				<item id="attr">
+					<item id="name"><![CDATA[framehB54L5]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framehB54L5_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framehB54L5_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_210">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_210]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids4">
+			<item id="frame`framev7wnrd">
+				<item id="attr">
+					<item id="name"><![CDATA[framev7wnrd]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framev7wnrd_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framev7wnrd_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_211">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_211]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids5">
+			<item id="frame`frame47GOKl">
+				<item id="attr">
+					<item id="name"><![CDATA[frame47GOKl]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame47GOKl_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame47GOKl_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_212">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_212]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_more_btn2">
+			<item id="frame`frame372ku3">
+				<item id="attr">
+					<item id="name"><![CDATA[frame372ku3]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame372ku3_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame372ku3_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_213">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_213]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids6">
+			<item id="frame`frame878x38">
+				<item id="attr">
+					<item id="name"><![CDATA[frame878x38]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame878x38_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame878x38_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_215">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_215]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids7">
+			<item id="frame`frame4O4Xjl">
+				<item id="attr">
+					<item id="name"><![CDATA[frame4O4Xjl]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame4O4Xjl_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame4O4Xjl_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_216">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_216]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_grids8">
+			<item id="frame`framer1GcGV">
+				<item id="attr">
+					<item id="name"><![CDATA[framer1GcGV]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`framer1GcGV_left">
+					<item id="attr">
+						<item id="name"><![CDATA[framer1GcGV_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_217">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_217]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_video_more_btn12">
+			<item id="frame`frame8ON1zD">
+				<item id="attr">
+					<item id="name"><![CDATA[frame8ON1zD]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame8ON1zD_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame8ON1zD_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_214">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_214]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_audio_grids">
+			<item id="frame`frameY39iI5">
+				<item id="attr">
+					<item id="name"><![CDATA[frameY39iI5]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameY39iI5_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameY39iI5_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_218">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_218]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_audio_grids2">
+			<item id="frame`frameCpFhOB">
+				<item id="attr">
+					<item id="name"><![CDATA[frameCpFhOB]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameCpFhOB_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameCpFhOB_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_219">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_219]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_audio_grids21">
+			<item id="frame`frameib89GV">
+				<item id="attr">
+					<item id="name"><![CDATA[frameib89GV]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frameib89GV_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frameib89GV_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_220">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_220]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item id="nex_audio_grids211">
+			<item id="frame`frame5b5spr">
+				<item id="attr">
+					<item id="name"><![CDATA[frame5b5spr]]></item>
+					<item id="moveable"><![CDATA[true]]></item>
+					<item id="className"><![CDATA[frame move-span cl frame-1]]></item>
+					<item id="titles"><![CDATA[]]></item>
+				</item>
+				<item id="column`frame5b5spr_left">
+					<item id="attr">
+						<item id="name"><![CDATA[frame5b5spr_left]]></item>
+						<item id="className"><![CDATA[column frame-1-c]]></item>
+					</item>
+					<item id="block`portal_block_221">
+						<item id="attr">
+							<item id="name"><![CDATA[portal_block_221]]></item>
+							<item id="className"><![CDATA[block move-span]]></item>
+							<item id="titles"><![CDATA[]]></item>
+						</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</item>
+	<item id="blockdata">
+		<item id="block">
+			<item id="203">
+				<item id="bid"><![CDATA[203]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÐ¡±àÍÆ¼ö]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/6.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=202" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:45</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=291&size=400x230&key=39216a425269b73e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¶à²Ê¶¯¸Ð¿ìËÙÏÖ´úÊ±ÉÐ¼òÔ¼»ÃµÆÆ¬½Ú×à¸ÐÍ¼Æ¬¿ª³¡Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¶à²Ê¶¯¸Ð¿ìËÙÏÖ´úÊ±ÉÐ¼òÔ¼»ÃµÆÆ¬½Ú×à¸ÐÍ¼Æ¬¿ª³¡Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/3.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=199" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=287&size=400x230&key=2a312bc056975bcd" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÀÏ¾É»³¾ÉÀúÊ·ÕÕÆ¬µç×ÓÏà²áÊÓÆµÄ£°å</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÀÏ¾É»³¾ÉÀúÊ·ÕÕÆ¬µç×ÓÏà²áÊÓÆµÄ£°å</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º720x360</span>
+                                                    <span>¸ñÊ½£ºMP4</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[views]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908760]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="204">
+				<item id="bid"><![CDATA[204]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÈÈÃÅÍÆ¼ö]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908849]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="205">
+				<item id="bid"><![CDATA[205]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²Ä×îÐÂÍÆ¼ö]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908815]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="206">
+				<item id="bid"><![CDATA[206]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµÀà±ð]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<li class="nex_video_banner_icon1"><a href="http://t.cn/Aiux1eta" target="_blank">¾«Æ·ÊÓÆµÄ£°å</a></li>
+                <li class="nex_video_banner_icon2"><a href="http://t.cn/Aiux1eta" target="_blank">º£Á¿Í¸Ã÷Í¨µÀËØ²Ä</a></li>
+                <li class="nex_video_banner_icon3"><a href="http://t.cn/Aiux1eta" target="_blank">³¬ÇåÓÅÖÊÊµÅÄ</a></li>
+                <li class="nex_video_banner_icon4"><a href="http://t.cn/Aiux1eta" target="_blank">¶àÔª»¯ÅäÀÖÒôÐ§</a></li>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<li class=\"nex_video_banner_icon1\"><a href=\"#\" target=\"_blank\">¾«Æ·ÊÓÆµÄ£°å</a></li>
+                <li class=\"nex_video_banner_icon2\"><a href=\"#\" target=\"_blank\">º£Á¿Í¸Ã÷Í¨µÀËØ²Ä</a></li>
+                <li class=\"nex_video_banner_icon3\"><a href=\"#\" target=\"_blank\">³¬ÇåÓÅÖÊÊµÅÄ</a></li>
+                <li class=\"nex_video_banner_icon4\"><a href=\"#\" target=\"_blank\">¶àÔª»¯ÅäÀÖÒôÐ§</a></li>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908883]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="207">
+				<item id="bid"><![CDATA[207]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÈÈÃÅÊÓÆµËØ²ÄÀàÐÍ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<li>
+                	<div class="nex_stv_entry_box">
+                        <a href="http://t.cn/Aiux1eta" target="_blank">
+                        	<em class="nex_stv_icon_video"></em>
+                        	<img src="template/nex_sucai_190828/neoconex/extend_video/sort_1.gif" title="µ³ÕþÄ£°å" alt="µ³ÕþÄ£°å">
+                        	<div class="nex_stv_hover_center"><span>µ³ÕþÄ£°å</span></div>
+                        	<div class="nex_stv_hover_btm"><span>µ³ÕþÄ£°å</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class="nex_stv_entry_box">
+                        <a href="http://t.cn/Aiux1eta" target="_blank">
+                        	<em class="nex_stv_icon_video"></em>
+                        	<img src="template/nex_sucai_190828/neoconex/extend_video/sort_2.gif" title="¿Æ¼¼Ä£°å" alt="¿Æ¼¼Ä£°å">
+                        	<div class="nex_stv_hover_center"><span>¿Æ¼¼Ä£°å</span></div>
+                        	<div class="nex_stv_hover_btm"><span>¿Æ¼¼Ä£°å</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class="nex_stv_entry_box">
+                        <a href="http://t.cn/Aiux1eta" target="_blank">
+                        	<em class="nex_stv_icon_video"></em>
+                        	<img src="template/nex_sucai_190828/neoconex/extend_video/sort_3.gif" title="¿¨Í¨×ÖÄ»Ìõ" alt="¿¨Í¨×ÖÄ»Ìõ">
+                        	<div class="nex_stv_hover_center"><span>¿¨Í¨×ÖÄ»Ìõ</span></div>
+                        	<div class="nex_stv_hover_btm"><span>¿¨Í¨×ÖÄ»Ìõ</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class="nex_stv_entry_box">
+                        <a href="http://t.cn/Aiux1eta" target="_blank">
+                        	<em class="nex_stv_icon_video"></em>
+                        	<img src="template/nex_sucai_190828/neoconex/extend_video/sort_4.gif" title="ÊµÅÄ¾«Ñ¡" alt="ÊµÅÄ¾«Ñ¡">
+                        	<div class="nex_stv_hover_center"><span>ÊµÅÄ¾«Ñ¡</span></div>
+                        	<div class="nex_stv_hover_btm"><span>ÊµÅÄ¾«Ñ¡</span></div>
+                        </a>
+                    </div>
+                </li>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<li>
+                	<div class=\"nex_stv_entry_box\">
+                        <a href=\"#\" target=\"_blank\">
+                        	<em class=\"nex_stv_icon_video\"></em>
+                        	<img src=\"template/nex_sucai_190828/neoconex/extend_video/sort_1.gif\" title=\"µ³ÕþÄ£°å\" alt=\"µ³ÕþÄ£°å\">
+                        	<div class=\"nex_stv_hover_center\"><span>µ³ÕþÄ£°å</span></div>
+                        	<div class=\"nex_stv_hover_btm\"><span>µ³ÕþÄ£°å</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class=\"nex_stv_entry_box\">
+                        <a href=\"#\" target=\"_blank\">
+                        	<em class=\"nex_stv_icon_video\"></em>
+                        	<img src=\"template/nex_sucai_190828/neoconex/extend_video/sort_2.gif\" title=\"¿Æ¼¼Ä£°å\" alt=\"¿Æ¼¼Ä£°å\">
+                        	<div class=\"nex_stv_hover_center\"><span>¿Æ¼¼Ä£°å</span></div>
+                        	<div class=\"nex_stv_hover_btm\"><span>¿Æ¼¼Ä£°å</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class=\"nex_stv_entry_box\">
+                        <a href=\"#\" target=\"_blank\">
+                        	<em class=\"nex_stv_icon_video\"></em>
+                        	<img src=\"template/nex_sucai_190828/neoconex/extend_video/sort_3.gif\" title=\"¿¨Í¨×ÖÄ»Ìõ\" alt=\"¿¨Í¨×ÖÄ»Ìõ\">
+                        	<div class=\"nex_stv_hover_center\"><span>¿¨Í¨×ÖÄ»Ìõ</span></div>
+                        	<div class=\"nex_stv_hover_btm\"><span>¿¨Í¨×ÖÄ»Ìõ</span></div>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                	<div class=\"nex_stv_entry_box\">
+                        <a href=\"#\" target=\"_blank\">
+                        	<em class=\"nex_stv_icon_video\"></em>
+                        	<img src=\"template/nex_sucai_190828/neoconex/extend_video/sort_4.gif\" title=\"ÊµÅÄ¾«Ñ¡\" alt=\"ÊµÅÄ¾«Ñ¡\">
+                        	<div class=\"nex_stv_hover_center\"><span>ÊµÅÄ¾«Ñ¡</span></div>
+                        	<div class=\"nex_stv_hover_btm\"><span>ÊµÅÄ¾«Ñ¡</span></div>
+                        </a>
+                    </div>
+                </li>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908903]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="208">
+				<item id="bid"><![CDATA[208]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµVIPÁ´½Ó]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank">³ÉÎªÊÓÌýVIP</a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\">³ÉÎªÊÓÌýVIP</a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908603]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="209">
+				<item id="bid"><![CDATA[209]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµÓ°Òô±êÇ©]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<li><a href="http://t.cn/Aiux1eta" target="_blank">AEÄ£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">prÄ£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">»áÉù»áÓ°Ä£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">¿Æ¼¼Ä£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">MGÆ¬Í·Ä£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">4K³¬ÇåÊµÅÄ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">×ª³¡Ð§¹û</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">×ÖÄ»Ð§¹û</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">¿¨Í¨Ä£°å</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">»ðÑæÌØÐ§</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">×ÛÒÕÐ§¹û°ü×°</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">±¬Õ¨Ð§¹û</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">ÎÄ×ÖÌØÐ§</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">·ç¾°ÊµÅÄ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">ÆóÒµÐû´«ÅäÀÖ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">ÎÂÜ°ÀËÂþ»éÀñ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">ÇåÐÂ»¶¿ìÊæ³©</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">¼¤ÇéÓÎÏ·ÅäÀÖ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">ÓÅÑÅÖÐ¹ú·ç</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">»¶¿ì½ÚÈÕÅäÀÖ</a></li>
+                <li><a href="http://t.cn/Aiux1eta" target="_blank">Í¨ÓÃÁ÷ÐÐÒôÀÖ</a></li>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<li><a href=\"#\" target=\"_blank\">AEÄ£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">prÄ£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">»áÉù»áÓ°Ä£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">¿Æ¼¼Ä£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">MGÆ¬Í·Ä£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">4K³¬ÇåÊµÅÄ</a></li>
+                <li><a href=\"#\" target=\"_blank\">×ª³¡Ð§¹û</a></li>
+                <li><a href=\"#\" target=\"_blank\">×ÖÄ»Ð§¹û</a></li>
+                <li><a href=\"#\" target=\"_blank\">¿¨Í¨Ä£°å</a></li>
+                <li><a href=\"#\" target=\"_blank\">»ðÑæÌØÐ§</a></li>
+                <li><a href=\"#\" target=\"_blank\">×ÛÒÕÐ§¹û°ü×°</a></li>
+                <li><a href=\"#\" target=\"_blank\">±¬Õ¨Ð§¹û</a></li>
+                <li><a href=\"#\" target=\"_blank\">ÎÄ×ÖÌØÐ§</a></li>
+                <li><a href=\"#\" target=\"_blank\">·ç¾°ÊµÅÄ</a></li>
+                <li><a href=\"#\" target=\"_blank\">ÆóÒµÐû´«ÅäÀÖ</a></li>
+                <li><a href=\"#\" target=\"_blank\">ÎÂÜ°ÀËÂþ»éÀñ</a></li>
+                <li><a href=\"#\" target=\"_blank\">ÇåÐÂ»¶¿ìÊæ³©</a></li>
+                <li><a href=\"#\" target=\"_blank\">¼¤ÇéÓÎÏ·ÅäÀÖ</a></li>
+                <li><a href=\"#\" target=\"_blank\">ÓÅÑÅÖÐ¹ú·ç</a></li>
+                <li><a href=\"#\" target=\"_blank\">»¶¿ì½ÚÈÕÅäÀÖ</a></li>
+                <li><a href=\"#\" target=\"_blank\">Í¨ÓÃÁ÷ÐÐÒôÀÖ</a></li>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908613]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="210">
+				<item id="bid"><![CDATA[210]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[¸ü¶àÓÅÖÊ¾«Æ·Ä£°åÁ´½Ó]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank">²é¿´¸ü¶àÓÅÖÊ¾«Æ·Ä£°å</a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\">²é¿´¸ü¶àÓÅÖÊ¾«Æ·Ä£°å</a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908751]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="211">
+				<item id="bid"><![CDATA[211]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÊÓÆµÄ£°å]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/9.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=205" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:17</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=294&size=400x230&key=5a2b05ccf05f3aa8" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÖíÄê´ó¼ª×£¸£°ÝÄê¿ª³¡ÊÓÆµC4DÄ£°å</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÖíÄê´ó¼ª×£¸£°ÝÄê¿ª³¡ÊÓÆµC4DÄ£°å</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º720x360</span>
+                                                    <span>¸ñÊ½£ºVEG</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/8.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=204" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:10</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=293&size=400x230&key=83fbd2c2d500caeb" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>³ÇÊÐÐû´«Æ¬¹ÊÕÏ»­ÃæËºÁÑÃ«´ÌÌØÐ§ÐÅºÅËð»µ¶¯Ì¬ÊÓÆµ</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>³ÇÊÐÐû´«Æ¬¹ÊÕÏ»­ÃæËºÁÑÃ«´ÌÌØÐ§ÐÅºÅËð»µ¶¯Ì¬ÊÓÆµ</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/7.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=203" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">24:56</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=292&size=400x230&key=69b53c07c3ce7c75" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¿¨Í¨ÄÜÁ¿±¬Õ¨Ë®Á÷»ðÑæÑÌÎíÔªËØMG¶¯»­Ð§¹û</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¿¨Í¨ÄÜÁ¿±¬Õ¨Ë®Á÷»ðÑæÑÌÎíÔªËØMG¶¯»­Ð§¹û</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºVEG</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[9]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908529]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="212">
+				<item id="bid"><![CDATA[212]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÊµÅÄÊÓÆµ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/9.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=205" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:17</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=294&size=400x230&key=5a2b05ccf05f3aa8" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÖíÄê´ó¼ª×£¸£°ÝÄê¿ª³¡ÊÓÆµC4DÄ£°å</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÖíÄê´ó¼ª×£¸£°ÝÄê¿ª³¡ÊÓÆµC4DÄ£°å</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º720x360</span>
+                                                    <span>¸ñÊ½£ºVEG</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/8.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=204" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:10</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=293&size=400x230&key=83fbd2c2d500caeb" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>³ÇÊÐÐû´«Æ¬¹ÊÕÏ»­ÃæËºÁÑÃ«´ÌÌØÐ§ÐÅºÅËð»µ¶¯Ì¬ÊÓÆµ</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>³ÇÊÐÐû´«Æ¬¹ÊÕÏ»­ÃæËºÁÑÃ«´ÌÌØÐ§ÐÅºÅËð»µ¶¯Ì¬ÊÓÆµ</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/7.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=203" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">24:56</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=292&size=400x230&key=69b53c07c3ce7c75" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¿¨Í¨ÄÜÁ¿±¬Õ¨Ë®Á÷»ðÑæÑÌÎíÔªËØMG¶¯»­Ð§¹û</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¿¨Í¨ÄÜÁ¿±¬Õ¨Ë®Á÷»ðÑæÑÌÎíÔªËØMG¶¯»­Ð§¹û</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºVEG</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[9]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908572]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="213">
+				<item id="bid"><![CDATA[213]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[¸ü¶àÊÓÆµÄ£°å | ÊµÅÄÊÓÆµ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank">²é¿´¸ü¶àÊÓÆµÄ£°å | ÊµÅÄÊÓÆµ</a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\">²é¿´¸ü¶àÊÓÆµÄ£°å | ÊµÅÄÊÓÆµ</a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908601]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="214">
+				<item id="bid"><![CDATA[214]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[¸ü¶àÊÓÆµÔªËØ | ÊÓÆµÌØÐ§ | ÊÓÆµ±³¾°]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank">²é¿´¸ü¶àÊÓÆµÔªËØ | ÊÓÆµÌØÐ§ | ÊÓÆµ±³¾°</a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\">²é¿´¸ü¶àÊÓÆµÔªËØ | ÊÓÆµÌØÐ§ | ÊÓÆµ±³¾°</a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908615]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="215">
+				<item id="bid"><![CDATA[215]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÊÓÆµÔªËØ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908626]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="216">
+				<item id="bid"><![CDATA[216]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÊÓÆµÌØÐ§]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908628]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="217">
+				<item id="bid"><![CDATA[217]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÊÓÆµËØ²ÄÊÓÆµ±³¾°]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218021108603.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=211" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=300&size=400x230&key=ba8dbec31880fdd9" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>¹úÐÂÄê¿¨Í¨ÎèÊ¦ÍÅÔ²·¹Ï²Çì½ÚÈÕÖíÄê×£¸£Æ¬Í·</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218166492370.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=210" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=299&size=400x230&key=d6d1406c547fffc2" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Ê±×°Ðã¹«Ë¾¼ò½éÍøÕ¾Ðû´«</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="https://cloud.video.taobao.com//play/u/95292294/p/1/e/6/t/1/218113212907.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=209" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:25</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=298&size=400x230&key=bd16e044de7e521f" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>ÓÍÆáÆÃÄ«Ð§¹û¹«Ë¾Æ·ÅÆ½éÉÜLOGOÕ¹Ê¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º3840¡Á2160</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/12.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=208" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:15</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=297&size=400x230&key=856fe55c64d8d7db" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>CADÖÆÍ¼½¨ÖþÊ¦À¶Í¼»æÖÆÈýÎ¬±êÖ¾¿ª³¡½ÒÊ¾</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="demo/11.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=207" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">01:00</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=296&size=400x230&key=315cd384f2b7fd5e" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>Æû³µ¹ã¸æÐû´«¼ÝÊ»ÌåÑéÆû³µ¾­ÏúÉÌÐû´«Æ¬</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920¡Á1080</span>
+                                                    <span>¸ñÊ½£ºMOV</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd><dd data-video-url="http://119.29.228.92:8080/2019/1/22173468.mp4">
+                            	<a href="forum.php?mod=viewthread&amp;tid=206" target="_blank">
+                                    <div class="nex_video_grids_img">
+                                        <span class="right-time">00:35</span>
+                                        <video id="nex_video_covers" autoplay="autoplay" preload="none" loop="loop" poster="forum.php?mod=image&aid=295&size=400x230&key=bfa0175ab41cb093" src="">
+                                        </video>
+                                        <div class="nex_video_entb_btm"><span>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</span></div>
+                                        
+                                        <div class="nex_video_entb_hover_btm">
+                                            <div class="nex_video_entb_lbox">
+                                                <h5>»éÇìµäÀñË®Ä«»¨°êÌØÐ§À¸Ä¿°ü×°</h5>
+                                                <div class="nex_video_entb_tags">
+                                                    <span>·Ö±æÂÊ£º1920x1080</span>
+                                                    <span>¸ñÊ½£ºAEP</span>
+                                                </div>
+                                            </div>
+                                            <div class="nex_video_entb_rbox"><span>ÏÂÔØ</span></div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[46]]></item>
+					</item>
+					<item id="sortids"><![CDATA[8]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[dateline]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[6]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908727]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="218">
+				<item id="bid"><![CDATA[218]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÒôÆµ¾«Ñ¡]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=224" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=224" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=223" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=223" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=320&size=400x230&key=c725008c802e4b39) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=320&size=400x230&key=c725008c802e4b39) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=222" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Kc53nfazw40fhUFWlZUOV8ELSJRDc829iq3m7NPadh4P34TB5P.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=222" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=221" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=221" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[52]]></item>
+					</item>
+					<item id="sortids"><![CDATA[12]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[lastpost]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[9]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908845]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="219">
+				<item id="bid"><![CDATA[219]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÒôÆµÈÈÃÅÏÂÔØ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=221" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=221" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=320&size=400x230&key=c725008c802e4b39) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=320&size=400x230&key=c725008c802e4b39) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=222" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Kc53nfazw40fhUFWlZUOV8ELSJRDc829iq3m7NPadh4P34TB5P.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=222" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=223" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=223" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd> <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url(forum.php?mod=image&aid=319&size=400x230&key=25d268bd53875cf1) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="forum.php?mod=viewthread&amp;tid=224" target="_blank">ÇåÐÂµÄÁ÷ÐÐÒ¡¹öÒôÐ§</a></h5>
+                    <div class="nex_audio_types">¸ñÊ½£ºMP4</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="https://vfine.oss-cn-beijing.aliyuncs.com/qianku_no_watermark_music/Its581808748.mp3" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="forum.php?mod=viewthread&amp;tid=224" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[sort]]></item>
+				<item id="param">
+					<item id="tids"><![CDATA[]]></item>
+					<item id="fids">
+						<item id="0"><![CDATA[52]]></item>
+					</item>
+					<item id="sortids"><![CDATA[12]]></item>
+					<item id="recommend"><![CDATA[0]]></item>
+					<item id="orderby"><![CDATA[views]]></item>
+					<item id="lastpost"><![CDATA[0]]></item>
+					<item id="startrow"><![CDATA[0]]></item>
+					<item id="showitems"><![CDATA[9]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908758]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="220">
+				<item id="bid"><![CDATA[220]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[¸ü¶àÕý°æÉÌÓÃÒôÀÖ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<a href="http://t.cn/Aiux1eta" target="_blank">²é¿´¸ü¶àÕý°æÉÌÓÃÒôÀÖ</a>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<a href=\"#\" target=\"_blank\">²é¿´¸ü¶àÕý°æÉÌÓÃÒôÀÖ</a>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908836]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="221">
+				<item id="bid"><![CDATA[221]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÎªÊ²Ã´Ñ¡ÔñÎÒÃÇ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[<div class="nex_cvb_title">
+            <span>ÎªÊ²Ã´Ñ¡ÔñÐÇµãÊÓÆµÓ°Òô£¿</span>
+            <div class="clear"></div>
+        </div>
+        <div class="nex_why_list">
+            <ul>
+                <li>
+                    <i class="icon_item_1"></i>
+                    <h2>Õý°æ±£ÕÏ</h2>
+                    <p>ÇÖÈ¨Åâ¸¶ ×î¸ßÎÞÏÞ¶î</p>
+                </li>
+                <li>
+                    <i class="icon_item_2"></i>
+                    <h2>¼Û¸ñÓÅÊÆ</h2>
+                    <p>³äÖµVIP º£Á¿ÊÓÆµÈÎÒâÏÂÔØ</p>
+                </li>
+                <li>
+                    <i class="icon_item_3"></i>
+                    <h2>ÊÚÈ¨Ö¤Ã÷</h2>
+                    <p>ÏÂÔØÊÓÆµ×Ô¶¯Éú³ÉÊÚÈ¨Êé</p>
+                </li>
+                <li>
+                    <i class="icon_item_4"></i>
+                    <h2>·¢Æ±Ö§³Ö</h2>
+                    <p>ÔÚÏßÉêÇë·¢Æ± ·½±ã¿ì½Ý</p>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[<div class=\"nex_cvb_title\">
+            <span>ÎªÊ²Ã´Ñ¡ÔñÐÇµãÊÓÆµÓ°Òô£¿</span>
+            <div class=\"clear\"></div>
+        </div>
+        <div class=\"nex_why_list\">
+            <ul>
+                <li>
+                    <i class=\"icon_item_1\"></i>
+                    <h2>Õý°æ±£ÕÏ</h2>
+                    <p>ÇÖÈ¨Åâ¸¶ ×î¸ßÎÞÏÞ¶î</p>
+                </li>
+                <li>
+                    <i class=\"icon_item_2\"></i>
+                    <h2>¼Û¸ñÓÅÊÆ</h2>
+                    <p>³äÖµVIP º£Á¿ÊÓÆµÈÎÒâÏÂÔØ</p>
+                </li>
+                <li>
+                    <i class=\"icon_item_3\"></i>
+                    <h2>ÊÚÈ¨Ö¤Ã÷</h2>
+                    <p>ÏÂÔØÊÓÆµ×Ô¶¯Éú³ÉÊÚÈ¨Êé</p>
+                </li>
+                <li>
+                    <i class=\"icon_item_4\"></i>
+                    <h2>·¢Æ±Ö§³Ö</h2>
+                    <p>ÔÚÏßÉêÇë·¢Æ± ·½±ã¿ì½Ý</p>
+                </li>
+                <div class=\"clear\"></div>
+            </ul>
+        </div>]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567908900]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+			<item id="222">
+				<item id="bid"><![CDATA[222]]></item>
+				<item id="blockclass"><![CDATA[html_html]]></item>
+				<item id="blocktype"><![CDATA[0]]></item>
+				<item id="name"><![CDATA[ÆµµÀ±êÌâ]]></item>
+				<item id="title"><![CDATA[]]></item>
+				<item id="classname"><![CDATA[]]></item>
+				<item id="summary"><![CDATA[ÉÌÓÃ°æÈ¨ÊÓÌý¿â£¬Ó¦ÓÐ¾¡ÓÐ]]></item>
+				<item id="uid"><![CDATA[1]]></item>
+				<item id="username"><![CDATA[admin]]></item>
+				<item id="styleid"><![CDATA[0]]></item>
+				<item id="blockstyle"><![CDATA[]]></item>
+				<item id="picwidth"><![CDATA[0]]></item>
+				<item id="picheight"><![CDATA[0]]></item>
+				<item id="target"><![CDATA[blank]]></item>
+				<item id="dateformat"><![CDATA[Y-m-d]]></item>
+				<item id="dateuformat"><![CDATA[0]]></item>
+				<item id="script"><![CDATA[blank]]></item>
+				<item id="param">
+					<item id="content"><![CDATA[ÉÌÓÃ°æÈ¨ÊÓÌý¿â£¬Ó¦ÓÐ¾¡ÓÐ]]></item>
+					<item id="items"><![CDATA[10]]></item>
+				</item>
+				<item id="shownum"><![CDATA[10]]></item>
+				<item id="cachetime"><![CDATA[3600]]></item>
+				<item id="cachetimerange"><![CDATA[]]></item>
+				<item id="punctualupdate"><![CDATA[0]]></item>
+				<item id="hidedisplay"><![CDATA[0]]></item>
+				<item id="dateline"><![CDATA[1567909056]]></item>
+				<item id="notinherited"><![CDATA[0]]></item>
+				<item id="isblank"><![CDATA[0]]></item>
+			</item>
+		</item>
+		<item id="style">
+		</item>
+	</item>
+</root>

@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Threadtypes]]></item>
+	<item id="Version"><![CDATA[X3.4]]></item>
+	<item id="Time"><![CDATA[2019-10-04 01:08]]></item>
+	<item id="From"><![CDATA[DisM!Ó¦ÓÃÖÐÐÄ (https://dism.taobao.com/)]]></item>
+	<item id="Data">
+		<item id="0">
+			<item id="optionid"><![CDATA[13]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[11]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÌáÈ¡Âë]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_pw]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[¹ºÂòVIPÓÃ»§×é²é¿´ÌáÈ¡ÃÜÂë]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="status"><![CDATA[1]]></item>
+				<item id="usergroup"><![CDATA[1]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="maxlength"><![CDATA[]]></item>
+				<item id="inputsize"><![CDATA[]]></item>
+				<item id="profile"><![CDATA[]]></item>
+				<item id="defaultvalue"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="1">
+			<item id="optionid"><![CDATA[10]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[3]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[¸ñÊ½]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_geshi]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="2">
+			<item id="optionid"><![CDATA[11]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[5]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÉÏ´«Ê±¼ä]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_upload]]></item>
+			<item id="type"><![CDATA[calendar]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="3">
+			<item id="optionid"><![CDATA[7]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[4]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[·âÃæÍ¼]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_coverpic]]></item>
+			<item id="type"><![CDATA[image]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="4">
+			<item id="optionid"><![CDATA[9]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[2]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[´óÐ¡]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_size]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[MB]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="status"><![CDATA[0]]></item>
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="maxlength"><![CDATA[]]></item>
+				<item id="inputsize"><![CDATA[]]></item>
+				<item id="profile"><![CDATA[]]></item>
+				<item id="defaultvalue"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="5">
+			<item id="optionid"><![CDATA[8]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[1]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ËØ²ÄÃû³Æ]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_sc_name]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="6">
+			<item id="optionid"><![CDATA[157]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[108]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÒôÆµÈí¼þ]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_software]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="7">
+			<item id="optionid"><![CDATA[163]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[106]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÒôÆµÏÂÔØµØÖ·Á´½Ó]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_dw]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="8">
+			<item id="optionid"><![CDATA[164]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[107]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="protect"><![CDATA[]]></item>
+			<item id="title"><![CDATA[ÒôÆµÊÔÌýµØÖ·Á´½Ó]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_try]]></item>
+			<item id="type"><![CDATA[text]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="rules"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[0]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+		</item>
+		<item id="9">
+			<item id="optionid"><![CDATA[166]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[114]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÇéÐ÷]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_emotion]]></item>
+			<item id="type"><![CDATA[checkbox]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=<i>°²¾²</i>
+2=<i>±¯ÉË</i>
+3=<i>¸ÐÈË</i>
+4=<i>¸ã¹Ö</i>
+5=<i>½ôÕÅ</i>
+6=<i>½øÈ¡</i>
+7=<i>¿Ö²À</i>
+8=<i>ÀËÂþ</i>
+9=<i>Çá¿ì</i>
+10=<i>Ê·Ê«</i>
+11=<i>Ï²ÔÃ</i>
+12=<i>ÐüÄî</i>
+13=<i>ÆäËû</i>]]></item>
+			</item>
+		</item>
+		<item id="10">
+			<item id="optionid"><![CDATA[167]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[115]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[·ç¸ñ]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_style]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=<i>µç×Ó</i>
+2=<i>·Å¿Ë</i>
+3=<i>¹Åµä</i>
+4=<i>¾ôÊ¿</i>
+5=<i>À¶µ÷</i>
+6=<i>À×¹í</i>
+7=<i>Á÷ÐÐ</i>
+8=<i>ÃñÒ¥</i>
+9=<i>Ãñ×å</i>
+10=<i>Îû¹þ</i>
+11=<i>Ò¡¹ö</i>
+12=<i>ÖÐ¹ú·ç</i>
+13=<i>Ïç´å</i>
+14=<i>×Ú½Ì</i>]]></item>
+			</item>
+		</item>
+		<item id="11">
+			<item id="optionid"><![CDATA[168]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[116]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[³¡¾°]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_scene]]></item>
+			<item id="type"><![CDATA[checkbox]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=<i>ÓÎÏ·ÅäÀÖ</i>
+2=<i>Ó°ÊÓÅäÀÖ</i>
+3=<i>Ðû´«Æ¬ÅäÀÖ</i>
+4=<i>ÆóÒµÕþ¸®</i>
+5=<i>½ÚÈÕÅäÀÖ</i>
+6=<i>»éÀñÅäÀÖ</i>
+7=<i>¹ã¸æÅäÀÖ</i>
+8=<i>¶ÌÊÓÆµÅäÀÖ</i>]]></item>
+			</item>
+		</item>
+		<item id="12">
+			<item id="optionid"><![CDATA[169]]></item>
+			<item id="classid"><![CDATA[4]]></item>
+			<item id="displayorder"><![CDATA[117]]></item>
+			<item id="expiration"><![CDATA[0]]></item>
+			<item id="title"><![CDATA[ÀÖÆ÷]]></item>
+			<item id="description"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="identifier"><![CDATA[nex_Audio_instruments]]></item>
+			<item id="type"><![CDATA[radio]]></item>
+			<item id="unit"><![CDATA[]]></item>
+			<item id="permprompt"><![CDATA[]]></item>
+			<item id="typeid"><![CDATA[10]]></item>
+			<item id="name"><![CDATA[ÒôÆµËØ²Ä·¢²¼]]></item>
+			<item id="icon"><![CDATA[]]></item>
+			<item id="special"><![CDATA[1]]></item>
+			<item id="modelid"><![CDATA[0]]></item>
+			<item id="template"><![CDATA[<div class="nex_sucaiBox">
+	
+    <div class="nex_sucai_main">
+    	<div class="nex_sucai_pic">
+        	<div class="nex_sucai_Title">{nex_sc_name_value}</div>
+        	<div class="nex_audio_pic" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;">
+			
+			<div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+		</div>
+            <div class="nex_sucai_pic_txt">ËØ²Ä½éÉÜ£º±¾×÷Æ·ÄÚÈÝÎª{nex_sc_name_value}£¬ ¸ñÊ½Îª {nex_sc_geshi_value}£¬ {nex_sc_size}{nex_sc_size_value}{nex_sc_size_unit}£»ÇëÊ¹ÓÃÈí¼þ{nex_Audio_software_value}´ò¿ª£¬¸ÃËØ²ÄÎªÐÇµã»¥ÁªÔ­´´»òÒÑ»ñµÃÏà¹ØÈ¨ÀûÈËÊÚÈ¨£¬×÷Æ·£¨º¬Ô¤ÀÀÍ¼£©ÊÜÖø×÷È¨·¨±£»¤£¬Öø×÷È¨¼°Ïà¹ØÈ¨Àû¹é±¾ÍøÕ¾ËùÓÐ£¬Î´¾­Ðí¿ÉÈÎºÎÈË²»µÃÉÃ×ÔÊ¹ÓÃ¡£ <p>**ÉùÃ÷£º¸Ã×ÊÔ´À´×ÔÓÃ»§·ÖÏí£¬Èç¹ûËðº¦ÁËÄãµÄÈ¨Àû£¬ÇëÁªÏµÍøÕ¾¿Í·þ´¦Àí</p></div>
+        </div>
+        <div class="nex_sucai_info">
+        	<div class="nex_dl_fav">
+            	<ul>
+                	<li class="nex_dl_btn"><a href="{nex_Audio_dw_value}" target="_blank">ÏÂÔØËØ²Ä</a></li>
+                    <li class="nex_fav_btn"><a id="nex_favtocell">ÊÕ²Ø</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+            <div class="nex_scdetail_info">
+                <ul>
+                    <li><em>{nex_Audio_scene}£º</em>{nex_Audio_scene_value}</li>
+                    <li><em>{nex_Audio_software}£º</em><span class="nex_software">{nex_Audio_software_value}</span></li>
+                    <li><em>{nex_sc_geshi}£º</em><span class="nex_geshi">{nex_sc_geshi_value}</span></li>
+                    <li><em>{nex_sc_size}£º</em>{nex_sc_size_value}{nex_sc_size_unit}</li>
+                    <li><em>{nex_sc_upload}£º</em>{nex_sc_upload_value}</li>
+                    <li class="nex_getcode"><em>{nex_sc_pw}£º</em>{nex_sc_pw_value}</li>
+                </ul>
+            </div>
+            <div class="nex_bdshare">
+            	<h5>Ò»¼ü·ÖÏí£º</h5>
+            	<div class="bshare-custom nex_Sucai_share"><a title="·ÖÏíµ½»¨°ê" class="bshare-huaban"></a><a title="·ÖÏíµ½Î¢ÐÅ" class="bshare-weixin"></a><a title="·ÖÏíµ½ÐÂÀËÎ¢²©" class="bshare-sinaminiblog"></a><a title="·ÖÏíµ½QQºÃÓÑ" class="bshare-qqim"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone"></a><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script></script>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>]]></item>
+			<item id="stemplate"><![CDATA[<style type="text/css">
+.nex_top_bar_link{background:url(template/nex_sucai_190828/neoconex/fenlei/audio_bg.jpg) center no-repeat!important; background-size:cover;}
+</style>
+
+<div class="nex_audio_grids">
+    <dl>
+    [loop]
+        <dd class="nex_audio_term">
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>
+        [/loop]
+        <div class="clear"></div>
+    </dl>
+</div>]]></item>
+			<item id="ptemplate"><![CDATA[]]></item>
+			<item id="btemplate"><![CDATA[ <dd>
+            <div class="nex_audio_grids_inner">
+                <div class="nex_audio_grids_inner_l">
+                    <div class="nex_audio_grids_bgbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></div>
+                    <div class="nex_audio_grids_circlebox">
+                        <span class="nex_audio_grids_smallbox" style="background:url({nex_sc_coverpic_value}) center no-repeat; background-size:cover;"></span>
+                    </div>
+                </div>
+                <div class="nex_audio_grids_inner_r">
+                    <h5><a href="{subject_url}" target="_blank">{nex_sc_name_value}</a></h5>
+                    <div class="nex_audio_types">{nex_sc_geshi}£º{nex_sc_geshi_value}</div>
+                    <div class="nex_audio_play">
+                                            <audio preload="auto" controls>
+                                                <source src="{nex_Audio_try_value}" />
+                                            </audio>
+                                        </div>
+                                        <div class="nex_audio_grids_btnbox"><a href="{subject_url}" target="_blank">ÏÂÔØÒôÀÖ</a></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </dd>]]></item>
+			<item id="sortid"><![CDATA[10]]></item>
+			<item id="available"><![CDATA[1]]></item>
+			<item id="required"><![CDATA[1]]></item>
+			<item id="unchangeable"><![CDATA[0]]></item>
+			<item id="search"><![CDATA[2]]></item>
+			<item id="subjectshow"><![CDATA[1]]></item>
+			<item id="tpdescription"><![CDATA[]]></item>
+			<item id="ttdescription"><![CDATA[·¢²¼ÒôÆµËØ²Ä]]></item>
+			<item id="tpexpiration"><![CDATA[0]]></item>
+			<item id="ttexpiration"><![CDATA[0]]></item>
+			<item id="__protect">
+				<item id="usergroup"><![CDATA[]]></item>
+				<item id="verify"><![CDATA[]]></item>
+			</item>
+			<item id="__rules">
+				<item id="choices"><![CDATA[1=<i>±´Ë¹</i>
+2=<i>´ò»÷ÀÖ</i>
+3=<i>¸ÖÇÙ</i>
+4=<i>¹ÜÏÒÀÖ</i>
+5=<i>ºÏ³ÉÆ÷</i>
+6=<i>¼ªËû</i>
+7=<i>¼üÅÌÀÖÆ÷</i>
+8=<i>ÈËÉù</i>]]></item>
+			</item>
+		</item>
+	</item>
+</root>

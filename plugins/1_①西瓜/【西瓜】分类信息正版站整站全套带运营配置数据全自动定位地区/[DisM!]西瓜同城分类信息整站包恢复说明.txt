@@ -1,0 +1,129 @@
+准备工作：
+确保你已准备好一个新站点环境：
+域名已经解析并绑定到主机；
+数据库已经建立好；
+
+然后：
+用编辑器（非记事本，比如EditPlus）
+链接：https://pan.baidu.com/s/1LksCgkxZUBmPzCQn6NW9yQ 
+提取码：gk8a
+
+打开 xigua.sql
+Ctrl + H 批量替换：
+http://127.0.0.1/xigua/
+替换为：
+http(s)://你的域名/    【比如你的域名是  https://www.baidu.com  https开头或http开头，带/结尾】
+
+
+替换完后保存。
+
+然后用数据库管理软件 phpmyadmin 导入 xigua.sql到你准备好的一个空的论坛数据库中，
+
+
+然后 上传  xigua.zip 到你论坛根目录，并在线解压出来。（解压后删除 xigua.zip）；【也可以先桌面右键 解压到 xigua/，然后FTP上传解压出来的xigua/里面所有文件到你论坛根目录】
+
+
+配置数据库连接信息：【3处修改位置】
+编辑：
+①\config\config_global.php
+其中：
+$_config['db']['1']['dbuser'] = '你的数据库用户名';
+$_config['db']['1']['dbpw'] = '你的数据库密码';
+$_config['db']['1']['dbcharset'] = 'utf8';
+$_config['db']['1']['pconnect'] = '0';
+$_config['db']['1']['dbname'] = '你的数据库库名';
+
+②\config\config_ucenter.php
+其中：
+define('UC_DBUSER', '你的数据库用户名');
+define('UC_DBPW', '你的数据库密码');
+define('UC_DBNAME', '你的数据库库名');
+
+//第11行，需要修改的:
+define('UC_DBTABLEPRE', '`你的数据库库名`.pre_ucenter_');
+
+//第16行，需要修改的:
+define('UC_API', 'http://127.0.0.1/xigua/uc_server');
+改为：
+define('UC_API', 'http://你的域名/uc_server');
+
+③\uc_server\data\config.inc.php
+define('UC_DBUSER', '你的数据库用户名');
+define('UC_DBPW', '你的数据库密码');
+define('UC_DBNAME', '你的数据库库名');
+
+
+解压或者上传好后，直接访问 http://你的域名/admin.php
+账号：admin
+密码：admin
+进去更新缓存，
+
+然后修改UC通信链接：http://你的域名/uc_server/
+登陆密码：admin
+
+点击左侧应用管理——编辑——输入你的应用的主 URL:（比如 https://www.baidu.com  结尾请不要加“/” ），提交保存。
+附：
+通信失败处理方法：
+点击编辑：复制  通信密钥，
+到：http://你的域名/admin.php?action=setting&operation=uc
+UCenter 通信密钥: 填入你的复制的，提交保存。
+
+
+修改密码链接： http://你的域名/home.php?mod=spacecp&ac=profile&op=password
+修改UC创始人密码链接：http://你的域名/uc_server/，点击左侧菜单——管理员——修改UCenter创始人密码
+附：
+忘记UC创始人密码 不用愁 教你怎么找回创始人密码
+https://www.discuz.net/thread-2604142-1-1.html
+(出处: Discuz! 官方站)
+
+
+【重要！！！】
+需要对接公众服务号appid、appsecert的地方：
+http://你的域名/admin.php?action=plugins&operation=config&do=5   【西瓜登陆插件】
+
+http://你的域名/admin.php?action=plugins&operation=config&do=6  【西瓜模板消息插件】
+
+http://你的域名/admin.php?action=plugins&operation=config&do=11  【西瓜分类信息插件】
+
+http://你的域名/admin.php?action=plugins&operation=config&do=24   【西瓜多图上传插件】
+
+
+公众号端需要设置的地方：
+①登陆公众号——左侧开发——开发配置——获取
+[服务号]开发者ID(AppID):
+[服务号]AppSecret:
+并添加你服务器公网IP到——IP白名单
+
+②在公众号右上角——点击头像——功能设置：
+分别在：
+业务域名：
+JS接口安全域名：
+网页授权域名：
+按照提示，都添加好你自己的域名
+
+③登陆微信商户平台：
+https://pay.weixin.qq.com/
+获取商户号，设置支付配置：
+https://pay.weixin.qq.com/index.php/extend/pay_setting
+其中：支付授权目录
+填写你域名根域，比如说：https://www.baidu.com/
+下载微信支付证书：https://pay.weixin.qq.com/index.php/core/cert/api_cert
+先设置 设置API密钥，后 申请证书 【先设置支付Key，后下载支付证书】
+下载后的证书解压出来的文件上传到：
+/source/plugin/xigua_hb/lib/wxpay/cert/  【西瓜分类】
+
+
+④腾讯地图key设置的地方：
+http://你的域名/admin.php?action=plugins&operation=config&do=19
+查找：
+【地图】腾讯地图key1:
+【地图】腾讯地图key2:
+获取地址：
+先完成腾讯地图开发者认证：https://lbs.qq.com/dev/console/user/info
+再：创建2个key【是创建 2个！！！】
+创建地址：https://lbs.qq.com/dev/console/key/manage
+注意：
+启用产品勾选：JavascriptAPI、地图组件、地图SDK ( Android/iOS )、WebServiceAPI
+其中：Unity地图SDK ——> 不用勾选
+      WebServiceAPI ——> 选择  域名白名单，并 留空。
+然后保存，另外一个Key同上设置。
